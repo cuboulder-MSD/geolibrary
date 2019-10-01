@@ -1,0 +1,311 @@
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20170824</CreaDate>
+    <CreaTime>12533200</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+    <SyncOnce>FALSE</SyncOnce>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">BTPrairieDogColonyPotentialOccurrence11082018</itemName>
+        <imsContentType Sync="TRUE">002</imsContentType>
+        <nativeExtBox>
+          <westBL Sync="TRUE">472903.006700</westBL>
+          <eastBL Sync="TRUE">763240.440000</eastBL>
+          <southBL Sync="TRUE">4094500.532900</southBL>
+          <northBL Sync="TRUE">4543207.750000</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+        <itemLocation>
+          <linkage Sync="TRUE">file://\\dowftcsde\gis\Projects\SAM\NDIS\2018\shp\BTPrairieDogColonyPotentialOccurrence11082018.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </itemLocation>
+        <itemSize Sync="TRUE">0.000</itemSize>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Projected</type>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+        <projcsn Sync="TRUE">NAD_1983_UTM_Zone_13N</projcsn>
+        <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_13N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-105.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26913]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26913&lt;/WKID&gt;&lt;LatestWKID&gt;26913&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+      </coordRef>
+      <lineage>
+      </lineage>
+    </DataProperties>
+    <SyncDate>20181108</SyncDate>
+    <SyncTime>14235600</SyncTime>
+    <ModDate>20181108</ModDate>
+    <ModTime>14235600</ModTime>
+    <scaleRange>
+      <minScale>150000000</minScale>
+      <maxScale>5000</maxScale>
+    </scaleRange>
+    <ArcGISProfile>FGDC</ArcGISProfile>
+  </Esri>
+  <dataIdInfo>
+    <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+    <dataLang>
+      <languageCode value="eng" Sync="TRUE" />
+      <countryCode value="USA" Sync="TRUE" />
+    </dataLang>
+    <idCitation>
+      <resTitle Sync="FALSE">Black-tailed Prairie Dog Colony Potential Occurrence</resTitle>
+      <presForm>
+        <PresFormCd value="005" Sync="TRUE" />
+      </presForm>
+    </idCitation>
+    <spatRpType>
+      <SpatRepTypCd value="001" Sync="TRUE" />
+    </spatRpType>
+    <dataExt>
+      <geoEle xmlns="">
+        <GeoBndBox esriExtentType="search">
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+          <westBL Sync="TRUE">-105.322387</westBL>
+          <eastBL Sync="TRUE">-101.870302</eastBL>
+          <northBL Sync="TRUE">41.040093</northBL>
+          <southBL Sync="TRUE">36.959817</southBL>
+        </GeoBndBox>
+      </geoEle>
+    </dataExt>
+    <searchKeys>
+      <keyword>Wildlife</keyword>
+      <keyword>Distribution</keyword>
+      <keyword>Colorado</keyword>
+      <keyword>Black-tailed Prairie Dog</keyword>
+      <keyword>Colony Potential Occurrence</keyword>
+    </searchKeys>
+    <idPurp>This is part of the Natural Diversity Information Source, which provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.</idPurp>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;BTPrairieDogColonyPotentialOccurrence is an ESRI SDE Feature Class depicting the probability of black-tailed prairie dog colonies occurring within the Overall Range within Colorado. &lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;This information was derived from field personnel. A variety of data capture techniques were used including implementation of the SmartBoard Interactive Whiteboard using stand-up, real-time digitizing at various scales (Cowardin, M., M. Flenner. March 2003. Maximizing Mapping Resources. GeoWorld 16(3):32-35).&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;CPW staff delineated and categorized these areas of potential occurrence based on the results of a 2016 rangewide survey (see &lt;/SPAN&gt;&lt;A href="http://cpw.state.co.us/Documents/WildlifeSpecies/SpeciesOfConcern/BlackTailedPrairieDog/BTPD-WEST-Report-2016.pdf"&gt;&lt;SPAN&gt;Howlin, S., J. Mitchell. December 2016. Monitoring Black-Tailed Prairie Dogs in Colorado with the 2015 NAIP Imagery&lt;/SPAN&gt;&lt;/A&gt;&lt;SPAN&gt;.)&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;These data are updated as needed and were last updated in 2017.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+    <idCredit>Colorado Parks and Wildlife Species Coordinator.</idCredit>
+    <resConst>
+      <Consts>
+        <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+      </Consts>
+    </resConst>
+  </dataIdInfo>
+  <mdLang>
+    <languageCode value="eng" Sync="TRUE" />
+    <countryCode value="USA" Sync="TRUE" />
+  </mdLang>
+  <mdChar>
+    <CharSetCd value="004" Sync="TRUE" />
+  </mdChar>
+  <distInfo>
+    <distFormat>
+      <formatName Sync="TRUE">Shapefile</formatName>
+    </distFormat>
+    <distTranOps>
+      <transSize Sync="TRUE">0.000</transSize>
+    </distTranOps>
+  </distInfo>
+  <mdHrLv>
+    <ScopeCd value="005" Sync="TRUE" />
+  </mdHrLv>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode code="26913" Sync="TRUE" />
+        <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+        <idVersion Sync="TRUE">6.13(3.0.1)</idVersion>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <geometObjs Name="BTPrairieDogColonyPotentialOccurrence11082018">
+        <geoObjTyp>
+          <GeoObjTypCd value="002" Sync="TRUE">
+          </GeoObjTypCd>
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">0</geoObjCnt>
+      </geometObjs>
+      <topLvl>
+        <TopoLevCd value="001" Sync="TRUE">
+        </TopoLevCd>
+      </topLvl>
+    </VectSpatRep>
+  </spatRepInfo>
+  <spdoinfo>
+    <ptvctinf>
+      <esriterm Name="BTPrairieDogColonyPotentialOccurrence11082018">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom code="4" Sync="TRUE">
+        </efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">0</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <eainfo>
+    <detailed xmlns="" Name="BTPrairieDogColonyPotentialOccurrence11082018">
+      <enttyp>
+        <enttypl Sync="TRUE">BTPrairieDogColonyPotentialOccurrence11082018</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">0</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">FID</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SHAPE</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">Comments</attrlabl>
+        <attalias Sync="TRUE">Comments</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">PotentialO</attrlabl>
+        <attalias Sync="TRUE">PotentialO</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">1</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">ACTIVITYCO</attrlabl>
+        <attalias Sync="TRUE">ACTIVITYCO</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">INPUT_ID</attrlabl>
+        <attalias Sync="TRUE">INPUT_ID</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">INPUT_DATE</attrlabl>
+        <attalias Sync="TRUE">INPUT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDITOR_NAM</attrlabl>
+        <attalias Sync="TRUE">EDITOR_NAM</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDITOR_DAT</attrlabl>
+        <attalias Sync="TRUE">EDITOR_DAT</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STAr</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STAr</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STLe</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STLe</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+  </eainfo>
+  <mdDateSt Sync="TRUE">20181108</mdDateSt>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiimySLFG0jnCoCxOM4AoAdRWfFLNcPLKs7rCzfugEA+UAc8jPJz+GKa0k8UgEly
+3lk8Odox9flx+tcrxlNNorlZpUVQladFV1nkZc/MAFzj1HH+eaYbhn2rDeNIxI+7sPGeT09KX12n
+5hys0qKzfOmcAwyzyKed21FGPbI5pd103CvMp/vOEwPypfXafmHKzRorIFwVJ/fzzlhk7MYI7EAc
+ge4p0UU8kokeWZI/7nmHn09wP1+nceNp9mHKzVoqnCuy7UB3IMbZDOSOq+pq5XRSqKpHmQmrBRRR
+WggooooAKKKKACiiigAooooAKKKKACiiigApGUOjKehGKWmySJDG0kjBUUZJNAGTbOyjzXc+WJHh
+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
+UUAf/9k=</Data>
+    </Thumbnail>
+  </Binary>
+</metadata>

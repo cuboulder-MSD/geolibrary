@@ -1,0 +1,467 @@
+<metadata>
+  <eainfo>
+    <detailed xmlns="" Name="ElkSummerConcentrationArea11082018">
+      <attr xmlns="">
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+        <attalias Sync="TRUE">SOURCE</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDIT_DATE</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl>Comments</attrlabl>
+        <attalias Sync="TRUE">COMMENTS</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SHAPE</attrlabl>
+        <attalias Sync="TRUE">ACTIVITYCO</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SOURCE</attrlabl>
+        <attalias Sync="TRUE">EDIT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">COMMENTS</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Distributi</attrlabl>
+        <attalias Sync="TRUE">Distributi</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_ID</attrlabl>
+        <attalias Sync="TRUE">INPUT_ID</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_DATE</attrlabl>
+        <attalias Sync="TRUE">INPUT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDITOR_NAM</attrlabl>
+        <attalias Sync="TRUE">EDITOR_NAM</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <enttyp>
+        <enttypl Sync="TRUE">ElkSummerConcentrationArea11082018</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">0</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STAr</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STAr</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STLe</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STLe</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+  </eainfo>
+  <Esri>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">ElkSummerConcentrationArea11082018</itemName>
+        <nativeExtBox>
+          <westBL Sync="TRUE">145713.378700</westBL>
+          <eastBL Sync="TRUE">560733.769600</eastBL>
+          <southBL Sync="TRUE">4094075.737800</southBL>
+          <northBL Sync="TRUE">4546734.809900</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+        <itemLocation>
+          <linkage Sync="TRUE">file://\\dowftcsde\gis\Projects\SAM\NDIS\2018\shp\ElkSummerConcentrationArea11082018.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </itemLocation>
+        <imsContentType export="False">002</imsContentType>
+        <itemSize Sync="TRUE">0.000</itemSize>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Projected</type>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <projcsn Sync="TRUE">NAD_1983_UTM_Zone_13N</projcsn>
+        <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_13N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-105.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26913]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26913&lt;/WKID&gt;&lt;LatestWKID&gt;26913&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+        <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+      </coordRef>
+      <lineage>
+      </lineage>
+    </DataProperties>
+    <SyncDate>20181108</SyncDate>
+    <SyncTime>13484500</SyncTime>
+    <ModDate>20181108</ModDate>
+    <ModTime>13484500</ModTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>FALSE</SyncOnce>
+    <ArcGISProfile>FGDC</ArcGISProfile>
+    <CreaDate>20170606</CreaDate>
+    <CreaTime>07471100</CreaTime>
+    <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+  </Esri>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACiiigAooooAx9C8W6T4laVNPuxNLEMvE6NHIBkjdtcA4yCM4xxWxXnd74e1HwubweGtJk8m1gX
+7CjXrGIOzZZfLznYCuSvU5+XGcjprO4m8TaIyNcrY3qS7ZltZMmMq2QrYO5dy7SVyCA2M1zwqSbc
+ZRd19z9P+CNo3qK4/wAAnUNQghvrvVBdiGD7G8UasEd1IPmnLt83UEc4JIJyMDsK1hLnXMhbBRXL
++I5ZNQ1L+yZrlLKzkRJFEbbZbk5fcisemNqk7cnkcjNPtbZ7bV9PCXV0R84fz7h2V0CYCYJILZ2k
+H7xCMST827zJ5lShilhLPmf3Gig3HmOlorMku4dQ1W3httViWW0dpLizhdGeRdrLtcdVAZgeMcqO
+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
+AP/Z</Data>
+    </Thumbnail>
+  </Binary>
+  <mdChar>
+    <CharSetCd value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd value="005" />
+  </mdHrLv>
+  <mdContact>
+    <rpIndName>Seth McClean</rpIndName>
+    <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+    <rpPosName>GIS Unit Supervisor</rpPosName>
+    <role>
+      <RoleCd value="007" />
+    </role>
+    <rpCntInfo>
+      <cntAddress addressType="both">
+        <delPoint>317 W Prospect Road</delPoint>
+        <city>Fort Collins</city>
+        <adminArea>CO</adminArea>
+        <postCode>80526</postCode>
+        <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+        <country>UNITED STATES</country>
+      </cntAddress>
+      <cntPhone>
+        <voiceNum>970-472-4324</voiceNum>
+      </cntPhone>
+    </rpCntInfo>
+  </mdContact>
+  <dataIdInfo>
+    <idPurp>This is part of the Natural Diversity Information Source, which provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.</idPurp>
+    <idCredit>Colorado Parks and Wildlife Biologists, District Wildlife Managers, and Researchers.</idCredit>
+    <resConst>
+      <Consts>
+        <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+      </Consts>
+    </resConst>
+    <dataExt>
+      <geoEle>
+        <GeoBndBox esriExtentType="search">
+          <westBL>-109.31</westBL>
+          <eastBL>-101.73</eastBL>
+          <southBL>36.85</southBL>
+          <northBL>41.19</northBL>
+        </GeoBndBox>
+      </geoEle>
+      <exDesc>State of Colorado</exDesc>
+    </dataExt>
+    <searchKeys>
+      <keyword>Wildlife</keyword>
+      <keyword>Distribution</keyword>
+      <keyword>Colorado</keyword>
+      <keyword>American Elk</keyword>
+      <keyword>Summer Concentration Area</keyword>
+    </searchKeys>
+    <placeKeys>
+      <keyword>Colorado</keyword>
+    </placeKeys>
+    <idCitation>
+      <date>
+        <pubDate>2018-11-08T00:00:00</pubDate>
+      </date>
+      <resEd>2018</resEd>
+      <resEdDate>20181108</resEdDate>
+      <citRespParty>
+        <rpIndName>Seth McClean</rpIndName>
+        <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+        <rpPosName>GIS Unit Supervisor</rpPosName>
+        <role>
+          <RoleCd value="007" />
+        </role>
+      </citRespParty>
+      <resTitle Sync="FALSE">Elk Summer Concentration Area</resTitle>
+      <presForm>
+        <PresFormCd value="005" Sync="TRUE" />
+      </presForm>
+    </idCitation>
+    <dataLang>
+      <languageCode value="eng" />
+      <countryCode value="USA" Sync="TRUE" />
+    </dataLang>
+    <dataChar>
+      <CharSetCd value="004" />
+    </dataChar>
+    <spatRpType>
+      <SpatRepTypCd value="001" />
+    </spatRpType>
+    <suppInfo>These data are updated on a four year rotation with one of the four Colorado Parks and Wildlife Regions updated each year.  The data are not updated on a statewide level annually.  Last Regional Updates SE:2016, SW:2015, NW:2018, NE:2017.  Calendar date refers to the most current date the data has been published.
+
+While a complete data review and the majority of data updates occur during these scheduled Regional Updates, changes to the data in any region may occur annually based on new information obtained through telemetry and field studies.  It is recommended that these data be downloaded annually.</suppInfo>
+    <idStatus>
+      <ProgCd value="004" />
+    </idStatus>
+    <idPoC>
+      <rpIndName>Seth McClean</rpIndName>
+      <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+      <rpPosName>GIS Unit Supervisor</rpPosName>
+      <role>
+        <RoleCd value="007" />
+      </role>
+      <rpCntInfo>
+        <cntAddress addressType="both">
+          <delPoint>317 W Prospect Rd</delPoint>
+          <city>Fort Collins</city>
+          <adminArea>CO</adminArea>
+          <postCode>80526</postCode>
+          <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+          <country>UNITED STATES</country>
+        </cntAddress>
+        <cntPhone>
+          <voiceNum>970-472-4324</voiceNum>
+        </cntPhone>
+      </rpCntInfo>
+    </idPoC>
+    <resMaint>
+      <maintFreq>
+        <MaintFreqCd value="008" />
+      </maintFreq>
+      <dateNext>2019-11-08T00:00:00</dateNext>
+      <maintScp>
+        <ScopeCd value="009" />
+      </maintScp>
+    </resMaint>
+    <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;ElkSummerConcentrationArea is an ESRI SDE Feature Class showing elk summer concentration areas. This dataset represents those areas where elk concentrate from mid-June through mid-August. High quality forage, security, and lack of disturbance are characteristics of these areas to meet the high energy demands of lactation, calf rearing, antler growth, and general preparation for the rigors of fall and winter. &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;This information was derived from field personnel. A variety of data capture techniques were used including drawing on mylar overlays at 1:50,000 scale USGS county mapsheets and implementation of the SmartBoard Interactive Whiteboard using stand-up, real-time digitizing at various scales (Cowardin, M., M. Flenner. March 2003. Maximizing Mapping Resources. GeoWorld 16(3):32-35).&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;</idAbs>
+    <tpCat>
+      <TopicCatCd value="002" />
+    </tpCat>
+    <tpCat>
+      <TopicCatCd value="007" />
+    </tpCat>
+  </dataIdInfo>
+  <mdMaint>
+    <maintFreq>
+      <MaintFreqCd value="008" />
+    </maintFreq>
+    <dateNext>2019-11-08T0:00:00</dateNext>
+  </mdMaint>
+  <mdConst>
+    <Consts>
+      <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+    </Consts>
+  </mdConst>
+  <mdLang>
+    <languageCode value="eng" Sync="TRUE" />
+    <countryCode value="USA" Sync="TRUE" />
+  </mdLang>
+  <distInfo>
+    <distFormat>
+      <formatName Sync="TRUE">Shapefile</formatName>
+    </distFormat>
+    <distTranOps>
+      <transSize Sync="TRUE">0.000</transSize>
+    </distTranOps>
+  </distInfo>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode code="26913" Sync="TRUE" />
+        <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+        <idVersion Sync="TRUE">6.13(3.0.1)</idVersion>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <geometObjs Name="ElkSummerConcentrationArea11082018">
+        <geoObjTyp>
+          <GeoObjTypCd value="002" Sync="TRUE">
+          </GeoObjTypCd>
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">0</geoObjCnt>
+      </geometObjs>
+      <topLvl>
+        <TopoLevCd value="001" Sync="TRUE">
+        </TopoLevCd>
+      </topLvl>
+    </VectSpatRep>
+  </spatRepInfo>
+  <spdoinfo>
+    <ptvctinf>
+      <esriterm Name="ElkSummerConcentrationArea11082018">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom code="4" Sync="TRUE">
+        </efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">0</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <mdDateSt Sync="TRUE">20181108</mdDateSt>
+</metadata>

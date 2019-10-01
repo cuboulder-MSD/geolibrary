@@ -1,0 +1,535 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>COLORADO DIVISION OF WILDLIFE</origin>
+        <pubdate>20040805</pubdate>
+        <pubtime>000000</pubtime>
+        <title Sync="TRUE">Boreal Toad Overall Range</title>
+        <geoform Sync="TRUE">vector digital data</geoform>
+        <pubinfo>
+          <pubplace>FORT COLLINS, COLORADO</pubplace>
+          <publish>COLORADO DIVISION OF WILDLIFE</publish>
+        </pubinfo>
+        <onlink>NA</onlink>
+        <ftname Sync="TRUE">NonSAM.DBO.BorealToadOverallRange</ftname>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>BorealToadOverallRange is an ESRI SDE Feature Class showing Overall Range for Boreal Toad (Bufo boreas) in Colorado.  Overall Range is defined as the area that encompasses all known activity areas within the observed range of a population of Boreal Toads. This information was derived from field personnel. A variety of data capture techniques were used including drawing on mylar overlays at 1:50,000 scale USGS county mapsheets and implementation of the SmartBoard Interactive Whiteboard using stand-up, real-time digitizing at various scales (Cowardin, M., M. Flenner. March 2003. Maximizing Mapping Resources. GeoWorld 16(3):32-35).</abstract>
+      <purpose>This is part of the Natural Diversity Information Source, which provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.</purpose>
+      <supplinf>The data is updated on a statewide level through the Wildlife Conservation Section Aquatic/Herptile Coordinator.</supplinf>
+      <langdata Sync="TRUE">en</langdata>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1995</begdate>
+          <enddate>2007</enddate>
+        </rngdates>
+        <sngdate>
+          <caldate>2012</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc Sync="TRUE">-108.012024</westbc>
+        <eastbc Sync="TRUE">-105.285246</eastbc>
+        <northbc Sync="TRUE">40.998141</northbc>
+        <southbc Sync="TRUE">37.541956</southbc>
+      </bounding>
+      <lboundng>
+        <leftbc Sync="TRUE">246511.236100</leftbc>
+        <rightbc Sync="TRUE">474812.817700</rightbc>
+        <bottombc Sync="TRUE">4158865.300300</bottombc>
+        <topbc Sync="TRUE">4538593.901100</topbc>
+      </lboundng>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>NONE</themekt>
+        <themekey>Wildlife, Distribution, Colorado, Boreal Toads, Breeding sites, Bufo boreas boreas, Batrachochytrium dendrobatitis, Bd.</themekey>
+      </theme>
+      <place>
+        <placekey>COLORADO</placekey>
+      </place>
+    </keywords>
+    <accconst>Boreal toad breeding sites should be considered as "sensitive" information, and the exact location of such features should not be made available to the general public. The location data is intended to be of use to resource managers for land use planning and evaluations, and for long term monitoring of site status and future conservation efforts.</accconst>
+    <useconst>This wildlife distribution map is a product and property of Colorado Division of Wildlife, a division of the Colorado Department of Natural Resources.  Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced.  The information portrayed on these maps should not replace field studies necessary for more localized planning efforts.  The data are gathered at a variety of scales; discrepancies may become apparent at larger scales.  The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions.  Animal distributions are fluid; animal populations and their habitats are dynamic.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>WILDLIFE GIS</cntper>
+          <cntorg>COLORADO DIVISION OF WILDLIFE</cntorg>
+        </cntperp>
+        <cntpos>WILDLIFE GIS TEAM LEAD</cntpos>
+        <cntaddr>
+          <addrtype>MAILING AND PHYSICAL ADDRESS</addrtype>
+          <address>317 W. PROSPECT AVE.</address>
+          <city>FORT COLLINS</city>
+          <state>CO</state>
+          <postal>80526</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>970-472-4324</cntvoice>
+        <cntfax>970-472-4458</cntfax>
+        <cntemail>jon.kindler@state.co.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browset>JPG</browset>
+    </browse>
+    <datacred>The data was collected by the Colorado Parks and Wildlife, Boreal Toad Recovery Team, which includes Colorado Natural Heritage Program, US Forest Service, US Geological Service, and private contractors.</datacred>
+    <native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.5.1450</native>
+    <natvform Sync="TRUE">SDE Feature Class</natvform>
+  </idinfo>
+  <dataqual>
+    <lineage>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct Sync="TRUE">Vector</direct>
+    <ptvctinf>
+      <esriterm Name="BorealToadOverallRange11082018">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom code="4" Sync="TRUE">
+        </efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">0</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <planci>
+          <plance Sync="TRUE">coordinate pair</plance>
+          <coordrep>
+            <absres Sync="TRUE">0.000100</absres>
+            <ordres Sync="TRUE">0.000100</ordres>
+          </coordrep>
+          <plandu Sync="TRUE">meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+        <ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+        <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+        <denflat Sync="TRUE">298.257222</denflat>
+      </geodetic>
+      <cordsysn>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <projcsn Sync="TRUE">NAD_1983_UTM_Zone_13N</projcsn>
+      </cordsysn>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altres Sync="TRUE">1.000000</altres>
+        <altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed Name="BorealToadOverallRange11082018">
+      <enttyp>
+        <enttypl Sync="TRUE">BorealToadOverallRange11082018</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">0</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_DATE</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+        <attalias Sync="TRUE">WATERSHED</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">WATERSHED</attrlabl>
+        <attalias Sync="TRUE">NAME</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">50</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">ACTIVITYCO</attrlabl>
+        <attalias Sync="TRUE">ACTIVITYCO</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">NAME</attrlabl>
+        <attalias Sync="TRUE">SOURCE</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SOURCE</attrlabl>
+        <attalias Sync="TRUE">EDIT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_ID</attrlabl>
+        <attalias Sync="TRUE">INPUT_ID</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDIT_DATE</attrlabl>
+        <attalias Sync="TRUE">COMMENTS</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">50</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDITOR_NAM</attrlabl>
+        <attalias Sync="TRUE">EDITOR_NAM</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">COMMENTS</attrlabl>
+        <attalias Sync="TRUE">INPUT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STAr</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STAr</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STLe</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STLe</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>
+NonSAM.DBO.BorealToadMonitoring</enttypl>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>
+NonSAM.DBO.BorealToadTestResults</enttypl>
+      </enttyp>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd Sync="TRUE">20080514</metd>
+    <metrd>20040301</metrd>
+    <metfrd>AS NEEDED</metfrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>COLORADO DIVISION OF WILDLIFE</cntorg>
+          <cntper>WILDLIFE GIS</cntper>
+        </cntorgp>
+        <cntpos>WILDLIFE GIS TEAM LEAD</cntpos>
+        <cntaddr>
+          <addrtype>317 W. PROSPECT AVE.</addrtype>
+          <city>FORT COLLINS</city>
+          <state>CO</state>
+          <postal>80526</postal>
+        </cntaddr>
+        <cntvoice>970-472-4324</cntvoice>
+        <cntemail>jon.kindler@state.co.us</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+    <mettc Sync="TRUE">local time</mettc>
+    <metac>NONE</metac>
+    <metuc>NONE</metuc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+    <langmeta Sync="TRUE">en</langmeta>
+  </metainfo>
+  <Esri>
+    <CreaDate>20170612</CreaDate>
+    <CreaTime>09295500</CreaTime>
+    <SyncOnce>FALSE</SyncOnce>
+    <SyncDate>20181108</SyncDate>
+    <SyncTime>14160500</SyncTime>
+    <ModDate>20181108</ModDate>
+    <ModTime>14160500</ModTime>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">BorealToadOverallRange11082018</itemName>
+        <imsContentType Sync="TRUE">002</imsContentType>
+        <nativeExtBox>
+          <westBL Sync="TRUE">246511.236100</westBL>
+          <eastBL Sync="TRUE">474812.817700</eastBL>
+          <southBL Sync="TRUE">4158865.300300</southBL>
+          <northBL Sync="TRUE">4538593.901100</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+        <itemLocation>
+          <linkage Sync="TRUE">file://\\dowftcsde\gis\Projects\SAM\NDIS\2018\shp\BorealToadOverallRange11082018.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </itemLocation>
+        <itemSize Sync="TRUE">0.000</itemSize>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Projected</type>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <projcsn Sync="TRUE">NAD_1983_UTM_Zone_13N</projcsn>
+        <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_13N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-105.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26913]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26913&lt;/WKID&gt;&lt;LatestWKID&gt;26913&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+        <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+      </coordRef>
+      <lineage>
+        <Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20181108" Time="141609">FeatureClassToFeatureClass "Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange" G:\Projects\SAM\NDIS\2018\shp BorealToadOverallRange11082018 # "WATERSHED "WATERSHED" true false false 10 Text 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,WATERSHED,-1,-1;NAME "NAME" true false false 50 Text 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,NAME,-1,-1;ACTIVITYCO "ActivityCode" true true false 10 Text 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,ACTIVITYCODE,-1,-1;SOURCE "SOURCE" true true false 25 Text 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,SOURCE,-1,-1;COMMENTS "COMMENTS" true true false 50 Text 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,COMMENTS,-1,-1;INPUT_ID "INPUT_ID" false true false 255 Text 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,INPUT_ID,-1,-1;INPUT_DATE "INPUT_DATE" false true false 8 Date 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,INPUT_DATE,-1,-1;EDITOR_NAM "EDITOR_NAM" false true false 255 Text 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,EDITOR_NAME,-1,-1;EDIT_DATE "EDIT_DATE" false true false 8 Date 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,EDIT_DATE,-1,-1;SHAPE_STAr "SHAPE_STAr" false false true 0 Double 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,SHAPE.STArea(),-1,-1;SHAPE_STLe "SHAPE_STLe" false false true 0 Double 0 0 ,First,#,Database Connections\NonSAM@DPWGISAdmin@NonSAMEdit.sde\NonSAM.DBO.BorealToad\NonSAM.DBO.BorealToadOverallRange,SHAPE.STLength(),-1,-1" #</Process>
+        <Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20181108" Time="141610">DeleteField G:\Projects\SAM\NDIS\2018\shp\BorealToadOverallRange11082018.shp INPUT_ID;EDITOR_NAM</Process>
+      </lineage>
+    </DataProperties>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+    <ArcGISProfile>FGDC</ArcGISProfile>
+    <scaleRange>
+      <minScale>150000000</minScale>
+      <maxScale>5000</maxScale>
+    </scaleRange>
+  </Esri>
+  <dataIdInfo>
+    <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+    <dataLang>
+      <languageCode Sync="TRUE" value="eng" country="USA" />
+      <countryCode value="USA" Sync="TRUE" />
+    </dataLang>
+    <idCitation xmlns="">
+      <resTitle Sync="FALSE">Boreal Toad Overall Range</resTitle>
+      <presForm xmlns="">
+        <PresFormCd Sync="TRUE" value="005" />
+      </presForm>
+      <date>
+        <createDate>2008-01-01T00:00:00</createDate>
+      </date>
+    </idCitation>
+    <spatRpType>
+      <SpatRepTypCd Sync="TRUE" value="001" />
+    </spatRpType>
+    <dataExt>
+      <geoEle xmlns="">
+        <GeoBndBox esriExtentType="search">
+          <westBL Sync="TRUE">-108.012024</westBL>
+          <eastBL Sync="TRUE">-105.285246</eastBL>
+          <northBL Sync="TRUE">40.998141</northBL>
+          <southBL Sync="TRUE">37.541956</southBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </GeoBndBox>
+      </geoEle>
+    </dataExt>
+    <geoBox esriExtentType="decdegrees">
+      <westBL Sync="TRUE">-108.012024</westBL>
+      <eastBL Sync="TRUE">-105.285246</eastBL>
+      <northBL Sync="TRUE">40.998141</northBL>
+      <southBL Sync="TRUE">37.541956</southBL>
+      <exTypeCode Sync="TRUE">1</exTypeCode>
+    </geoBox>
+    <descKeys>
+      <thesaName uuidref="723f6998-058e-11dc-8314-0800200c9a66" />
+      <keyword Sync="TRUE">002</keyword>
+    </descKeys>
+    <idPurp>This is part of the Natural Diversity Information Source, which provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.</idPurp>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;BorealToadOverallRange is an ESRI SDE Feature Class showing Overall Range for Boreal Toad (Bufo boreas) in Colorado.&lt;/SPAN&gt;&lt;SPAN&gt;Overall Range is defined as the area that encompasses all known activity areas within the observed range of a population of Boreal Toads. &lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;This information was derived from field personnel. A variety of data capture techniques were used including drawing on mylar overlays at 1:50,000 scale USGS county mapsheets and implementation of the SmartBoard Interactive Whiteboard using stand-up, real-time digitizing at various scales (Cowardin, M., M. Flenner. March 2003. Maximizing Mapping Resources. GeoWorld 16(3):32-35).&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;These data are updated as needed and last updated prior to 2008.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+    <idCredit>The data was collected by the Colorado Parks and Wildlife, Boreal Toad Recovery Team, which includes Colorado Natural Heritage Program, US Forest Service, US Geological Service, and private contractors.</idCredit>
+    <searchKeys>
+      <keyword>Wildlife</keyword>
+      <keyword>Distribution</keyword>
+      <keyword>Colorado</keyword>
+      <keyword>Boreal Toads</keyword>
+      <keyword>Overall Range</keyword>
+      <keyword>Bufo boreas boreas</keyword>
+      <keyword>Batrachochytrium dendrobatitis</keyword>
+      <keyword>Bd.</keyword>
+    </searchKeys>
+    <resConst>
+      <Consts>
+        <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+      </Consts>
+    </resConst>
+  </dataIdInfo>
+  <mdLang>
+    <languageCode Sync="TRUE" value="eng" />
+    <countryCode value="USA" Sync="TRUE" />
+  </mdLang>
+  <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+  <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+  <mdChar>
+    <CharSetCd Sync="TRUE" value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd Sync="TRUE" value="005" />
+  </mdHrLv>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <distInfo>
+    <distributor>
+      <distorTran>
+        <onLineSrc>
+          <orDesc Sync="TRUE">002</orDesc>
+          <linkage Sync="TRUE">Server=DOWHABNE4; Service=5155; Database=NonSAM; User=GISDataWriter; Version=sde.DEFAULT</linkage>
+          <protocol Sync="TRUE">ArcSDE Connection</protocol>
+        </onLineSrc>
+      </distorTran>
+      <distorFormat>
+        <formatName Sync="TRUE">SDE Feature Class</formatName>
+      </distorFormat>
+    </distributor>
+    <distFormat>
+      <formatName Sync="TRUE">Shapefile</formatName>
+    </distFormat>
+    <distTranOps>
+      <transSize Sync="TRUE">0.000</transSize>
+    </distTranOps>
+  </distInfo>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode Sync="TRUE" code="26913">NAD_1983_UTM_Zone_13N</identCode>
+        <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+        <idVersion Sync="TRUE">6.13(3.0.1)</idVersion>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <geometObjs Name="BorealToadOverallRange11082018">
+        <geoObjTyp>
+          <GeoObjTypCd value="002" Sync="TRUE">
+          </GeoObjTypCd>
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">0</geoObjCnt>
+      </geometObjs>
+      <topLvl>
+        <TopoLevCd value="001" Sync="TRUE">
+        </TopoLevCd>
+      </topLvl>
+    </VectSpatRep>
+  </spatRepInfo>
+  <mdDateSt Sync="TRUE">20181108</mdDateSt>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKK5/UvFCWU08EdpK0sTBSXGFJIzxjOeP61iS+I9UacgCdreQbWaFV
+bypDn92CF+gBz/dbODipc0tAO7orn9P1CG3vUja5kigmgDrHcyZKNuOBuJPXnjPG2t6OWOZA8Tq6
+HoynINKE1OPMgY6obi6htlBlfBY4VRyzH2HU1NWXdR3Y1TzIYlYSRLGsjDKxYYls856Y6dcCibko
+3irsEXLO9hvomkgYkI7RsGBBVlOCKsVn6Pp0ml2Jt5blrhjI77yMfeOcdTWhVrzAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAp6lp0WpWxikJRh9yRfvIfai9t4PsG1rFLpYQDHCV
+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</Data>
+    </Thumbnail>
+  </Binary>
+</metadata>

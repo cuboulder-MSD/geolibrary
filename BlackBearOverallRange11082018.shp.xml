@@ -1,0 +1,444 @@
+<metadata>
+  <eainfo>
+    <detailed xmlns="" Name="BlackBearOverallRange11082018">
+      <enttyp>
+        <enttypl Sync="TRUE">BlackBearOverallRange11082018</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">0</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">EDIT_DATE</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+        <attalias Sync="TRUE">COMMENTS</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">ACTIVITYCO</attrlabl>
+        <attalias Sync="TRUE">ACTIVITYCO</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr xmlns="">
+        <attrlabl>COMMENTS</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SHAPE</attrlabl>
+        <attalias Sync="TRUE">SOURCE</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Distributi</attrlabl>
+        <attalias Sync="TRUE">Distributi</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_ID</attrlabl>
+        <attalias Sync="TRUE">INPUT_ID</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SOURCE</attrlabl>
+        <attalias Sync="TRUE">INPUT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDITOR_NAM</attrlabl>
+        <attalias Sync="TRUE">EDITOR_NAM</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_DATE</attrlabl>
+        <attalias Sync="TRUE">EDIT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STAr</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STAr</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STLe</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STLe</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+  </eainfo>
+  <Esri>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">BlackBearOverallRange11082018</itemName>
+        <nativeExtBox>
+          <westBL Sync="TRUE">139992.560000</westBL>
+          <eastBL Sync="TRUE">696645.319200</eastBL>
+          <southBL Sync="TRUE">4094075.223400</southBL>
+          <northBL Sync="TRUE">4546734.810000</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+        <itemLocation>
+          <linkage Sync="TRUE">file://\\dowftcsde\gis\Projects\SAM\NDIS\2018\shp\BlackBearOverallRange11082018.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </itemLocation>
+        <imsContentType export="False">002</imsContentType>
+        <itemSize Sync="TRUE">0.000</itemSize>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Projected</type>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <projcsn Sync="TRUE">NAD_1983_UTM_Zone_13N</projcsn>
+        <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_13N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-105.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26913]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26913&lt;/WKID&gt;&lt;LatestWKID&gt;26913&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+        <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+      </coordRef>
+      <lineage>
+      </lineage>
+    </DataProperties>
+    <SyncDate>20181108</SyncDate>
+    <SyncTime>13441200</SyncTime>
+    <ModDate>20181108</ModDate>
+    <ModTime>13441200</ModTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>FALSE</SyncOnce>
+    <ArcGISProfile>FGDC</ArcGISProfile>
+    <CreaDate>20170606</CreaDate>
+    <CreaTime>07463600</CreaTime>
+    <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+  </Esri>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACq9/fQaZZy3Vy/lwRLudsE4H0HJPsKsVl+JmI0WZQiSNI0carJuAyzqoOVIIwTnI6YzUTlyRcu
+wLUm0nW7LXIWks5vMCHa6OjRyIfRkYBl6dwKvVx3gCa6CzQG3VbaMtEW82N3t3Rtohbb1G3DLwMK
+V4GcDsamlP2kFLuNqwUUUVqIKq3GqWdnJ5c93BC+M7ZJFU4+hNchN4et9Zv555bi6hMN5M3kQzsv
+VTH8/c9S69MBwBlRzquRpyq3lzXUkr/vJlUFydv3mxj+6BwP7oxjp8xic9p0Jypxg3JO3Zff/wAA
+3jSb1ua39u6b/wBBC0/7/r/jV1HEiBlIZWGQQcgiue1Tzjpt39mBNx5L+UB13bTj9a8z1jW7nTfE
+dja6RaWfiPT5N3nu1gDOrqu4xZ3gmXaULZUkFs7edovC5tUxkZSp0lp05tfyFKmo7s9uorlrfS9K
+uYUlis7R43GVZYV5/SpP7F0//nwtv+/K/wCFcX+scVo6T+//AIBfsfM6WiuQ1bR7FNKvGSyt0cQu
+VZYlBB2nBziuosrC3023WC1gjt4V6JGoA+v1r2svzBZgpSUbWMpw5CeiiivXMwooooAKKKKACiii
+gAooooAKKKKACsvxKsbaPKJLh7VfMixNHEZWVvMXbhQDnnA6d+a1Kr31jFqNsYJgxjLK3yOVIKsG
+ByDnqBWdSLlCUV1XXb5jWjOJ8NafNoelQS2EEjkRstxdQIHWZ0Y72kjbbJu3mQ4UZ5wCeBXR6Jqt
+7qF/cRzRt9niQfvHs5bf5yeg3n5xjuOBjqc8aGl6culWa26SSTAM7mSXG5izFiTgAdWPQVadwilm
+IVVGSTwAK5KGFdGzU3bqt1fyur7+ZTlcWiuYhku9Sle7e6ltiGKRJbkhAoZsHDZVtwI529MYxT9V
+1O9Gl3MD23nPJGY1ktScnPB+U/dOCcZJGRyVzmuSOb4SU5U+azXfZ+jH7OVrkGrka7rFuLQxxDT5
+w0t4AGdjt5iTnoQxDbhxngZwy6dIihFCqAqgYAAwAKbNI0ULusbSsqkiNMbmOOgyQMn3IFfn+Oxk
+sdW9rJW6Jdl69TshHkVhJ1d4JFicRyFSFcruCnHBx3+lePeJrrUNM0eCHV4phH9slupLoR4LzHdF
+FjqzhDsYLyxUDGVTJ9ftBKLaPzjmUjLfKF59MAkfqaqaNrtrrlqk1uzKWRZPJlG2RVYBgSvoQQc+
+9aYLFVMG5TjG8dL/AI6Xtpf9BTipaFjT7FNOthCjySZZnaSVss7sxZmPbkknAwBngAcVZqtqGoQa
+XaPc3LmOFMAkKWJJIAAABJJJAAAySRVmvNk5SfPLr1L2K2pKrafcb5kt1CFvOk+7HgZ3HkcDGeo6
+Vq6RqC6ppltdKyN5saswQ5AJHI/A1kajqltpUcUl07RpJIIlZY2YbjnAOAcZxjJ4yQOpAOjoFvND
+ZGa4wJrkrM0YQr5ZKKNvJPIx1/Svs+HHUXtFy+6+vS/b+uxzVraGlRRRX2pzBRRRQAUUUUAFFFFA
+BRRRQAUUUUAFVNQ1OHTFhacsqSyeWGA4U4JyfQYU5Pb6VbrJ17/W6Z/18n/0TJXLiqzw9CdVK9lc
+qKu7FPUtX2T2i6Td2801xOFnLSNOI4wrtuCBuPm2rnjhh6CnXGt3tlYTCWDz7oqwhltoiUZyPlDJ
+uJHPGc47kjtOAAOBj6UtfDVM/wAQ6vPTVo22evzvozqVFWszmY/Dl3BcRwhoZ7KK4F1HI7mORW3L
+kFFXaQFDAcgHcMjK7j0buVZAEZgxwSMYUYJycnpxjjPUe9Mu7lLO2lnkDlI1LMEUscDrgDk1Xtdc
+029kjS31C1neT7ixTKxbgnjB54BP0FeBUqVK3vS1t1/zNUki3LIYo2YI0hH8KYyfzpULFfnAU5PC
+nPGeO3p/k0Ev5i4C+Xg5JPOeMf1/SnVzlDZY1mjZHGUYFSPUGuFs7H+xNW1drezvJdYi2yRyeZHI
+J7b7qRjIB2hUVc8vuXJyNu/vKz59DtptZg1QeZFexRmEvG5AkjOTsYdCMnI7g9Dyc92FxTwynGya
+ktnt+nmRKPMZWreEW8VWFpBrkySKq5nhszJGjP8AwlTuyMZxnv6DpXQWsBtraOJpZJyihTLLjc3u
+cADP4VLRXJKpKSUXsirGLqcNrqWtQadqTy/ZLiFljt4BJmdmyr7mTlVVSvJwPn68EV2Vc/Cwi8RW
+Tt8okgmiU9i2Y2C9euEc/genfoK/SckUfqUGlrrf72cVX4gooor3jIKKKKACiiigAooooAKKKKAC
+iiigArI1cb9TsVOSqpLIB23DYoP5Mw/GtesbVmxrViueTbznH/Aoq8rNXbBVfQun8SFoqpqOoW2i
+6fNd3Uhjt4vmdzliMn8T1PSl0rU7fWdLs9QtWL2t3Ck8TkEFkZQynB5HBFflfK7c1tDvuV9btdRu
+4oUsLpLbEmZSw5ZcHgHtzjPfHQiqNt4Vlj0x7KXV7tkkcyuIYoY1DnnKAR5TnkYOc85JJJ3wSScg
+AZ4weopkHm7W87Zu3NjZnG3J29e+MZ966aWKq0Y8tN29Eru/nuJxT3IlMOlWIMs7eVEvzTTuWP1J
+NWaKK5W7jCo5p47dA8siRKWVAzsACzEKo+pJAA7kimWNhbaZbLb2dvFaW6Z2xQIEQZOTgDjrUen2
+1xbxSR3ElvKgf9wsEJjEcYA2qcs24jB+YYHTgY5dkAzSdJj0iK4VJ7m4aed7h3uZmkO5jnC5OFUc
+AKoAGOmck3qKKTbk7sCpqdtJc2h8hhHdRkSwuegdeRn2PQ+oJHepJvEF7A6ySWEEdmXUNI90fMRS
+wBYqEK8A5PzY4PNT1DeXcVhaTXNw4jghRpJHPRVAyT+Qr1MHmOIwa5KWzd7f13IlBS1Zc07xFp2q
+3Jt7W5EsyqXKbGBABGc5HB+ZTjrhlPQgnSrzjw5p97JFZahbzzQ+VDGnl3Oc3GSJXJY5YAs8i85z
+tUgkfe7bTdTkuJ3trlUjuFG5Ch4lTgFgDyME4I5xkc81+hYbMKNefseZc/bX8Gcbg0r9DRooor1C
+AooooAKKKKACiiigAooooAKxtTPma1bbefKt5N/tvZNv57G/L6Vs1h3RP9v3HPH2aHj/AIHLXiZ0
+7YGp8vzRrT+JCXNtFeW8kE8aTQyqUeNxlWU8EEelPiiSCNI40WONAFVFGAoHQAU6ivzC/Q7gooop
+AFFFFABVKG1tINUuJYmVLuZVaZAw3Oo+VSR1AGCBjHertRiCMTmby084qEMm0bioOcZ9Mk8e9Una
+4iSiiipGFQXl7BYQmW5mSCMfxSNgdM4+vFT1V1KyN9bFY3ENwhEkMxBPlyD7rYyMjPUZ5GR3rSmo
+uSU3ZdRPyH6dpL6oovL8SxpIqmKz3vH5a9f3gBG5jxkEYGMc8k61pptpYFzbWsFuX+8YYwu764FU
+vDd7e6hZTTXwgSXz5EWKAk+WqnaAScZJIJzgcMOuMnWr9cw1CjRpxVFaW+88+TbeoUUUV1khRRRQ
+AUUUUAFFFFABRRRQAVh3X/IfuP8Ar2h/9DlrcrDuv+Q/cf8AXtD/AOhy14Gef7lL1X5mtL4iSiii
+vzM7gooooAKKKKACiiigAooooAKyLy4vLnXYNNgkhtoZYtzSSq4d/m+YRMPl3KoPynn5geikHXrM
+19gtrbnfHC4uoWWaVtqxkOCWJyP4Q3Gec7ec4PdgXD6zBVI8ybtb1InfldjorDToNNjdIFZQ772L
+uzszYAySxJPAA+gFWaZDNHcwpLE6yxSKGSRCCrKRkEEdRT6/XIxUVaKsjzwooopgFFUL3XLLT7+0
+sppSLq7JEMSIzs2MZPyg4AzyTgdfQ1fouAUUUUAFFFFABRRRQAVhyHzdXvZOhQRwY9QF35/8iY/C
+tysFGzqWp+06j/yFHXzufO2Cfqjal8RNRRRX5sdoUUUUAFFFFABRRRQAUUUUAFZ2sXC+UtspnaWR
+lJjtVYyGPcN+CvK5GRuyME9R1rRrnNY8MBtQfW7YLc6vbqXtY7xPNiQ7QNqrkbclQQwIIJPOCwPb
+g/Y+3i67tFP1/pdyJXtodxFEsESRxqERAFVR0AHQU+s7w9LNcaLayz3qahLKvmG4jh8lWySQAhJK
+gAgYJzxzzmtGv11O554VWvtStdNi8y6nSFT0DHlj6KOpPsOaqa/qEljDaJFMkElzcLCHZd3ZmIAJ
+AzhT1/U4B5650Zb/AMSWUt/cI5cNktGMSKpQrD82QMsA5xjOzgDJrgrYyFKtHDr45bdra/5bdS1F
+tc3QueBbV7uK81+7tmhvNVcSIJTmSO3A/dRn+6BlmwP75JAJIrqabHGsUaoihEUAKqjAAHYU6u9K
+ysyAooopgFFFFABRRRQAVz8Yxqeq9ebhf/RMddBWAbS+tJ5ybUXKSSu4khlG8gnjcG29FwOCfuiv
+AzqhVxGGUKUbu6/JmtJpS1J6KhZ7wYxplyc+jxcf+P0hkvQP+QVdH2Dw/wDxyvhnluMX/Lp/cdXP
+HuT0VB5l7/0Crr/vuH/45SG7ZDiW1uonHVPIZ8figKn8DWbwGLX/AC6l9zHzx7liiq/21f8Anhd/
++Akv/wATTTqKKR+4vOfSzm/+JqHg8THelL7n/kPmj3LVFVf7RT/nhef+Ac3/AMTR/aKf88Lz/wAA
+5v8A4mo+rV/5H9zDmXctUVV/tFP+eF5/4Bzf/E0janEgJaK6RRyWe1lVQPUkrgD3o+rV/wCR/cw5
+l3LdFVP7Xsf+f23/AO/q/wCNH9r2P/P7b/8Af1f8an2FX+R/cx3RU1CzitEEsc1xZo9wjyyRXDok
+YLDcxUHABxzxjLEnua66uXu77TL22lgmu4GikUqwE4UkH3ByPwqtLqTCCW1k+1a7p0qlSLMMZoz/
+AHS6YBUj1Ib13BuPsslxbpRdCupX6Np2tbby/I5qsb6oztb19tR1K5vbe5hj0/S1YLdAedGWZVG7
+C7SSSzKE3YO3cSPly6HTvEer6heLJPp8lkpjjksZ4C0RG1SwDYyScvkHIH7sgn5lLdM/sbQPDGqa
+VY2msQPdmd5Hk0m7ZjI4IySsRBwNqjbkYUYq/YXMV9Zw3BtNYsWmUStbmO5jKMeSCq8A5PP45rqx
+1KnCtCrWpuaad7K76Wt6ImDbVk7HQaLdxJYJatcrPPZxLHcSZONwBVjk9eVbn1BzyDWnXIvbafIs
+Qk0+ebyl2qZbKVzj3JU5PueeT6mp9I1GbT5/scdjcyWkkw8kiGRBChCgg7lAAB3Ec4A4GMAHtweY
+zrz9nUpSj5tO35diZQSV0zp6KKK9syCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooAKKKKACiiigAooooA//Z</Data>
+    </Thumbnail>
+  </Binary>
+  <mdChar>
+    <CharSetCd value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd value="005" />
+  </mdHrLv>
+  <mdContact>
+    <rpIndName>Seth McClean</rpIndName>
+    <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+    <rpPosName>GIS Unit Supervisor</rpPosName>
+    <role>
+      <RoleCd value="007" />
+    </role>
+    <rpCntInfo>
+      <cntAddress addressType="both">
+        <delPoint>317 W Prospect Road</delPoint>
+        <city>Fort Collins</city>
+        <adminArea>CO</adminArea>
+        <postCode>80526</postCode>
+        <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+        <country>UNITED STATES</country>
+      </cntAddress>
+      <cntPhone>
+        <voiceNum>970-472-4324</voiceNum>
+      </cntPhone>
+    </rpCntInfo>
+  </mdContact>
+  <dataIdInfo>
+    <idPurp>This is part of the Natural Diversity Information Source, which provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.</idPurp>
+    <idCredit>Colorado Parks and Wildlife Biologists, District Wildlife Managers, and Researchers.</idCredit>
+    <resConst>
+      <Consts>
+        <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+      </Consts>
+    </resConst>
+    <dataExt>
+      <geoEle>
+        <GeoBndBox esriExtentType="search">
+          <westBL>-109.31</westBL>
+          <eastBL>-101.73</eastBL>
+          <southBL>36.85</southBL>
+          <northBL>41.19</northBL>
+        </GeoBndBox>
+      </geoEle>
+      <exDesc>State of Colorado</exDesc>
+    </dataExt>
+    <searchKeys>
+      <keyword>Wildlife</keyword>
+      <keyword>Distribution</keyword>
+      <keyword>Colorado</keyword>
+      <keyword>Black Bear</keyword>
+      <keyword>Overall Range</keyword>
+    </searchKeys>
+    <placeKeys>
+      <keyword>Colorado</keyword>
+    </placeKeys>
+    <idCitation>
+      <date>
+        <pubDate>2018-11-08T00:00:00</pubDate>
+      </date>
+      <resEd>2018</resEd>
+      <resEdDate>20181108</resEdDate>
+      <citRespParty>
+        <rpIndName>Seth McClean</rpIndName>
+        <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+        <rpPosName>GIS Unit Supervisor</rpPosName>
+        <role>
+          <RoleCd value="007" />
+        </role>
+      </citRespParty>
+      <resTitle Sync="FALSE">Black Bear Overall Range</resTitle>
+      <presForm>
+        <PresFormCd value="005" Sync="TRUE" />
+      </presForm>
+    </idCitation>
+    <dataLang>
+      <languageCode value="eng" />
+      <countryCode value="USA" Sync="TRUE" />
+    </dataLang>
+    <dataChar>
+      <CharSetCd value="004" />
+    </dataChar>
+    <spatRpType>
+      <SpatRepTypCd value="001" />
+    </spatRpType>
+    <suppInfo>These data are updated on a four year rotation with one of the four Colorado Parks and Wildlife Regions updated each year.  The data are not updated on a statewide level annually.  Last Regional Updates SE:2016, SW:2015, NW:2018, NE:2017.  Calendar date refers to the most current date the data has been published.
+
+While a complete data review and the majority of data updates occur during these scheduled Regional Updates, changes to the data in any region may occur annually based on new information obtained through telemetry and field studies.  It is recommended that these data be downloaded annually.</suppInfo>
+    <idStatus>
+      <ProgCd value="004" />
+    </idStatus>
+    <idPoC>
+      <rpIndName>Seth McClean</rpIndName>
+      <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+      <rpPosName>GIS Unit Supervisor</rpPosName>
+      <role>
+        <RoleCd value="007" />
+      </role>
+      <rpCntInfo>
+        <cntAddress addressType="both">
+          <delPoint>317 W Prospect Rd</delPoint>
+          <city>Fort Collins</city>
+          <adminArea>CO</adminArea>
+          <postCode>80526</postCode>
+          <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+          <country>UNITED STATES</country>
+        </cntAddress>
+        <cntPhone>
+          <voiceNum>970-472-4324</voiceNum>
+        </cntPhone>
+      </rpCntInfo>
+    </idPoC>
+    <resMaint>
+      <maintFreq>
+        <MaintFreqCd value="008" />
+      </maintFreq>
+      <dateNext>2019-11-08T00:00:00</dateNext>
+      <maintScp>
+        <ScopeCd value="009" />
+      </maintScp>
+    </resMaint>
+    <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;BlackBearOverallRange is an ESRI SDE Feature Class showing the overall range for Black Bear (Ursus americanus) in Colorado. Overall Range is defined as the area which encompasses all known seasonal activities within the observed range of a population of black bears. &lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;This information was derived from field personnel. A variety of data capture techniques were used including drawing on mylar overlays at 1:50,000 scale USGS county mapsheets and implementation of the SmartBoard Interactive Whiteboard using stand-up, real-time digitizing at various scales (Cowardin, M., M. Flenner. March 2003. Maximizing Mapping Resources. GeoWorld 16(3):32-35).&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;</idAbs>
+    <tpCat>
+      <TopicCatCd value="002" />
+    </tpCat>
+    <tpCat>
+      <TopicCatCd value="007" />
+    </tpCat>
+  </dataIdInfo>
+  <mdMaint>
+    <maintFreq>
+      <MaintFreqCd value="008" />
+    </maintFreq>
+    <dateNext>2019-11-08T0:00:00</dateNext>
+  </mdMaint>
+  <mdConst>
+    <Consts>
+      <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+    </Consts>
+  </mdConst>
+  <mdLang>
+    <languageCode value="eng" Sync="TRUE" />
+    <countryCode value="USA" Sync="TRUE" />
+  </mdLang>
+  <distInfo>
+    <distFormat>
+      <formatName Sync="TRUE">Shapefile</formatName>
+    </distFormat>
+    <distTranOps>
+      <transSize Sync="TRUE">0.000</transSize>
+    </distTranOps>
+  </distInfo>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode code="26913" Sync="TRUE" />
+        <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+        <idVersion Sync="TRUE">6.13(3.0.1)</idVersion>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <geometObjs Name="BlackBearOverallRange11082018">
+        <geoObjTyp>
+          <GeoObjTypCd value="002" Sync="TRUE">
+          </GeoObjTypCd>
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">0</geoObjCnt>
+      </geometObjs>
+      <topLvl>
+        <TopoLevCd value="001" Sync="TRUE">
+        </TopoLevCd>
+      </topLvl>
+    </VectSpatRep>
+  </spatRepInfo>
+  <spdoinfo>
+    <ptvctinf>
+      <esriterm Name="BlackBearOverallRange11082018">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom code="4" Sync="TRUE">
+        </efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">0</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <mdDateSt Sync="TRUE">20181108</mdDateSt>
+</metadata>

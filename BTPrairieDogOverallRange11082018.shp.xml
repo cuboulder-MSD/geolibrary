@@ -1,0 +1,754 @@
+<metadata>
+  <eainfo>
+    <detailed xmlns="" Name="BTPrairieDogOverallRange11082018">
+      <attr xmlns="">
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+        <attalias Sync="TRUE">COMMENTS</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_DATE</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <enttyp>
+        <enttypl Sync="TRUE">BTPrairieDogOverallRange11082018</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">0</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">ACTIVITYCO</attrlabl>
+        <attalias Sync="TRUE">ACTIVITYCO</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr xmlns="">
+        <attrlabl>COMMENTS</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SHAPE</attrlabl>
+        <attalias Sync="TRUE">EDIT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">AttLastUpd</attrlabl>
+        <attalias Sync="TRUE">AttLastUpd</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">15</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">ShpLastUpd</attrlabl>
+        <attalias Sync="TRUE">ShpLastUpd</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">15</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">AttLastU_1</attrlabl>
+        <attalias Sync="TRUE">AttLastU_1</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">ShpLastU_1</attrlabl>
+        <attalias Sync="TRUE">ShpLastU_1</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Distributi</attrlabl>
+        <attalias Sync="TRUE">Distributi</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDIT_DATE</attrlabl>
+        <attalias Sync="TRUE">SOURCE</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SOURCE</attrlabl>
+        <attalias Sync="TRUE">INPUT_ID</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDITOR_NAM</attrlabl>
+        <attalias Sync="TRUE">EDITOR_NAM</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_ID</attrlabl>
+        <attalias Sync="TRUE">INPUT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STAr</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STAr</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STLe</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STLe</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+  </eainfo>
+  <Esri>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">BTPrairieDogOverallRange11082018</itemName>
+        <nativeExtBox>
+          <westBL Sync="TRUE">472903.006700</westBL>
+          <eastBL Sync="TRUE">763240.440000</eastBL>
+          <southBL Sync="TRUE">4094500.532900</southBL>
+          <northBL Sync="TRUE">4543207.750000</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+        <itemLocation>
+          <linkage Sync="TRUE">file://\\dowftcsde\gis\Projects\SAM\NDIS\2018\shp\BTPrairieDogOverallRange11082018.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </itemLocation>
+        <imsContentType export="False">002</imsContentType>
+        <itemSize Sync="TRUE">0.000</itemSize>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Projected</type>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <projcsn Sync="TRUE">NAD_1983_UTM_Zone_13N</projcsn>
+        <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_13N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-105.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26913]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26913&lt;/WKID&gt;&lt;LatestWKID&gt;26913&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+        <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+      </coordRef>
+      <lineage>
+      </lineage>
+    </DataProperties>
+    <SyncDate>20181108</SyncDate>
+    <SyncTime>14195800</SyncTime>
+    <ModDate>20181108</ModDate>
+    <ModTime>14195800</ModTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>FALSE</SyncOnce>
+    <ArcGISProfile>FGDC</ArcGISProfile>
+    <scaleRange>
+      <minScale>150000000</minScale>
+      <maxScale>5000</maxScale>
+    </scaleRange>
+    <CreaDate>20170612</CreaDate>
+    <CreaTime>09300600</CreaTime>
+    <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+  </Esri>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiqupTS22nTzxEBo13nIz8o5bHvjOPfFACvqNjE5SS8t0dTgq0qgj9ab/aun/8A
+P9bH2Eqk/wA6Zbw+RFsLlyWZyx7lmLH9TUtea8w10iXyDf7Ts/8AnsP++T/hR/adn/z2H/fJ/wAK
+dRS/tB/yhyDf7Ts/+ew/75P+FJ/adt289h6rbyEfmFp9FL+0JfyhyDP7Tt/7tz/4DSf/ABNH9qW3
+925/8BZP/iafRR9fn2HyEbapABny7jbkAsYWUD8wKu1m6jxpty3dY2YfUDI/lWlXXhq7qptkyVgo
+oorpJCiiigAooooAKKKKACiiigAooooAKKKKACkIDAggEHgg0tU9SmMduIUGZrgmKPIOASCST9AC
+ffFJtJXYEGncabbKeqRhD9QMH+VWqZDEsEKRJnaowMnJ/E0+vnpO8m0bBRRRUgFFFFABRRRQBV1L
+/kF3f/XB/wD0E1p1m6iC2l3YAJJhcAD/AHTWirBlDKcgjINepl/wyImLRRRXoEBRRRQAUUUUAFFF
+FABRRRQAUUUUAFFFFABVG+4urFvWVk/NGP8A7LV6qWqDbapNgHyZVkJ9BnDH/vkms60eanJeQ1uS
+UUUV8+ahRRRQAUUUUAFFFFAEVz/x6zf7h/lVm2/49If9xf5VEQGBBAIPBBo0wk6VZknJMCc/8BFe
+nl/2vkRMtUUUV6JAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVDdwfabOe33bfNjZN2M4yMZqaigD
+MS8wVjuIpIZd20/IxTOcDD4xz2+vrVqodSy7WsJYrG8wLEDqV+ZRntkj+nepq8TFUo0p2iaxdwoo
+ormGFFFFABRRRQAU3S/+QRZf9cE/9BFOpul8aZbr2VNo+g4H8q9HL95ETLdFFFemQFFFFABRRRQA
+UUUUAFFFFABRRRQAUUUUAFFFFAFLUzttVl6iOVGI9RnB/nUlQ6xNFHplxG8irJJGyxqT8zMRgADu
+c4qavMzBe9FlwCiiivOLCiiigAooooAKZpn/AB4qv9x5E/JyP6U+maZ/x5t/13m/9GNXoZf8TImX
+KKKK9QgKKKKACiiigAooooAKKKKACiiigAooooAKgvBKbKbyG2y7DtOO+KnooAzbSKERLPGNzSoC
+ZGbczDqOfxqzVS3U2t3NZkkpxLCTj7p4K9OxH5MKt14FaMozakarYKKKKyGFFFFABRRRQAUzS/8A
+j0cdxPNn/v4xp9M077k//Xdq78B8b9CZ7FyiiivVMwooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAo3YxqNo/qkiY+u05/8d/WpabqKObYSxIXlhcSKB1IH3gPcqWFJDNHPGJInV0PcGvJx0Gp83c0
+hsPooorhKCiiigAooooAKj0/iS9XsJ+B9UQ/zJqSo9P/ANdf/wDXcf8AotK7sB/EfoTPYu0UUV6x
+mFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABWdfRi1nW+QbU+7cY7r2c/7uOvoTWjSModCp6E
+YNTOCnFxYLQrAhgCCCDyCKWqe2TTDFG8pltSCqsU+ZCOgOOCMZ7Dp3zT/t9ueFMjn0SJ2P6CvEnQ
+qQly2NU0WaKrfbov+eV1/wCAsn/xNH26L/nldf8AgLJ/8TUeyqfyv7h3RZoqv9tj/wCeV1/4DSf/
+ABNH22P/AJ5XX/gNJ/8AE0/Y1P5X9wrosVFY/Lc3q+siv+aKP/ZaYLvd9y2uWHr5JX+eKfYh2nuZ
+GieNWK7d4wTgV14OnONS8lYmTVi9RRRXqEBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUU
+AFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB/9k=</Data>
+    </Thumbnail>
+    <Enclosure>
+      <Descript>original metadata</Descript>
+      <Data SourceMetadata="yes" OriginalFileName="source_metadata.xml" SourceMetadataDigest="2e7954e29328746063b23107b9a1b1" EsriPropertyType="Base64" SourceMetadataSchema="fgdc">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxtZXRhZGF0YT4NCiAgPGlk
+aW5mbz4NCiAgICA8Y2l0YXRpb24+DQogICAgICA8Y2l0ZWluZm8+DQogICAgICAgIDxvcmlnaW4+
+Q09MT1JBRE8gRElWSVNJT04gT0YgV0lMRExJRkU8L29yaWdpbj4NCiAgICAgICAgPHB1YmRhdGU+
+MjAxMTA2MjA8L3B1YmRhdGU+DQogICAgICAgIDxwdWJ0aW1lPjAwMDAwMDwvcHVidGltZT4NCiAg
+ICAgICAgPHRpdGxlPkJUIFByYWlyaWUgRG9nIE92ZXJhbGwgUmFuZ2U8L3RpdGxlPg0KICAgICAg
+ICA8cHViaW5mbz4NCiAgICAgICAgICA8cHVicGxhY2U+Rk9SVCBDT0xMSU5TLCBDT0xPUkFETzwv
+cHVicGxhY2U+DQogICAgICAgICAgPHB1Ymxpc2g+Q09MT1JBRE8gRElWSVNJT04gT0YgV0lMRExJ
+RkU8L3B1Ymxpc2g+DQogICAgICAgIDwvcHViaW5mbz4NCiAgICAgICAgPG9ubGluaz5OQTwvb25s
+aW5rPg0KICAgICAgPC9jaXRlaW5mbz4NCiAgICAgIDxicm93c2U+DQogICAgICAgIDxicm93c2Vk
+PlRoZXNlIGRhdGEgYXJlIHVwZGF0ZWQgb24gYSBmb3VyIHllYXIgcm90YXRpb24gd2l0aCBvbmUg
+b2YgdGhlIGZvdXIgQ29sb3JhZG8gRGl2aXNpb24gb2YgV2lsZGxpZmUgUmVnaW9ucyB1cGRhdGVk
+IGVhY2ggeWVhci4gIFRoZSBkYXRhIGFyZSBub3QgdXBkYXRlZCBvbiBhIHN0YXRld2lkZSBsZXZl
+bCBhbm51YWxseS4gIExhc3QgUmVnaW9uYWwgVXBkYXRlcyBTRToyMDA4LCBTVzoyMDExLCBOVzoy
+MDEwLCBORToyMDA5LiAgQ2FsZW5kYXIgZGF0ZSByZWZlcnMgdG8gdGhlIG1vc3QgY3VycmVudCBk
+YXRlIHRoZSBkYXRhIGhhcyBiZWVuIHJldmlld2VkIGFuZC9vciBlZGl0ZWQuPC9icm93c2VkPg0K
+ICAgICAgPC9icm93c2U+DQogICAgPC9jaXRhdGlvbj4NCiAgICA8ZGVzY3JpcHQ+DQogICAgICA8
+YWJzdHJhY3Q+QlRQcmFpcmllRG9nT3ZlcmFsbFJhbmdlIGlzIGFuIEVTUkkgU0RFIEZlYXR1cmUg
+Q2xhc3Mgc2hvd2luZyBhbiBhcmVhIHdoaWNoIGVuY29tcGFzc2VzIGFsbCBrbm93biBzZWFzb25h
+bCBhY3Rpdml0eSBhcmVhcyB3aXRoaW4gdGhlIHJhbmdlIG9mIGEgcG9wdWxhdGlvbiBvZiBibGFj
+ay10YWlsZWQgcHJhaXJpZSBkb2dzLg0KDQpUaGlzIGluZm9ybWF0aW9uIHdhcyBkZXJpdmVkIGZy
+b20gZmllbGQgcGVyc29ubmVsLiAgQSB2YXJpZXR5IG9mIGRhdGEgY2FwdHVyZSB0ZWNobmlxdWVz
+IHdlcmUgdXNlZCBpbmNsdWRpbmcgZHJhd2luZyBvbiBteWxhciBvdmVybGF5cyBhdCAxOjUwLDAw
+MCBzY2FsZSBVU0dTIGNvdW50eSBtYXBzaGVldHMgYW5kIGltcGxlbWVudGF0aW9uIG9mIHRoZSBT
+bWFydEJvYXJkIEludGVyYWN0aXZlIFdoaXRlYm9hcmQgdXNpbmcgc3RhbmQtdXAsIHJlYWwtdGlt
+ZSBkaWdpdGl6aW5nIGF0IHZhcmlvdXMgc2NhbGVzIChDb3dhcmRpbiwgTS4sIE0uIEZsZW5uZXIu
+ICBNYXJjaCAyMDAzLiAgTWF4aW1pemluZyBNYXBwaW5nIFJlc291cmNlcy4gR2VvV29ybGQgMTYo
+Myk6MzItMzUpLjwvYWJzdHJhY3Q+DQogICAgICA8cHVycG9zZT5UaGlzIGlzIHBhcnQgb2YgdGhl
+IE5hdHVyYWwgRGl2ZXJzaXR5IEluZm9ybWF0aW9uIFNvdXJjZSwgd2hpY2ggcHJvdmlkZXMgaW5m
+b3JtYXRpb24gb24gd2lsZGxpZmUgZGlzdHJpYnV0aW9ucyB0byBwdWJsaWMgYW5kIHByaXZhdGUg
+YWdlbmNpZXMgYW5kIGluZGl2aWR1YWxzLCBmb3IgZW52aXJvbm1lbnRhbCBhc3Nlc3NtZW50LCBw
+cm9wcmlldGFyeSBsYW5kIG1hbmFnZW1lbnQgcmVzb3VyY2UgcGxhbm5pbmcgYW5kIGdlbmVyYWwg
+c2NpZW50aWZpYyByZWZlcmVuY2UuPC9wdXJwb3NlPg0KICAgICAgPHN1cHBsaW5mPlRoZXNlIGRh
+dGEgYXJlIHVwZGF0ZWQgb24gYSBmb3VyIHllYXIgcm90YXRpb24gd2l0aCBvbmUgb2YgdGhlIGZv
+dXIgQ29sb3JhZG8gRGl2aXNpb24gb2YgV2lsZGxpZmUgUmVnaW9ucyB1cGRhdGVkIGVhY2ggeWVh
+ci4gIFRoZSBkYXRhIGFyZSBub3QgdXBkYXRlZCBvbiBhIHN0YXRld2lkZSBsZXZlbCBhbm51YWxs
+eS4gIExhc3QgUmVnaW9uYWwgVXBkYXRlcyBTRToyMDA4LCBTVzoyMDExLCBOVzoyMDEwLCBORToy
+MDA5LiAgQ2FsZW5kYXIgZGF0ZSByZWZlcnMgdG8gdGhlIG1vc3QgY3VycmVudCBkYXRlIHRoZSBk
+YXRhIGhhcyBiZWVuIHJldmlld2VkIGFuZC9vciBlZGl0ZWQuPC9zdXBwbGluZj4NCiAgICA8L2Rl
+c2NyaXB0Pg0KICAgIDx0aW1lcGVyZD4NCiAgICAgIDx0aW1laW5mbz4NCiAgICAgICAgPHNuZ2Rh
+dGU+DQogICAgICAgICAgPGNhbGRhdGU+MjAxMjwvY2FsZGF0ZT4NCiAgICAgICAgPC9zbmdkYXRl
+Pg0KICAgICAgPC90aW1laW5mbz4NCiAgICAgIDxjdXJyZW50PnB1YmxpY2F0aW9uIGRhdGU8L2N1
+cnJlbnQ+DQogICAgPC90aW1lcGVyZD4NCiAgICA8c3RhdHVzPg0KICAgICAgPHByb2dyZXNzPklu
+IHdvcms8L3Byb2dyZXNzPg0KICAgICAgPHVwZGF0ZT5FVkVSWSBGT1VSIFlFQVJTPC91cGRhdGU+
+DQogICAgPC9zdGF0dXM+DQogICAgPGtleXdvcmRzPg0KICAgICAgPHRoZW1lPg0KICAgICAgICA8
+dGhlbWVrdD5OT05FPC90aGVtZWt0Pg0KICAgICAgICA8dGhlbWVrZXk+V2lsZGxpZmUsIERpc3Ry
+aWJ1dGlvbiwgQ29sb3JhZG8sIEJsYWNrLXRhaWxlZCBQcmFpcmllIERvZywgT3ZlcmFsbCBSYW5n
+ZTwvdGhlbWVrZXk+DQogICAgICA8L3RoZW1lPg0KICAgICAgPHBsYWNlPg0KICAgICAgICA8cGxh
+Y2VrZXk+Q09MT1JBRE88L3BsYWNla2V5Pg0KICAgICAgPC9wbGFjZT4NCiAgICA8L2tleXdvcmRz
+Pg0KICAgIDxhY2Njb25zdD5OT05FPC9hY2Njb25zdD4NCiAgICA8dXNlY29uc3Q+VGhpcyB3aWxk
+bGlmZSBkaXN0cmlidXRpb24gbWFwIGlzIGEgcHJvZHVjdCBhbmQgcHJvcGVydHkgb2YgQ29sb3Jh
+ZG8gRGl2aXNpb24gb2YgV2lsZGxpZmUsIGEgZGl2aXNpb24gb2YgdGhlIENvbG9yYWRvIERlcGFy
+dG1lbnQgb2YgTmF0dXJhbCBSZXNvdXJjZXMuICBDYXJlIHNob3VsZCBiZSB0YWtlbiBpbiBpbnRl
+cnByZXRpbmcgdGhlc2UgZGF0YS4gV3JpdHRlbiBkb2N1bWVudHMgbWF5IGFjY29tcGFueSB0aGlz
+IG1hcCBhbmQgc2hvdWxkIGJlIHJlZmVyZW5jZWQuICBUaGUgaW5mb3JtYXRpb24gcG9ydHJheWVk
+IG9uIHRoZXNlIG1hcHMgc2hvdWxkIG5vdCByZXBsYWNlIGZpZWxkIHN0dWRpZXMgbmVjZXNzYXJ5
+IGZvciBtb3JlIGxvY2FsaXplZCBwbGFubmluZyBlZmZvcnRzLiAgVGhlIGRhdGEgYXJlIGdhdGhl
+cmVkIGF0IGEgdmFyaWV0eSBvZiBzY2FsZXM7IGRpc2NyZXBhbmNpZXMgbWF5IGJlY29tZSBhcHBh
+cmVudCBhdCBsYXJnZXIgc2NhbGVzLiAgVGhlIGFyZWFzIHBvcnRyYXllZCBoZXJlIGFyZSBncmFw
+aGljIHJlcHJlc2VudGF0aW9ucyBvZiBwaGVub21lbmEgdGhhdCBhcmUgZGlmZmljdWx0IHRvIHJl
+ZHVjZSB0byB0d28gZGltZW5zaW9ucy4gIEFuaW1hbCBkaXN0cmlidXRpb25zIGFyZSBmbHVpZDsg
+YW5pbWFsIHBvcHVsYXRpb25zIGFuZCB0aGVpciBoYWJpdGF0cyBhcmUgZHluYW1pYy48L3VzZWNv
+bnN0Pg0KICAgIDxwdGNvbnRhYz4NCiAgICAgIDxjbnRpbmZvPg0KICAgICAgICA8Y250cGVycD4N
+CiAgICAgICAgICA8Y250cGVyPlNldGggTWNDbGVhbjwvY250cGVyPg0KICAgICAgICAgIDxjbnRv
+cmc+Q09MT1JBRE8gRElWSVNJT04gT0YgV0lMRExJRkU8L2NudG9yZz4NCiAgICAgICAgPC9jbnRw
+ZXJwPg0KICAgICAgICA8Y250cG9zPldpbGRsaWZlIEdJUyBVbml0IFN1cGVydmlzb3I8L2NudHBv
+cz4NCiAgICAgICAgPGNudGFkZHI+DQogICAgICAgICAgPGFkZHJ0eXBlPk1BSUxJTkcgQU5EIFBI
+WVNJQ0FMIEFERFJFU1M8L2FkZHJ0eXBlPg0KICAgICAgICAgIDxhZGRyZXNzPjMxNyBXLiBQUk9T
+UEVDVCBBVkUuPC9hZGRyZXNzPg0KICAgICAgICAgIDxjaXR5PkZPUlQgQ09MTElOUzwvY2l0eT4N
+CiAgICAgICAgICA8c3RhdGU+Q088L3N0YXRlPg0KICAgICAgICAgIDxwb3N0YWw+ODA1MjY8L3Bv
+c3RhbD4NCiAgICAgICAgICA8Y291bnRyeT5VU0E8L2NvdW50cnk+DQogICAgICAgIDwvY250YWRk
+cj4NCiAgICAgICAgPGNudHZvaWNlPjk3MC00NzItNDMyNDwvY250dm9pY2U+DQogICAgICAgIDxj
+bnRmYXg+OTcwLTQ3Mi00NDU4PC9jbnRmYXg+DQogICAgICAgIDxjbnRlbWFpbD5zZXRoLm1jY2xl
+YW5Ac3RhdGUuY28udXM8L2NudGVtYWlsPg0KICAgICAgPC9jbnRpbmZvPg0KICAgIDwvcHRjb250
+YWM+DQogICAgPGJyb3dzZT4NCiAgICAgIDxicm93c2VuPlNBTV9FZGl0U3RhdHVzTWFwLmpwZzwv
+YnJvd3Nlbj4NCiAgICAgIDxicm93c2VkPlRoaXMgZGF0YSBhcmUgdXBkYXRlZCBvbiBhIGZvdXIg
+eWVhciByb3RhdGlvbiB3aXRoIG9uZSBvZiB0aGUgZm91ciBDb2xvcmFkbyBEaXZpc2lvbiBvZiBX
+aWxkbGlmZSBSZWdpb25zIHVwZGF0ZWQgZWFjaCB5ZWFyLiAgVGhlIGRhdGEgYXJlIG5vdCB1cGRh
+dGVkIG9uIGEgc3RhdGV3aWRlIGxldmVsLiAgU2VlIFNBTV9FZGl0U3RhdHVzLmpwZyB1bmRlciBN
+ZXRhZGF0YSBmaWVsZCAnTGlua3MgdG8gZ3JhcGhpY3MgZGVzY3JpYmluZyB0aGUgZGF0YScuICBD
+YWxlbmRhciBEYXRlIHJlZmVycyB0byB0aGUgbW9zdCBjdXJyZW50IGRhdGUgdGhlIGRhdGEgaGFz
+IGJlZW4gcmV2aWV3ZWQgYW5kL29yIGVkaXRlZC48L2Jyb3dzZWQ+DQogICAgICA8YnJvd3NldD5K
+UEc8L2Jyb3dzZXQ+DQogICAgPC9icm93c2U+DQogICAgPGRhdGFjcmVkPkNET1cgQklPTE9HSVNU
+UywgRElTVFJJQ1QgV0lMRExJRkUgTUFOQUdFUlMgQU5EIFJFU0VBUkNIRVJTPC9kYXRhY3JlZD4N
+CiAgPC9pZGluZm8+DQogIDxlYWluZm8+DQogICAgPGRldGFpbGVkIE5hbWU9Ik5vblNBTS5EQk8u
+QlRQcmFpcmllRG9nT3ZlcmFsbFJhbmdlIj4NCiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxh
+Ymw+U2hhcGU8L2F0dHJsYWJsPg0KICAgICAgICA8YXR0cmRlZj5GZWF0dXJlIGdlb21ldHJ5Ljwv
+YXR0cmRlZj4NCiAgICAgICAgPGF0dHJkZWZzPkVTUkk8L2F0dHJkZWZzPg0KICAgICAgICA8YXR0
+cmRvbXY+DQogICAgICAgICAgPHVkb20+Q29vcmRpbmF0ZXMgZGVmaW5pbmcgdGhlIGZlYXR1cmVz
+LjwvdWRvbT4NCiAgICAgICAgPC9hdHRyZG9tdj4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRS
+VUUiPkNPTU1FTlRTPC9hdHRhbGlhcz4NCiAgICAgICAgPGF0dHJ0eXBlIFN5bmM9IlRSVUUiPlN0
+cmluZzwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3aWR0aCBTeW5jPSJUUlVFIj4yNTU8L2F0dHdp
+ZHRoPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+DQogICAgICAg
+IDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgIDwvYXR0cj4NCiAgICAg
+IDxlbnR0eXA+DQogICAgICAgIDxlbnR0eXBsIFN5bmM9IlRSVUUiPk5vblNBTS5EQk8uQlRQcmFp
+cmllRG9nT3ZlcmFsbFJhbmdlPC9lbnR0eXBsPg0KICAgICAgICA8ZW50dHlwdCBTeW5jPSJUUlVF
+Ij5GZWF0dXJlIENsYXNzPC9lbnR0eXB0Pg0KICAgICAgICA8ZW50dHlwYyBTeW5jPSJUUlVFIj4w
+PC9lbnR0eXBjPg0KICAgICAgPC9lbnR0eXA+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJs
+YWJsPkNPTU1FTlRTPC9hdHRybGFibD4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPkFj
+dGl2aXR5Q29kZTwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBTeW5jPSJUUlVFIj5TdHJp
+bmc8L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lkdGggU3luYz0iVFJVRSI+MTA8L2F0dHdpZHRo
+Pg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+DQogICAgICAgIDxh
+dHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgIDwvYXR0cj4NCiAgICAgIDxh
+dHRyPg0KICAgICAgICA8YXR0cmxhYmwgU3luYz0iVFJVRSI+QUNUSVZJVFlDT0RFPC9hdHRybGFi
+bD4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPlNoYXBlPC9hdHRhbGlhcz4NCiAgICAg
+ICAgPGF0dHJ0eXBlIFN5bmM9IlRSVUUiPkdlb21ldHJ5PC9hdHRydHlwZT4NCiAgICAgICAgPGF0
+dHdpZHRoIFN5bmM9IlRSVUUiPjQ8L2F0dHdpZHRoPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0i
+VFJVRSI+MDwvYXRwcmVjaXM+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRz
+Y2FsZT4NCiAgICAgICAgPGF0dHJkZWYgU3luYz0iVFJVRSI+RmVhdHVyZSBnZW9tZXRyeS48L2F0
+dHJkZWY+DQogICAgICAgIDxhdHRyZGVmcyBTeW5jPSJUUlVFIj5FU1JJPC9hdHRyZGVmcz4NCiAg
+ICAgICAgPGF0dHJkb212Pg0KICAgICAgICAgIDx1ZG9tIFN5bmM9IlRSVUUiPkNvb3JkaW5hdGVz
+IGRlZmluaW5nIHRoZSBmZWF0dXJlcy48L3Vkb20+DQogICAgICAgIDwvYXR0cmRvbXY+DQogICAg
+ICA8L2F0dHI+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsIFN5bmM9IlRSVUUiPlNI
+QVBFPC9hdHRybGFibD4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPlNvdXJjZTwvYXR0
+YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBTeW5jPSJUUlVFIj5TdHJpbmc8L2F0dHJ0eXBlPg0K
+ICAgICAgICA8YXR0d2lkdGggU3luYz0iVFJVRSI+MjU8L2F0dHdpZHRoPg0KICAgICAgICA8YXRw
+cmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJU
+UlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgICAgPGF0dHJkZWYgU3luYz0iVFJVRSI+RmVhdHVyZSBn
+ZW9tZXRyeS48L2F0dHJkZWY+DQogICAgICAgIDxhdHRyZGVmcyBTeW5jPSJUUlVFIj5FU1JJPC9h
+dHRyZGVmcz4NCiAgICAgICAgPGF0dHJkb212Pg0KICAgICAgICAgIDx1ZG9tIFN5bmM9IlRSVUUi
+PkNvb3JkaW5hdGVzIGRlZmluaW5nIHRoZSBmZWF0dXJlcy48L3Vkb20+DQogICAgICAgIDwvYXR0
+cmRvbXY+DQogICAgICA8L2F0dHI+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsIFN5
+bmM9IlRSVUUiPlNIQVBFLmxlbjwvYXR0cmxhYmw+DQogICAgICAgIDxhdHRhbGlhcyBTeW5jPSJU
+UlVFIj5BdHRyaWJ1dGUgTGFzdCBVcGRhdGVkIEJ5PC9hdHRhbGlhcz4NCiAgICAgICAgPGF0dHJ0
+eXBlIFN5bmM9IlRSVUUiPlN0cmluZzwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3aWR0aCBTeW5j
+PSJUUlVFIj4xNTwvYXR0d2lkdGg+DQogICAgICAgIDxhdHByZWNpcyBTeW5jPSJUUlVFIj4wPC9h
+dHByZWNpcz4NCiAgICAgICAgPGF0dHNjYWxlIFN5bmM9IlRSVUUiPjA8L2F0dHNjYWxlPg0KICAg
+ICAgPC9hdHRyPg0KICAgICAgPGF0dHI+DQogICAgICAgIDxhdHRybGFibCBTeW5jPSJUUlVFIj5T
+aHBMYXN0VXBkYXRlQnk8L2F0dHJsYWJsPg0KICAgICAgICA8YXR0YWxpYXMgU3luYz0iVFJVRSI+
+U2hhcGUgTGFzdCBVcGRhdGVkIEJ5PC9hdHRhbGlhcz4NCiAgICAgICAgPGF0dHJ0eXBlIFN5bmM9
+IlRSVUUiPlN0cmluZzwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3aWR0aCBTeW5jPSJUUlVFIj4x
+NTwvYXR0d2lkdGg+DQogICAgICAgIDxhdHByZWNpcyBTeW5jPSJUUlVFIj4wPC9hdHByZWNpcz4N
+CiAgICAgICAgPGF0dHNjYWxlIFN5bmM9IlRSVUUiPjA8L2F0dHNjYWxlPg0KICAgICAgPC9hdHRy
+Pg0KICAgICAgPGF0dHI+DQogICAgICAgIDxhdHRybGFibCBTeW5jPSJUUlVFIj5BdHRMYXN0VXBk
+YXRlRGF0ZTwvYXR0cmxhYmw+DQogICAgICAgIDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5EYXRlIEF0
+dHJpYnV0ZSBMYXN0IFVwZGF0ZWQ8L2F0dGFsaWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0i
+VFJVRSI+RGF0ZTwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3aWR0aCBTeW5jPSJUUlVFIj4zNjwv
+YXR0d2lkdGg+DQogICAgICAgIDxhdHByZWNpcyBTeW5jPSJUUlVFIj4wPC9hdHByZWNpcz4NCiAg
+ICAgICAgPGF0dHNjYWxlIFN5bmM9IlRSVUUiPjA8L2F0dHNjYWxlPg0KICAgICAgPC9hdHRyPg0K
+ICAgICAgPGF0dHI+DQogICAgICAgIDxhdHRybGFibCBTeW5jPSJUUlVFIj5TaHBMYXN0VXBkYXRl
+RGF0ZTwvYXR0cmxhYmw+DQogICAgICAgIDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5EYXRlIFNoYXBl
+IExhc3QgVXBkYXRlZDwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBTeW5jPSJUUlVFIj5E
+YXRlPC9hdHRydHlwZT4NCiAgICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjM2PC9hdHR3aWR0
+aD4NCiAgICAgICAgPGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8
+YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICA8L2F0dHI+DQogICAgICA8
+YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsIFN5bmM9IlRSVUUiPkRpc3RyaWJ1dGlvblR5cGU8L2F0
+dHJsYWJsPg0KICAgICAgICA8YXR0YWxpYXMgU3luYz0iVFJVRSI+UmFuZ2UgRGlzdHJpYnV0aW9u
+IFR5cGU8L2F0dGFsaWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9h
+dHRydHlwZT4NCiAgICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjI1PC9hdHR3aWR0aD4NCiAg
+ICAgICAgPGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8YXR0c2Nh
+bGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICA8L2F0dHI+DQogICAgICA8YXR0cj4N
+CiAgICAgICAgPGF0dHJsYWJsIFN5bmM9IlRSVUUiPlNPVVJDRTwvYXR0cmxhYmw+DQogICAgICAg
+IDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5PQkpFQ1RJRDwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRy
+dHlwZSBTeW5jPSJUUlVFIj5PSUQ8L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lkdGggU3luYz0i
+VFJVRSI+NDwvYXR0d2lkdGg+DQogICAgICAgIDxhdHByZWNpcyBTeW5jPSJUUlVFIj4xMDwvYXRw
+cmVjaXM+DQogICAgICAgIDxhdHRzY2FsZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAg
+ICAgPGF0dHJkZWYgU3luYz0iVFJVRSI+SW50ZXJuYWwgZmVhdHVyZSBudW1iZXIuPC9hdHRyZGVm
+Pg0KICAgICAgICA8YXR0cmRlZnMgU3luYz0iVFJVRSI+RVNSSTwvYXR0cmRlZnM+DQogICAgICAg
+IDxhdHRyZG9tdj4NCiAgICAgICAgICA8dWRvbSBTeW5jPSJUUlVFIj5TZXF1ZW50aWFsIHVuaXF1
+ZSB3aG9sZSBudW1iZXJzIHRoYXQgYXJlIGF1dG9tYXRpY2FsbHkgZ2VuZXJhdGVkLjwvdWRvbT4N
+CiAgICAgICAgPC9hdHRyZG9tdj4NCiAgICAgIDwvYXR0cj4NCiAgICAgIDxhdHRyPg0KICAgICAg
+ICA8YXR0cmxhYmw+T0JKRUNUSUQ8L2F0dHJsYWJsPg0KICAgICAgICA8YXR0cmRlZj5JbnRlcm5h
+bCBmZWF0dXJlIG51bWJlci48L2F0dHJkZWY+DQogICAgICAgIDxhdHRyZGVmcz5FU1JJPC9hdHRy
+ZGVmcz4NCiAgICAgICAgPGF0dHJkb212Pg0KICAgICAgICAgIDx1ZG9tPlNlcXVlbnRpYWwgdW5p
+cXVlIHdob2xlIG51bWJlcnMgdGhhdCBhcmUgYXV0b21hdGljYWxseSBnZW5lcmF0ZWQuPC91ZG9t
+Pg0KICAgICAgICA8L2F0dHJkb212Pg0KICAgICAgICA8YXR0YWxpYXMgU3luYz0iVFJVRSI+U0hB
+UEUuYXJlYTwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBTeW5jPSJUUlVFIj5Eb3VibGU8
+L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lkdGggU3luYz0iVFJVRSI+MDwvYXR0d2lkdGg+DQog
+ICAgICAgIDxhdHByZWNpcyBTeW5jPSJUUlVFIj4wPC9hdHByZWNpcz4NCiAgICAgICAgPGF0dHNj
+YWxlIFN5bmM9IlRSVUUiPjA8L2F0dHNjYWxlPg0KICAgICAgPC9hdHRyPg0KICAgICAgPGF0dHI+
+DQogICAgICAgIDxhdHRybGFibCBTeW5jPSJUUlVFIj5TSEFQRS5hcmVhPC9hdHRybGFibD4NCiAg
+ICAgICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPlNIQVBFLmxlbjwvYXR0YWxpYXM+DQogICAgICAg
+IDxhdHRydHlwZSBTeW5jPSJUUlVFIj5Eb3VibGU8L2F0dHJ0eXBlPg0KICAgICAgICA8YXR0d2lk
+dGggU3luYz0iVFJVRSI+MDwvYXR0d2lkdGg+DQogICAgICAgIDxhdHByZWNpcyBTeW5jPSJUUlVF
+Ij4wPC9hdHByZWNpcz4NCiAgICAgICAgPGF0dHNjYWxlIFN5bmM9IlRSVUUiPjA8L2F0dHNjYWxl
+Pg0KICAgICAgPC9hdHRyPg0KICAgIDwvZGV0YWlsZWQ+DQogIDwvZWFpbmZvPg0KICA8ZGlzdGlu
+Zm8+DQogICAgPHJlc2Rlc2M+RG93bmxvYWRhYmxlIERhdGE8L3Jlc2Rlc2M+DQogIDwvZGlzdGlu
+Zm8+DQogIDxtZXRhaW5mbz4NCiAgICA8bWV0cmQ+MjAwNzA3MTg8L21ldHJkPg0KICAgIDxtZXRm
+cmQ+QVMgTkVFREVEPC9tZXRmcmQ+DQogICAgPG1ldGM+DQogICAgICA8Y250aW5mbz4NCiAgICAg
+ICAgPGNudG9yZ3A+DQogICAgICAgICAgPGNudG9yZz5DT0xPUkFETyBESVZJU0lPTiBPRiBXSUxE
+TElGRTwvY250b3JnPg0KICAgICAgICAgIDxjbnRwZXI+V0lMRExJRkUgR0lTPC9jbnRwZXI+DQog
+ICAgICAgIDwvY250b3JncD4NCiAgICAgICAgPGNudGFkZHI+DQogICAgICAgICAgPGFkZHJ0eXBl
+PjMxNyBXLiBQUk9TUEVDVCBBVkUuPC9hZGRydHlwZT4NCiAgICAgICAgICA8Y2l0eT5GT1JUIENP
+TExJTlM8L2NpdHk+DQogICAgICAgICAgPHN0YXRlPkNPPC9zdGF0ZT4NCiAgICAgICAgICA8cG9z
+dGFsPjgwNTI2PC9wb3N0YWw+DQogICAgICAgIDwvY250YWRkcj4NCiAgICAgICAgPGNudHZvaWNl
+Pjk3MC00NzItNDMyNDwvY250dm9pY2U+DQogICAgICA8L2NudGluZm8+DQogICAgPC9tZXRjPg0K
+ICAgIDxtZXRhYz5OT05FPC9tZXRhYz4NCiAgICA8bWV0dWM+Tk9ORTwvbWV0dWM+DQogICAgPG1l
+dGV4dG5zPg0KICAgICAgPG9ubGluaz5odHRwOi8vd3d3LmVzcmkuY29tL21ldGFkYXRhL2Vzcmlw
+cm9mODAuaHRtbDwvb25saW5rPg0KICAgICAgPG1ldHByb2Y+RVNSSSBNZXRhZGF0YSBQcm9maWxl
+PC9tZXRwcm9mPg0KICAgIDwvbWV0ZXh0bnM+DQogIDwvbWV0YWluZm8+DQogIDxFc3JpPg0KICAg
+IDxEYXRhUHJvcGVydGllcz4NCiAgICAgIDxsaW5lYWdlPg0KICAgICAgICA8UHJvY2VzcyBUb29s
+U291cmNlPSJDOlxQcm9ncmFtIEZpbGVzICh4ODYpXEFyY0dJU1xEZXNrdG9wMTAuMFxBcmNUb29s
+Ym94XFRvb2xib3hlc1xEYXRhIE1hbmFnZW1lbnQgVG9vbHMudGJ4XERlbGV0ZUZlYXR1cmVzIiBE
+YXRlPSIyMDExMDgxMCIgVGltZT0iMTY0OTUzIj5EZWxldGVGZWF0dXJlcyAiRGF0YWJhc2UgQ29u
+bmVjdGlvbnNceFNBTUBEUFdHSVNBZG1pbkBORElTMjAxMS5zZGVcU0FNLkRCTy5CVFByYWlyaWVE
+b2dcU0FNLkRCTy5CVFByYWlyaWVEb2dPdmVyYWxsUmFuZ2UNCiI8L1Byb2Nlc3M+DQogICAgICAg
+IDxQcm9jZXNzIFRvb2xTb3VyY2U9IkM6XFByb2dyYW0gRmlsZXMgKHg4NilcQXJjR0lTXERlc2t0
+b3AxMC4wXEFyY1Rvb2xib3hcVG9vbGJveGVzXERhdGEgTWFuYWdlbWVudCBUb29scy50YnhcQXBw
+ZW5kIiBEYXRlPSIyMDExMDgxMSIgVGltZT0iMDgzNDIyIj5BcHBlbmQgRzpcQm9iVGVtcFxTQU1O
+RElTMjAxMS5nZGJcQlRQcmFpcmllRG9nXEJUUHJhaXJpZURvZ092ZXJhbGxSYW5nZSAiRGF0YWJh
+c2UgQ29ubmVjdGlvbnNceFNBTUBEUFdHSVNBZG1pbkBORElTMjAxMS5zZGVcU0FNLkRCTy5CVFBy
+YWlyaWVEb2dcU0FNLkRCTy5CVFByYWlyaWVEb2dPdmVyYWxsUmFuZ2UNCiIgTk9fVEVTVCAiQUNU
+SVZJVFlDT0RFICJBY3Rpdml0eUNvZGUiIHRydWUgdHJ1ZSBmYWxzZSAxMCBUZXh0IDAgMCAsRmly
+c3QsIyxHOlxCb2JUZW1wXFNBTU5ESVMyMDExLmdkYlxCVFByYWlyaWVEb2dcQlRQcmFpcmllRG9n
+T3ZlcmFsbFJhbmdlLEFDVElWSVRZQ09ERSwtMSwtMTtTT1VSQ0UgIlNvdXJjZSIgdHJ1ZSB0cnVl
+IGZhbHNlIDI1IFRleHQgMCAwICxGaXJzdCwjLEc6XEJvYlRlbXBcU0FNTkRJUzIwMTEuZ2RiXEJU
+UHJhaXJpZURvZ1xCVFByYWlyaWVEb2dPdmVyYWxsUmFuZ2UsU09VUkNFLC0xLC0xO0NPTU1FTlRT
+ICJDT01NRU5UUyIgdHJ1ZSB0cnVlIGZhbHNlIDI1NSBUZXh0IDAgMCAsRmlyc3QsIyxHOlxCb2JU
+ZW1wXFNBTU5ESVMyMDExLmdkYlxCVFByYWlyaWVEb2dcQlRQcmFpcmllRG9nT3ZlcmFsbFJhbmdl
+LENPTU1FTlRTLC0xLC0xO1NIQVBFLmFyZWEgIlNIQVBFLmFyZWEiIGZhbHNlIGZhbHNlIHRydWUg
+MCBEb3VibGUgMCAwICxGaXJzdCwjO1NIQVBFLmxlbiAiU0hBUEUubGVuIiBmYWxzZSBmYWxzZSB0
+cnVlIDAgRG91YmxlIDAgMCAsRmlyc3QsIyIgIzwvUHJvY2Vzcz4NCiAgICAgICAgPFByb2Nlc3Mg
+VG9vbFNvdXJjZT0iQzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxBcmNHSVNcRGVza3RvcDEwLjBcQXJj
+VG9vbGJveFxUb29sYm94ZXNcRGF0YSBNYW5hZ2VtZW50IFRvb2xzLnRieFxBZGRGaWVsZCIgRGF0
+ZT0iMjAxMjAzMTUiIFRpbWU9IjA4NTE1MCI+QWRkRmllbGQgIkRhdGFiYXNlIENvbm5lY3Rpb25z
+XFNBTUBEUFdHSVNBZG1pbkBEZWZhdWx0LnNkZVxTQU0uREJPLkJUUHJhaXJpZURvZ092ZXJhbGxS
+YW5nZSIgQXR0TGFzdFVwZGF0ZUJ5IFRFWFQgIyAjIDE1ICJBdHRyaWJ1dGUgTGFzdCBVcGRhdGVk
+IEJ5IiBOVUxMQUJMRSBOT05fUkVRVUlSRUQgIzwvUHJvY2Vzcz4NCiAgICAgICAgPFByb2Nlc3Mg
+VG9vbFNvdXJjZT0iQzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxBcmNHSVNcRGVza3RvcDEwLjBcQXJj
+VG9vbGJveFxUb29sYm94ZXNcRGF0YSBNYW5hZ2VtZW50IFRvb2xzLnRieFxBZGRGaWVsZCIgRGF0
+ZT0iMjAxMjAzMTUiIFRpbWU9IjA4NTE1NSI+QWRkRmllbGQgIkRhdGFiYXNlIENvbm5lY3Rpb25z
+XFNBTUBEUFdHSVNBZG1pbkBEZWZhdWx0LnNkZVxTQU0uREJPLkJUUHJhaXJpZURvZ092ZXJhbGxS
+YW5nZSIgU2hwTGFzdFVwZGF0ZUJ5IFRFWFQgIyAjIDE1ICJTaGFwZSBMYXN0IFVwZGF0ZWQgQnki
+IE5VTExBQkxFIE5PTl9SRVFVSVJFRCAjPC9Qcm9jZXNzPg0KICAgICAgICA8UHJvY2VzcyBUb29s
+U291cmNlPSJDOlxQcm9ncmFtIEZpbGVzICh4ODYpXEFyY0dJU1xEZXNrdG9wMTAuMFxBcmNUb29s
+Ym94XFRvb2xib3hlc1xEYXRhIE1hbmFnZW1lbnQgVG9vbHMudGJ4XEFkZEZpZWxkIiBEYXRlPSIy
+MDEyMDMxNSIgVGltZT0iMDg1MjAwIj5BZGRGaWVsZCAiRGF0YWJhc2UgQ29ubmVjdGlvbnNcU0FN
+QERQV0dJU0FkbWluQERlZmF1bHQuc2RlXFNBTS5EQk8uQlRQcmFpcmllRG9nT3ZlcmFsbFJhbmdl
+IiBBdHRMYXN0VXBkYXRlRGF0ZSBEQVRFICMgIyAjICJEYXRlIEF0dHJpYnV0ZSBMYXN0IFVwZGF0
+ZWQiIE5VTExBQkxFIE5PTl9SRVFVSVJFRCAjPC9Qcm9jZXNzPg0KICAgICAgICA8UHJvY2VzcyBU
+b29sU291cmNlPSJDOlxQcm9ncmFtIEZpbGVzICh4ODYpXEFyY0dJU1xEZXNrdG9wMTAuMFxBcmNU
+b29sYm94XFRvb2xib3hlc1xEYXRhIE1hbmFnZW1lbnQgVG9vbHMudGJ4XEFkZEZpZWxkIiBEYXRl
+PSIyMDEyMDMxNSIgVGltZT0iMDg1MjA2Ij5BZGRGaWVsZCAiRGF0YWJhc2UgQ29ubmVjdGlvbnNc
+U0FNQERQV0dJU0FkbWluQERlZmF1bHQuc2RlXFNBTS5EQk8uQlRQcmFpcmllRG9nT3ZlcmFsbFJh
+bmdlIiBTaHBMYXN0VXBkYXRlRGF0ZSBEQVRFICMgIyAjICJEYXRlIFNoYXBlIExhc3QgVXBkYXRl
+ZCIgTlVMTEFCTEUgTk9OX1JFUVVJUkVEICM8L1Byb2Nlc3M+DQogICAgICAgIDxQcm9jZXNzIFRv
+b2xTb3VyY2U9IkM6XFByb2dyYW0gRmlsZXMgKHg4NilcQXJjR0lTXERlc2t0b3AxMC4wXEFyY1Rv
+b2xib3hcVG9vbGJveGVzXERhdGEgTWFuYWdlbWVudCBUb29scy50YnhcQWRkRmllbGQiIERhdGU9
+IjIwMTIwMzE1IiBUaW1lPSIwODUyMTUiPkFkZEZpZWxkICJEYXRhYmFzZSBDb25uZWN0aW9uc1xT
+QU1ARFBXR0lTQWRtaW5ARGVmYXVsdC5zZGVcU0FNLkRCTy5CVFByYWlyaWVEb2dPdmVyYWxsUmFu
+Z2UiIERpc3RyaWJ1dGlvblR5cGUgVEVYVCAjICMgMjUgIlJhbmdlIERpc3RyaWJ1dGlvbiBUeXBl
+IiBOVUxMQUJMRSBOT05fUkVRVUlSRUQgRGlzdHJpYnV0aW9uVHlwZXM8L1Byb2Nlc3M+DQogICAg
+ICAgIDxQcm9jZXNzIFRvb2xTb3VyY2U9IkM6XFByb2dyYW0gRmlsZXMgKHg4NilcQXJjR0lTXERl
+c2t0b3AxMC4wXEFyY1Rvb2xib3hcVG9vbGJveGVzXERhdGEgTWFuYWdlbWVudCBUb29scy50Ynhc
+QXNzaWduRGVmYXVsdFRvRmllbGQiIERhdGU9IjIwMTIwMzE1IiBUaW1lPSIwODUyMjEiPkFzc2ln
+bkRlZmF1bHRUb0ZpZWxkICJEYXRhYmFzZSBDb25uZWN0aW9uc1xTQU1ARFBXR0lTQWRtaW5ARGVm
+YXVsdC5zZGVcU0FNLkRCTy5CVFByYWlyaWVEb2dPdmVyYWxsUmFuZ2UiIERpc3RyaWJ1dGlvblR5
+cGUgS25vd24gIzwvUHJvY2Vzcz4NCiAgICAgICAgPFByb2Nlc3MgVG9vbFNvdXJjZT0iYzpccHJv
+Z3JhbSBmaWxlcyAoeDg2KVxhcmNnaXNcZGVza3RvcDEwLjBcQXJjVG9vbGJveFxUb29sYm94ZXNc
+RGF0YSBNYW5hZ2VtZW50IFRvb2xzLnRieFxDb3B5RmVhdHVyZXMiIERhdGU9IjIwMTIwMzE5IiBU
+aW1lPSIxODEyMDkiPkNvcHlGZWF0dXJlcyAiRGF0YWJhc2UgQ29ubmVjdGlvbnNcU0FNQERQV0dJ
+U0FkbWluQFNBTUVkaXQuc2RlXFNBTS5EQk8uQlRQcmFpcmllRG9nXFNBTS5EQk8uQlRQcmFpcmll
+RG9nT3ZlcmFsbFJhbmdlIiAiRGF0YWJhc2UgQ29ubmVjdGlvbnNcTm9uU0FNQERQV0dJU0FkbWlu
+QERlZmF1bHQuc2RlXE5vblNBTS5EQk8uQlRQRFxOb25TQU0uREJPLkJUUHJhaXJpZURvZ092ZXJh
+bGxSYW5nZSIgIyAwIDAgMDwvUHJvY2Vzcz4NCiAgICAgIDwvbGluZWFnZT4NCiAgICA8L0RhdGFQ
+cm9wZXJ0aWVzPg0KICAgIDxTeW5jRGF0ZT4yMDEyMDMxOTwvU3luY0RhdGU+DQogICAgPFN5bmNU
+aW1lPjE4MTE1NDAwPC9TeW5jVGltZT4NCiAgICA8TW9kRGF0ZT4yMDEyMDMxOTwvTW9kRGF0ZT4N
+CiAgICA8TW9kVGltZT4xODExNTQwMDwvTW9kVGltZT4NCiAgPC9Fc3JpPg0KICA8ZGF0YUlkSW5m
+bz4NCiAgICA8ZGVzY0tleXM+DQogICAgICA8dGhlc2FOYW1lIHV1aWRyZWY9IjcyM2Y2OTk4LTA1
+OGUtMTFkYy04MzE0LTA4MDAyMDBjOWE2NiIgLz4NCiAgICA8L2Rlc2NLZXlzPg0KICA8L2RhdGFJ
+ZEluZm8+DQogIDxCaW5hcnk+DQogICAgPFRodW1ibmFpbD4NCiAgICAgIDxEYXRhIEVzcmlQcm9w
+ZXJ0eVR5cGU9IlBpY3R1cmVYIj4vOWovNEFBUVNrWkpSZ0FCQVFFQUFRQUJBQUQvMndCREFBZ0dC
+Z2NHQlFnSEJ3Y0pDUWdLREJRTkRBc0xEQmtTRXc4VUhSb2ZIaDBhDQpIQndnSkM0bklDSXNJeHdj
+S0RjcExEQXhORFEwSHljNVBUZ3lQQzR6TkRMLzJ3QkRBUWtKQ1F3TERCZ05EUmd5SVJ3aE1qSXlN
+akl5DQpNakl5TWpJeU1qSXlNakl5TWpJeU1qSXlNakl5TWpJeU1qSXlNakl5TWpJeU1qSXlNakl5
+TWpJeU1qTC93QUFSQ0FDRkFNZ0RBU0lBDQpBaEVCQXhFQi84UUFId0FBQVFVQkFRRUJBUUVBQUFB
+QUFBQUFBQUVDQXdRRkJnY0lDUW9MLzhRQXRSQUFBZ0VEQXdJRUF3VUZCQVFBDQpBQUY5QVFJREFB
+UVJCUkloTVVFR0UxRmhCeUp4RkRLQmthRUlJMEt4d1JWUzBmQWtNMkp5Z2drS0ZoY1lHUm9sSmlj
+b0tTbzBOVFkzDQpPRGs2UTBSRlJrZElTVXBUVkZWV1YxaFpXbU5rWldabmFHbHFjM1IxZG5kNGVY
+cURoSVdHaDRpSmlwS1RsSldXbDVpWm1xS2pwS1dtDQpwNmlwcXJLenRMVzJ0N2k1dXNMRHhNWEd4
+OGpKeXRMVDFOWFcxOWpaMnVIaTQrVGw1dWZvNmVyeDh2UDA5ZmIzK1BuNi84UUFId0VBDQpBd0VC
+QVFFQkFRRUJBUUFBQUFBQUFBRUNBd1FGQmdjSUNRb0wvOFFBdFJFQUFnRUNCQVFEQkFjRkJBUUFB
+UUozQUFFQ0F4RUVCU0V4DQpCaEpCVVFkaGNSTWlNb0VJRkVLUm9iSEJDU016VXZBVlluTFJDaFlr
+Tk9FbDhSY1lHUm9tSnlncEtqVTJOemc1T2tORVJVWkhTRWxLDQpVMVJWVmxkWVdWcGpaR1ZtWjJo
+cGFuTjBkWFozZUhsNmdvT0VoWWFIaUltS2twT1VsWmFYbUptYW9xT2twYWFucUttcXNyTzB0YmEz
+DQp1TG02d3NQRXhjYkh5TW5LMHRQVTFkYlgyTm5hNHVQazVlYm42T25xOHZQMDlmYjMrUG42Lzlv
+QURBTUJBQUlSQXhFQVB3RDMraWlpDQpnQW9vb29BS0tLS0FDaWlxdXBUUzIyblR6eEVCbzEzbkl6
+OG81Ykh2ak9QZkZBQ3ZxTmpFNVNTOHQwZFRncTBxZ2o5YWIvYXVuLzhBDQpQOWJIMkVxay93QTZa
+YncrUkZzTGx5V1p5eDdsbUxIOVRVdGVhOHcxMGlYeURmN1RzLzhBbnNQKytUL2hSL2Fkbi96Mkgv
+Zkovd0FLDQpkUlMvdEIveWh5RGY3VHMvK2V3Lzc1UCtGSi9hZHQyODloNnJieUVmbUZwOUZMKzBK
+ZnloeURQN1R0Lzd0ei80RFNmL0FCTkg5cVczDQo5MjUvOEJaUC9pYWZSUjlmbjJIeUViYXBBQm55
+N2pia0FzWVdVRDh3S3UxbTZqeHB0eTNkWTJZZlVESS9sV2xYWGhxN3FwdGt5VmdvDQpvb3JwSkNp
+aWlnQW9vb29BS0tLS0FDaWlpZ0Fvb29vQUtLS0tBQ2tJREFnZ0VIZ2cwdFU5U21NZHVJVUdacmdt
+S1BJT0FTQ1NUOUFDDQpmZkZKdEpYWUVHbmNhYmJLZXFSaEQ5UU1IK1ZXcVpERXNFS1JKbmFvd01u
+Si9FMCt2bnBPOG0wYkJSUlJVZ0ZGRkZBQlJSUlFCVjFMDQova0YzZi9YQi93RDBFMXAxbTZpQzJs
+M1lBSkpoY0FEL0FIVFdpckJsREtjZ2pJTmVwbC93eUltTFJSUlhvRUJSUlJRQVVVVVVBRkZGDQpG
+QUJSUlJRQVVVVVVBRkZGRkFCVkcrNHVyRnZXVmsvTkdQOEE3TFY2cVdxRGJhcE5nSHlaVmtKOUJu
+REgvdmttczYwZWFuSmVRMXVTDQpVVVVWOCthaFJSUlFBVVVVVUFGRkZGQUVWei94NnpmN2gvbFZt
+Mi80OUlmOXhmNVZFUUdCQkFJUEJCbzB3azZWWmtuSk1DYy84QkZlDQpubC8ydmtSTXRVVVVWNkpB
+VVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZGRkFCUlJSUUFWRGR3ZmFiT2UzM2JmTmpaTjJNNHlNWnFh
+aWdEDQpNUzh3Vmp1SXBJWmQyMC9JeFRPY0RENHh6Mit2clZxb2RTeTdXc0pZckc4d0xFRHFWK1pS
+bnRraituZXBxOFRGVW8wcDJpYXhkd29vDQpvcm1HRkZGRkFCUlJSUUFVM1MvK1FSWmY5Y0UvOUJG
+T3B1bDhhWmJyMlZObytnNEg4cTlITDk1RVRMZEZGRmVtUUZGRkZBQlJSUlFBDQpVVVVVQUZGRkZB
+QlJSUlFBVVVVVUFGRkZGQUZMVXp0dFZsNmlPVkdJOVJuQi9uVWxRNnhORkhwbHhHOGlySkpHeXhx
+VDh6TVJnQUR1DQpjNHFhdk16QmU5Rmx3Q2lpaXZPTENpaWlnQW9vb29BS1pwbi9BQjRxdjl4NUUv
+SnlQNlUrbWFaL3g1dC8xM20vOUdOWG9aZjhUSW1YDQpLS0tLOVFnS0tLS0FDaWlpZ0Fvb29vQUtL
+S0tBQ2lpaWdBb29vb0FLZ3ZCS2JLYnlHMnk3RHRPTytLbm9vQXpiU0tFUkxQR056U29DDQpaR2Jj
+ekRxT2Z4cXpWUzNVMnQzTlpra3B4TENUajdwNEs5T3hINU1LdDE0RmFNb3pha2FyWUtLS0t5R0ZG
+RkZBQlJSUlFBVXpTLzhBDQpqMGNkeFBObi92NHhwOU0wNzdrLy9YZHE3OEI4YjlDWjdGeWlpaXZW
+TXdvb29vQUtLS0tBQ2lpaWdBb29vb0FLS0tLQUNpaWlnQW9vDQpvb0FvM1l4cU5vL3FraVkrdTA1
+LzhkL1dwYWJxS09iWVN4SVhsaGNTS0IxSUgzZ1BjcVdGSkROSFBHSkluVjBQY0d2SngwR3A4M2Mw
+DQpoc1Bvb29yaEtDaWlpZ0Fvb29vQUtqMC9pUzlYc0orQjlVUS96SnFTbzlQL0FOZGYvd0RYY2Y4
+QW90SzdzQi9FZm9UUFl1MFVVVjZ4DQptRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFG
+RkZGQUJXZGZSaTFuVytRYlUrN2NZN3IyYy83dU92b1RXalNNb2RDcDZFDQpZTlRPQ25GeFlMUXJB
+aGdDQ0NEeUNLV3FlMlRUREZHOHBsdFNDcXNVK1pDT2dPT0NNWjdEcDN6VC90OXVlRk1qbjBTSjJQ
+NkN2RW5RDQpxUWx5Mk5VMFdhS3JmYm92K2VWMS93Q0Fzbi94TkgyNkwvbmxkZjhBZ0xKLzhUVWV5
+cWZ5djdoM1Jab3F2OXRqL3dDZVYxLzREU2YvDQpBQk5IMjJQL0FKNVhYL2dOSi84QUUwL1kxUDVY
+OXdyb3NWRlkvTGMzcStzaXYrYUtQL1phWUx2ZDl5MnVXSHI1SlgrZUtmWWgybnVaDQpHaWVOV0s3
+ZDR3VGdWMTRPbk9OUzhsWW1UVmk5UlJSWHFFQlJSUlFBVVVVVUFGRkZGQUJSUlJRQVVVVVVBRkZG
+RkFCUlJSUUFVVVVVDQpBRkZGRkFCUlJSUUFVVVVVQUZGRkZBQlJSUlFBVVVVVUFGRkZGQUJSUlJR
+Qi85az08L0RhdGE+DQogICAgPC9UaHVtYm5haWw+DQogIDwvQmluYXJ5Pg0KPC9tZXRhZGF0YT4=</Data>
+    </Enclosure>
+  </Binary>
+  <mdChar>
+    <CharSetCd value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd value="005" />
+  </mdHrLv>
+  <mdContact>
+    <rpIndName>Seth McClean</rpIndName>
+    <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+    <rpPosName>GIS Unit Supervisor</rpPosName>
+    <role>
+      <RoleCd value="007" />
+    </role>
+    <rpCntInfo>
+      <cntAddress addressType="both">
+        <delPoint>317 W Prospect Road</delPoint>
+        <city>Fort Collins</city>
+        <adminArea>CO</adminArea>
+        <postCode>80526</postCode>
+        <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+        <country>UNITED STATES</country>
+      </cntAddress>
+      <cntPhone>
+        <voiceNum>970-472-4324</voiceNum>
+      </cntPhone>
+    </rpCntInfo>
+  </mdContact>
+  <dataIdInfo>
+    <idPurp>This is part of the Natural Diversity Information Source, which provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.</idPurp>
+    <idCredit>Colorado Parks and Wildlife Biologists, District Wildlife Managers, and Researchers.</idCredit>
+    <resConst>
+      <Consts>
+        <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+      </Consts>
+    </resConst>
+    <dataExt>
+      <geoEle xmlns="">
+        <GeoBndBox esriExtentType="search">
+          <westBL>-109.31</westBL>
+          <eastBL>-101.73</eastBL>
+          <southBL>36.85</southBL>
+          <northBL>41.19</northBL>
+        </GeoBndBox>
+      </geoEle>
+      <exDesc>State of Colorado</exDesc>
+    </dataExt>
+    <searchKeys>
+      <keyword>Wildlife</keyword>
+      <keyword>Distribution</keyword>
+      <keyword>Colorado</keyword>
+      <keyword>Black-tailed Prairie Dog</keyword>
+      <keyword>Overall Range</keyword>
+    </searchKeys>
+    <placeKeys>
+      <keyword>Colorado</keyword>
+    </placeKeys>
+    <idCitation xmlns="">
+      <date>
+        <pubDate>2012-09-01T00:00:00</pubDate>
+        <createDate>2009-07-14T00:00:00</createDate>
+      </date>
+      <resEd>2009</resEd>
+      <resEdDate>20090714</resEdDate>
+      <citRespParty>
+        <rpIndName>Seth McClean</rpIndName>
+        <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+        <rpPosName>GIS Unit Supervisor</rpPosName>
+        <role>
+          <RoleCd value="007" />
+        </role>
+      </citRespParty>
+      <resTitle Sync="FALSE">Black-tailed Prairie Dog Overall Range</resTitle>
+      <presForm xmlns="">
+        <PresFormCd value="005" Sync="TRUE" />
+      </presForm>
+    </idCitation>
+    <dataLang>
+      <languageCode value="eng" />
+      <countryCode value="USA" Sync="TRUE" />
+    </dataLang>
+    <dataChar>
+      <CharSetCd value="004" />
+    </dataChar>
+    <spatRpType>
+      <SpatRepTypCd value="001" />
+    </spatRpType>
+    <suppInfo>These data are updated on a four year rotation with one of the four Colorado Parks and Wildlife Regions updated each year.  The data are not updated on a statewide level annually.  Last Regional Updates SE:2012, SW:2011, NW:2010, NE:2009.  Calendar date refers to the most current date the data has been published.
+
+While a complete data review and the majority of data updates occur during these scheduled Regional Updates, changes to the data in any region may occur annually based on new information obtained through telemetry and field studies.  It is recommended that these data be downloaded annually.</suppInfo>
+    <idStatus>
+      <ProgCd value="004" />
+    </idStatus>
+    <idPoC>
+      <rpIndName>Seth McClean</rpIndName>
+      <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+      <rpPosName>GIS Unit Supervisor</rpPosName>
+      <role>
+        <RoleCd value="007" />
+      </role>
+      <rpCntInfo>
+        <cntAddress addressType="both">
+          <delPoint>317 W Prospect Rd</delPoint>
+          <city>Fort Collins</city>
+          <adminArea>CO</adminArea>
+          <postCode>80526</postCode>
+          <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+          <country>UNITED STATES</country>
+        </cntAddress>
+        <cntPhone>
+          <voiceNum>970-472-4324</voiceNum>
+        </cntPhone>
+      </rpCntInfo>
+    </idPoC>
+    <resMaint xmlns="">
+      <maintFreq>
+        <MaintFreqCd value="008" />
+      </maintFreq>
+      <dateNext>2013-08-01T00:00:00</dateNext>
+      <maintScp>
+        <ScopeCd value="009" />
+      </maintScp>
+      <maintNote>These data were originally developed by Eric Odell.</maintNote>
+    </resMaint>
+    <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;&lt;SPAN&gt;BTPrairieDogOverallRange is an ESRI SDE Feature Class showing an area which encompasses all known seasonal activity areas within the range of a population of black-tailed prairie dogs. &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;&lt;SPAN&gt;This information was derived from field personnel. A variety of data capture techniques were used including drawing on mylar overlays at 1:50,000 scale USGS county mapsheets and implementation of the SmartBoard Interactive Whiteboard using stand-up, real-time digitizing at various scales (Cowardin, M., M. Flenner. March 2003. Maximizing Mapping Resources. GeoWorld 16(3):32-35).&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;&lt;SPAN&gt;These data are updated as needed and were last updated in 2009.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+    <tpCat>
+      <TopicCatCd value="002" />
+    </tpCat>
+    <tpCat>
+      <TopicCatCd value="007" />
+    </tpCat>
+  </dataIdInfo>
+  <mdMaint>
+    <maintFreq>
+      <MaintFreqCd value="008" />
+    </maintFreq>
+    <dateNext>2013-08-01T00:00:00</dateNext>
+  </mdMaint>
+  <mdConst>
+    <Consts>
+      <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+    </Consts>
+  </mdConst>
+  <mdLang>
+    <languageCode value="eng" Sync="TRUE" />
+    <countryCode value="USA" Sync="TRUE" />
+  </mdLang>
+  <distInfo>
+    <distFormat>
+      <formatName Sync="TRUE">Shapefile</formatName>
+    </distFormat>
+    <distTranOps>
+      <transSize Sync="TRUE">0.000</transSize>
+    </distTranOps>
+  </distInfo>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode code="26913" Sync="TRUE" />
+        <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+        <idVersion Sync="TRUE">6.13(3.0.1)</idVersion>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <geometObjs Name="BTPrairieDogOverallRange11082018">
+        <geoObjTyp>
+          <GeoObjTypCd value="002" Sync="TRUE">
+          </GeoObjTypCd>
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">0</geoObjCnt>
+      </geometObjs>
+      <topLvl>
+        <TopoLevCd value="001" Sync="TRUE">
+        </TopoLevCd>
+      </topLvl>
+    </VectSpatRep>
+  </spatRepInfo>
+  <spdoinfo>
+    <ptvctinf>
+      <esriterm Name="BTPrairieDogOverallRange11082018">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom code="4" Sync="TRUE">
+        </efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">0</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <mdDateSt Sync="TRUE">20181108</mdDateSt>
+</metadata>

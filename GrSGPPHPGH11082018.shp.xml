@@ -1,0 +1,490 @@
+<metadata>
+  <Esri>
+    <CreaDate>20170612</CreaDate>
+    <CreaTime>09301300</CreaTime>
+    <SyncOnce>FALSE</SyncOnce>
+    <SyncDate>20181108</SyncDate>
+    <SyncTime>14184100</SyncTime>
+    <ModDate>20181108</ModDate>
+    <ModTime>14184100</ModTime>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">GrSGPPHPGH11082018</itemName>
+        <nativeExtBox>
+          <westBL Sync="TRUE">154694.835800</westBL>
+          <eastBL Sync="TRUE">427354.771400</eastBL>
+          <southBL Sync="TRUE">4343466.365700</southBL>
+          <northBL Sync="TRUE">4546734.810000</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+        <itemLocation>
+          <linkage Sync="TRUE">file://\\dowftcsde\gis\Projects\SAM\NDIS\2018\shp\GrSGPPHPGH11082018.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </itemLocation>
+        <itemSize Sync="TRUE">0.000</itemSize>
+        <imsContentType Sync="TRUE">002</imsContentType>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Projected</type>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <projcsn Sync="TRUE">NAD_1983_UTM_Zone_13N</projcsn>
+        <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_13N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-105.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26913]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26913&lt;/WKID&gt;&lt;LatestWKID&gt;26913&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+        <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+      </coordRef>
+      <lineage>
+      </lineage>
+    </DataProperties>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+    <ArcGISProfile>FGDC</ArcGISProfile>
+  </Esri>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gCveX1vp8HnXLlI+eQpboCTwAewJ/CqcPiHTrh3SF7h3TlgLWXI5I/u+oI/A1X8Uwm50yOBVkaR5
+gF2DPO1s59sZ6VmTsdRv7aAQC2kMu6WaN9pO1c4wyg7uQRkdMkHrjCrVcHov+ANI3Rr+lmcQfats
+pJARkZScdeCO2Kn/ALV0/wD5/rYexlUH+dZHiW7FjpTXJs0uNh43EgqT3BAyP0q5pEk8ukWklyGE
+7RKX3DBzjuK5vrr5ebl/ErlLJ1jTApY6jaAA4J89f8alS/s5M+XdwPjrtkB/rWdaoztfQpIwgLts
+lXAZWOd4B74Pf3x2qnFaw6Kkm60aS1TaqPkMVT0wTkncWPHJyMZ6BrG9OXUOU6JJopDhJEY9cKwN
+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
+ooAKKKKACiiigD//2Q==</Data>
+    </Thumbnail>
+  </Binary>
+  <mdLang>
+    <languageCode value="eng" />
+    <countryCode value="USA" Sync="TRUE" />
+  </mdLang>
+  <mdChar>
+    <CharSetCd value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd value="005" />
+  </mdHrLv>
+  <mdContact>
+    <rpIndName>Karin Eichhoff</rpIndName>
+    <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+    <rpPosName>GIS Analyst/Specialist</rpPosName>
+    <rpCntInfo>
+      <cntPhone>
+        <voiceNum>970-472-4326</voiceNum>
+      </cntPhone>
+      <cntAddress>
+        <city>Fort Collins</city>
+        <adminArea>Colorado</adminArea>
+        <postCode>80524</postCode>
+        <country>US</country>
+      </cntAddress>
+    </rpCntInfo>
+    <role>
+      <RoleCd value="007" />
+    </role>
+  </mdContact>
+  <mdStanName>ArcGIS Metadata</mdStanName>
+  <mdStanVer>1.0</mdStanVer>
+  <dataIdInfo>
+    <idCitation>
+      <date>
+        <pubDate>2004-06-09</pubDate>
+      </date>
+      <citRespParty>
+        <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+        <role>
+          <RoleCd value="006" />
+        </role>
+      </citRespParty>
+      <citRespParty>
+        <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+        <rpCntInfo>
+          <cntAddress>
+            <delPoint>Denver, Colorado</delPoint>
+          </cntAddress>
+        </rpCntInfo>
+        <role>
+          <RoleCd value="010" />
+        </role>
+      </citRespParty>
+      <presForm>
+        <PresFormCd value="005" />
+      </presForm>
+      <presForm>
+        <fgdcGeoform>vector digital data</fgdcGeoform>
+      </presForm>
+      <citOnlineRes>
+        <linkage>\\blm\dfs\loc\egis\CO\GIS\gisdata\state\co\wildlife\GreaterSageGrouse_EIS\GrSG_PPH_PGH_20120508.shp</linkage>
+      </citOnlineRes>
+      <resTitle Sync="TRUE">GrSGPPHPGH11082018</resTitle>
+    </idCitation>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Greater sage-grouse GIS data set identifying Preliminary Priority Habitat (PPH) and Preliminary General Habitat (PGH) within Colorado. This data is a combination of mapped grouse occupied range, production areas, and modeled habitat (summer, winter, and breeding).&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;PPH is defined as areas of high probability of use (summer or winter, or breeding models) within a 4 mile buffer around leks that have been active within the last 10 years. Isolated areas with low activity were designated as general habitat.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;PGH is defined as Greater sage-grouse Occupied Range outside of PPH.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Datasets used to create PPH and PGH:Summer, winter, and breeding habitat models. Rice, M. B., T. D. Apa, B. L. Walker, M. L. Phillips, J. H. Gammonly, B. Petch, and K. Eichhoff. 2012. Analysis of regional species distribution models based on combined radio-telemetry datasets from multiple small-scale studies. Journal of Applied Ecology in review.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Production Areas are defined as 4 mile buffers around leks which have been active within the last 10 years (leks active between 2002-2011).&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Occupied range was created by mapping efforts of the Colorado Division of Wildlife (now Colorado Parks and Wildlife – CPW) biologists and district officers during the spring of 2004, and further refined in early 2012. Occupied Habitat is defined as areas of suitable habitat known to be used by sage-grouse within the last 10 years from the date of mapping. Areas of suitable habitat contiguous with areas of known use, which do not have effective barriers to sage-grouse movement from known use areas, are mapped as occupied habitat unless specific information exists that documents the lack of sage-grouse use. Mapped from any combination of telemetry locations, sightings of sage grouse or sage grouse sign, local biological expertise, GIS analysis, or other data sources. This information was derived from field personnel. A variety of data capture techniques were used including the SmartBoard Interactive Whiteboard using stand-up, real-time digitizing at various scales (Cowardin, M., M. Flenner. March 2003. Maximizing Mapping Resources. GeoWorld 16(3):32-35). &lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Update: In August 2012, this dataset was modified to correct topology errors and clipped to the Colorado boundary.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+    <idPurp>The priority habitat map and data were developed as part of the BLM National Planning Strategy for Greater sage-grouse. These data provide a biological tool for planning in the event of human development in sage-grouse habitats. These maps depict Priority and General Habitats within occupied range in Colorado.</idPurp>
+    <idStatus>
+      <ProgCd value="007" />
+    </idStatus>
+    <idPoC>
+      <rpIndName>Karin Eichhoff</rpIndName>
+      <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+      <rpPosName>GIS Analyst/Specialist</rpPosName>
+      <rpCntInfo>
+        <cntPhone>
+          <voiceNum>970-472-4326</voiceNum>
+        </cntPhone>
+        <cntAddress>
+          <city>Fort Collins</city>
+          <adminArea>Colorado</adminArea>
+          <postCode>80524</postCode>
+          <country>US</country>
+        </cntAddress>
+      </rpCntInfo>
+      <role>
+        <RoleCd value="007" />
+      </role>
+    </idPoC>
+    <resMaint>
+      <maintFreq>
+        <MaintFreqCd value="009" />
+      </maintFreq>
+    </resMaint>
+    <placeKeys>
+      <keyword>Colorado</keyword>
+    </placeKeys>
+    <themeKeys>
+      <keyword>Greater Sage Grouse, Colorado, Occupied, Potential, Vacant/Unknown, Habitat Status</keyword>
+    </themeKeys>
+    <searchKeys>
+      <keyword>Colorado</keyword>
+      <keyword>Greater Sage Grouse</keyword>
+      <keyword>Colorado</keyword>
+      <keyword>Occupied</keyword>
+      <keyword>Potential</keyword>
+      <keyword>Vacant/Unknown</keyword>
+      <keyword>Habitat Status</keyword>
+    </searchKeys>
+    <resConst>
+      <Consts>
+        <useLimit>For viewing purposes only. Data should not be edited by any other entity other than the Colorado Park and Wildlife.</useLimit>
+      </Consts>
+    </resConst>
+    <spatRpType>
+      <SpatRepTypCd value="001" />
+    </spatRpType>
+    <dataLang>
+      <languageCode value="eng" />
+      <countryCode value="USA" Sync="TRUE" />
+    </dataLang>
+    <dataExt>
+      <geoEle>
+        <GeoBndBox>
+          <westBL>-109.105238</westBL>
+          <eastBL>-105.841754</eastBL>
+          <southBL>39.171894</southBL>
+          <northBL>41.068621</northBL>
+        </GeoBndBox>
+      </geoEle>
+    </dataExt>
+    <dataExt>
+      <exDesc>ground condition</exDesc>
+      <geoEle />
+    </dataExt>
+    <dataChar>
+      <CharSetCd value="004" />
+    </dataChar>
+    <idCredit>Colorado Parks and Wildlife GIS Group, Species Conservation Unit, Biologists, District Wildlife Managers and Researchers</idCredit>
+    <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+    <dataExt>
+      <geoEle>
+        <GeoBndBox esriExtentType="search">
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+          <westBL Sync="TRUE">-109.105238</westBL>
+          <eastBL Sync="TRUE">-105.841754</eastBL>
+          <northBL Sync="TRUE">41.068621</northBL>
+          <southBL Sync="TRUE">39.171894</southBL>
+        </GeoBndBox>
+      </geoEle>
+    </dataExt>
+  </dataIdInfo>
+  <mdMaint>
+    <maintFreq>
+      <MaintFreqCd value="009" />
+    </maintFreq>
+  </mdMaint>
+  <dqInfo>
+    <dqScope>
+      <scpLvl>
+        <ScopeCd value="005" />
+      </scpLvl>
+    </dqScope>
+  </dqInfo>
+  <eainfo>
+    <detailed Name="GrSGPPHPGH11082018">
+      <enttyp>
+        <enttypl Sync="TRUE">GrSGPPHPGH11082018</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">0</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">FID</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Status</attrlabl>
+        <attalias Sync="TRUE">Status</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Population</attrlabl>
+        <attalias Sync="TRUE">Population</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">35</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">PPPH</attrlabl>
+        <attalias Sync="TRUE">PPPH</attalias>
+        <attrtype Sync="TRUE">Integer</attrtype>
+        <attwidth Sync="TRUE">5</attwidth>
+        <atprecis Sync="TRUE">5</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">PPGH</attrlabl>
+        <attalias Sync="TRUE">PPGH</attalias>
+        <attrtype Sync="TRUE">Integer</attrtype>
+        <attwidth Sync="TRUE">5</attwidth>
+        <atprecis Sync="TRUE">5</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Acres</attrlabl>
+        <attalias Sync="TRUE">Acres</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Habitat</attrlabl>
+        <attalias Sync="TRUE">Habitat</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_ID</attrlabl>
+        <attalias Sync="TRUE">INPUT_ID</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_DATE</attrlabl>
+        <attalias Sync="TRUE">INPUT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDITOR_NAM</attrlabl>
+        <attalias Sync="TRUE">EDITOR_NAM</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDIT_DATE</attrlabl>
+        <attalias Sync="TRUE">EDIT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape_STAr</attrlabl>
+        <attalias Sync="TRUE">Shape_STAr</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape_STLe</attrlabl>
+        <attalias Sync="TRUE">Shape_STLe</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distInfo>
+    <distFormat>
+      <formatName Sync="TRUE">Shapefile</formatName>
+    </distFormat>
+    <distTranOps>
+      <transSize Sync="TRUE">0.000</transSize>
+    </distTranOps>
+  </distInfo>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode code="26913" Sync="TRUE" value="26913" />
+        <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+        <idVersion Sync="TRUE">6.13(3.0.1)</idVersion>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <geometObjs Name="GrSGPPHPGH11082018">
+        <geoObjTyp>
+          <GeoObjTypCd value="002" Sync="TRUE">
+          </GeoObjTypCd>
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">0</geoObjCnt>
+      </geometObjs>
+      <topLvl>
+        <TopoLevCd value="001" Sync="TRUE">
+        </TopoLevCd>
+      </topLvl>
+    </VectSpatRep>
+  </spatRepInfo>
+  <spdoinfo>
+    <ptvctinf>
+      <esriterm Name="GrSGPPHPGH11082018">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom code="4" Sync="TRUE">
+        </efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">0</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <mdDateSt Sync="TRUE">20181108</mdDateSt>
+</metadata>

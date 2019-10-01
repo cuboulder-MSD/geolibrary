@@ -1,0 +1,442 @@
+<metadata>
+  <eainfo>
+    <detailed xmlns="" Name="ElkHighwayCrossings11082018">
+      <attr xmlns="">
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+        <attalias Sync="TRUE">SOURCE</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDIT_DATE</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl>Comments</attrlabl>
+        <attalias Sync="TRUE">COMMENTS</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SHAPE</attrlabl>
+        <attalias Sync="TRUE">ACTIVITYCO</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SOURCE</attrlabl>
+        <attalias Sync="TRUE">EDIT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">COMMENTS</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Distributi</attrlabl>
+        <attalias Sync="TRUE">Distributi</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_ID</attrlabl>
+        <attalias Sync="TRUE">INPUT_ID</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_DATE</attrlabl>
+        <attalias Sync="TRUE">INPUT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDITOR_NAM</attrlabl>
+        <attalias Sync="TRUE">EDITOR_NAM</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <enttyp>
+        <enttypl Sync="TRUE">ElkHighwayCrossings11082018</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">0</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STAr</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STAr</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STLe</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STLe</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+  </eainfo>
+  <Esri>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">ElkHighwayCrossings11082018</itemName>
+        <nativeExtBox>
+          <westBL Sync="TRUE">151021.834300</westBL>
+          <eastBL Sync="TRUE">711401.849000</eastBL>
+          <southBL Sync="TRUE">4094308.347300</southBL>
+          <northBL Sync="TRUE">4538596.011700</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+        <itemLocation>
+          <linkage Sync="TRUE">file://\\dowftcsde\gis\Projects\SAM\NDIS\2018\shp\ElkHighwayCrossings11082018.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </itemLocation>
+        <imsContentType export="False">002</imsContentType>
+        <itemSize Sync="TRUE">0.000</itemSize>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Projected</type>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <projcsn Sync="TRUE">NAD_1983_UTM_Zone_13N</projcsn>
+        <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_13N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-105.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26913]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26913&lt;/WKID&gt;&lt;LatestWKID&gt;26913&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+        <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+      </coordRef>
+      <lineage>
+      </lineage>
+    </DataProperties>
+    <SyncDate>20181108</SyncDate>
+    <SyncTime>13453600</SyncTime>
+    <ModDate>20181108</ModDate>
+    <ModTime>13453600</ModTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>FALSE</SyncOnce>
+    <ArcGISProfile>FGDC</ArcGISProfile>
+    <CreaDate>20170606</CreaDate>
+    <CreaTime>07464700</CreaTime>
+    <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+  </Esri>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACiiigAooqsl/E0scT5hlkLhI5MBnCnBI9sYI9jQBZooooAjW4ja4eAMDKiq7L6KxIB/NW/KpKz
+Lwm01myuMkRTK1tJzxu4aMnj2dR05fvkVp0AFFFFABRUcUCwtIylyZG3He7MAfYE8D2GBT2cLjJA
+ycDPc0ANkmjhKeY6pvbau4gbj6D3p9VGeDURNbSRGSMcEkZRsHsR3BBGOCCPoakv5ZYLG4kgj82d
+I2aOPH3mAOB+JoAkjlSZN0bq65I3KcjIOD+tPqGztlsrOC3UlliRYwT1IAxU1ABRRRQAUUUUAFFF
+FABRRRQAUUUUAFFFFABUN1aQX0JhuYY7iJsZjlQMp/A1j3t3rX9qTwWiQ+UGgKPNAxARifMO4OAS
+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</Data>
+    </Thumbnail>
+  </Binary>
+  <mdChar>
+    <CharSetCd value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd value="005" />
+  </mdHrLv>
+  <mdContact>
+    <rpIndName>Seth McClean</rpIndName>
+    <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+    <rpPosName>GIS Unit Supervisor</rpPosName>
+    <role>
+      <RoleCd value="007" />
+    </role>
+    <rpCntInfo>
+      <cntAddress addressType="both">
+        <delPoint>317 W Prospect Road</delPoint>
+        <city>Fort Collins</city>
+        <adminArea>CO</adminArea>
+        <postCode>80526</postCode>
+        <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+        <country>UNITED STATES</country>
+      </cntAddress>
+      <cntPhone>
+        <voiceNum>970-472-4324</voiceNum>
+      </cntPhone>
+    </rpCntInfo>
+  </mdContact>
+  <dataIdInfo>
+    <idPurp>This is part of the Natural Diversity Information Source, which provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.</idPurp>
+    <idCredit>Colorado Parks and Wildlife Biologists, District Wildlife Managers, and Researchers.</idCredit>
+    <resConst>
+      <Consts>
+        <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+      </Consts>
+    </resConst>
+    <dataExt>
+      <geoEle>
+        <GeoBndBox esriExtentType="search">
+          <westBL>-109.31</westBL>
+          <eastBL>-101.73</eastBL>
+          <southBL>36.85</southBL>
+          <northBL>41.19</northBL>
+        </GeoBndBox>
+      </geoEle>
+      <exDesc>State of Colorado</exDesc>
+    </dataExt>
+    <searchKeys>
+      <keyword>Wildlife</keyword>
+      <keyword>Distribution</keyword>
+      <keyword>Colorado</keyword>
+      <keyword>American Elk</keyword>
+      <keyword>Highway Crossing</keyword>
+    </searchKeys>
+    <placeKeys>
+      <keyword>Colorado</keyword>
+    </placeKeys>
+    <idCitation>
+      <date>
+        <pubDate>2018-11-08T00:00:00</pubDate>
+      </date>
+      <resEd>2018</resEd>
+      <resEdDate>20181108</resEdDate>
+      <citRespParty>
+        <rpIndName>Seth McClean</rpIndName>
+        <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+        <rpPosName>GIS Unit Supervisor</rpPosName>
+        <role>
+          <RoleCd value="007" />
+        </role>
+      </citRespParty>
+      <resTitle Sync="FALSE">Elk Highway Crossings</resTitle>
+      <presForm>
+        <PresFormCd value="005" Sync="TRUE" />
+      </presForm>
+    </idCitation>
+    <dataLang>
+      <languageCode value="eng" />
+      <countryCode value="USA" Sync="TRUE" />
+    </dataLang>
+    <dataChar>
+      <CharSetCd value="004" />
+    </dataChar>
+    <spatRpType>
+      <SpatRepTypCd value="001" />
+    </spatRpType>
+    <suppInfo>These data are updated on a four year rotation with one of the four Colorado Parks and Wildlife Regions updated each year.  The data are not updated on a statewide level annually.  Last Regional Updates SE:2016, SW:2015, NW:2018, NE:2017.  Calendar date refers to the most current date the data has been published.
+
+While a complete data review and the majority of data updates occur during these scheduled Regional Updates, changes to the data in any region may occur annually based on new information obtained through telemetry and field studies.  It is recommended that these data be downloaded annually.</suppInfo>
+    <idStatus>
+      <ProgCd value="004" />
+    </idStatus>
+    <idPoC>
+      <rpIndName>Seth McClean</rpIndName>
+      <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+      <rpPosName>GIS Unit Supervisor</rpPosName>
+      <role>
+        <RoleCd value="007" />
+      </role>
+      <rpCntInfo>
+        <cntAddress addressType="both">
+          <delPoint>317 W Prospect Rd</delPoint>
+          <city>Fort Collins</city>
+          <adminArea>CO</adminArea>
+          <postCode>80526</postCode>
+          <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+          <country>UNITED STATES</country>
+        </cntAddress>
+        <cntPhone>
+          <voiceNum>970-472-4324</voiceNum>
+        </cntPhone>
+      </rpCntInfo>
+    </idPoC>
+    <resMaint>
+      <maintFreq>
+        <MaintFreqCd value="008" />
+      </maintFreq>
+      <dateNext>2019-11-08T00:00:00</dateNext>
+      <maintScp>
+        <ScopeCd value="009" />
+      </maintScp>
+    </resMaint>
+    <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;ElkHighwayCrossings is an ESRI SDE Feature Class depicting Highway Crossings for Elk in Colorado. Highway Crossing is defined as those areas where elk movements traditionally cross roads, presenting potential conflicts between elk and motorists. &lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;This information was derived from field personnel. A variety of data capture techniques were used including drawing on mylar overlays at 1:50,000 scale USGS county mapsheets and implementation of the SmartBoard Interactive Whiteboard using stand-up, real-time digitizing at various scales (Cowardin, M., M. Flenner. March 2003. Maximizing Mapping Resources. GeoWorld 16(3):32-35).&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;</idAbs>
+    <tpCat>
+      <TopicCatCd value="002" />
+    </tpCat>
+    <tpCat>
+      <TopicCatCd value="007" />
+    </tpCat>
+  </dataIdInfo>
+  <mdMaint>
+    <maintFreq>
+      <MaintFreqCd value="008" />
+    </maintFreq>
+    <dateNext>2019-11-08T0:00:00</dateNext>
+  </mdMaint>
+  <mdConst>
+    <Consts>
+      <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+    </Consts>
+  </mdConst>
+  <mdLang>
+    <languageCode value="eng" Sync="TRUE" />
+    <countryCode value="USA" Sync="TRUE" />
+  </mdLang>
+  <distInfo>
+    <distFormat>
+      <formatName Sync="TRUE">Shapefile</formatName>
+    </distFormat>
+    <distTranOps>
+      <transSize Sync="TRUE">0.000</transSize>
+    </distTranOps>
+  </distInfo>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode code="26913" Sync="TRUE" />
+        <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+        <idVersion Sync="TRUE">6.13(3.0.1)</idVersion>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <geometObjs Name="ElkHighwayCrossings11082018">
+        <geoObjTyp>
+          <GeoObjTypCd value="002" Sync="TRUE">
+          </GeoObjTypCd>
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">0</geoObjCnt>
+      </geometObjs>
+      <topLvl>
+        <TopoLevCd value="001" Sync="TRUE">
+        </TopoLevCd>
+      </topLvl>
+    </VectSpatRep>
+  </spatRepInfo>
+  <spdoinfo>
+    <ptvctinf>
+      <esriterm Name="ElkHighwayCrossings11082018">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom code="4" Sync="TRUE">
+        </efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">0</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <mdDateSt Sync="TRUE">20181108</mdDateSt>
+</metadata>

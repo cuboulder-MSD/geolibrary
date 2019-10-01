@@ -1,0 +1,571 @@
+<metadata>
+  <eainfo>
+    <detailed xmlns="" Name="TexasHornedLizardPotentialHabitat11082018">
+      <enttyp>
+        <enttypl Sync="TRUE">TexasHornedLizardPotentialHabitat11082018</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">0</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">EDIT_DATE</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+        <attalias Sync="TRUE">COMMENTS</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">ACTIVITYCO</attrlabl>
+        <attalias Sync="TRUE">ACTIVITYCO</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr xmlns="">
+        <attrlabl>COMMENTS</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SHAPE</attrlabl>
+        <attalias Sync="TRUE">SOURCE</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Distributi</attrlabl>
+        <attalias Sync="TRUE">Distributi</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">25</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_ID</attrlabl>
+        <attalias Sync="TRUE">INPUT_ID</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr xmlns="">
+        <attrlabl Sync="TRUE">SOURCE</attrlabl>
+        <attalias Sync="TRUE">INPUT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDITOR_NAM</attrlabl>
+        <attalias Sync="TRUE">EDITOR_NAM</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_DATE</attrlabl>
+        <attalias Sync="TRUE">EDIT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STAr</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STAr</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE_STLe</attrlabl>
+        <attalias Sync="TRUE">SHAPE_STLe</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+  </eainfo>
+  <Esri>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">TexasHornedLizardPotentialHabitat11082018</itemName>
+        <nativeExtBox>
+          <westBL Sync="TRUE">539117.130000</westBL>
+          <eastBL Sync="TRUE">763208.440000</eastBL>
+          <southBL Sync="TRUE">4095291.931400</southBL>
+          <northBL Sync="TRUE">4225323.130000</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+        <itemLocation>
+          <linkage Sync="TRUE">file://\\dowftcsde\gis\Projects\SAM\NDIS\2018\shp\TexasHornedLizardPotentialHabitat11082018.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </itemLocation>
+        <imsContentType export="False">002</imsContentType>
+        <itemSize Sync="TRUE">0.000</itemSize>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Projected</type>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <projcsn Sync="TRUE">NAD_1983_UTM_Zone_13N</projcsn>
+        <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_13N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-105.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26913]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26913&lt;/WKID&gt;&lt;LatestWKID&gt;26913&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+        <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+      </coordRef>
+      <lineage>
+      </lineage>
+    </DataProperties>
+    <SyncDate>20181108</SyncDate>
+    <SyncTime>14433300</SyncTime>
+    <ModDate>20181108</ModDate>
+    <ModTime>14433300</ModTime>
+    <CreaDate>20170612</CreaDate>
+    <CreaTime>09353800</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>FALSE</SyncOnce>
+    <ArcGISProfile>FGDC</ArcGISProfile>
+    <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+    <scaleRange>
+      <minScale>150000000</minScale>
+      <maxScale>5000</maxScale>
+    </scaleRange>
+  </Esri>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiq2o6jbaTZS3d5MsFvEMs7e5wAB1JJIAA5JIA5NJ
+u2rAs0VDaXUd9aw3EJLRTIsiEjGVIyP0qamAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVn61q6aR
+aNIdrTEHy42JG7HUnAJCjqTjgVDrHiax0SKZ52ZjCoZwgAC56AsxCgnjAJBOR6iuNvvFekSyXdmb
+2G+127hZDDaZkP3JGCBgMBVCyHnHQkjJ58nG472EeSiuab0stbeppGN99jbh8Qa1qNtBPZQ2aqsI
+MgnWQCaUjOEOflXp82GB3HH3ctoaJ4qTVNRn02e0ns9RgBLqUZoXAWMlo5cAMB5ijkA5zwMVV0C3
+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
+iigAooooAKKKKAP/2Q==</Data>
+    </Thumbnail>
+  </Binary>
+  <mdChar>
+    <CharSetCd value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd value="005" />
+  </mdHrLv>
+  <mdContact>
+    <rpIndName>Seth McClean</rpIndName>
+    <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+    <rpPosName>GIS Unit Supervisor</rpPosName>
+    <role>
+      <RoleCd value="007" />
+    </role>
+    <rpCntInfo>
+      <cntAddress addressType="both">
+        <delPoint>317 W Prospect Road</delPoint>
+        <city>Fort Collins</city>
+        <adminArea>CO</adminArea>
+        <postCode>80526</postCode>
+        <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+        <country>UNITED STATES</country>
+      </cntAddress>
+      <cntPhone>
+        <voiceNum>970-472-4324</voiceNum>
+      </cntPhone>
+    </rpCntInfo>
+  </mdContact>
+  <dataIdInfo>
+    <idPurp>This is part of the Natural Diversity Information Source, which provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.</idPurp>
+    <idCredit>Colorado Parks and Wildlife Biologists, District Wildlife Managers, and Researchers.</idCredit>
+    <resConst>
+      <Consts>
+        <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+      </Consts>
+    </resConst>
+    <dataExt>
+      <geoEle xmlns="">
+        <GeoBndBox esriExtentType="search">
+          <westBL>-109.31</westBL>
+          <eastBL>-101.73</eastBL>
+          <southBL>36.85</southBL>
+          <northBL>41.19</northBL>
+        </GeoBndBox>
+      </geoEle>
+      <exDesc>State of Colorado</exDesc>
+    </dataExt>
+    <searchKeys>
+      <keyword>Wildlife</keyword>
+      <keyword>Distribution</keyword>
+      <keyword>Colorado</keyword>
+      <keyword>Texas Horned Lizard</keyword>
+      <keyword>Potential Habitat</keyword>
+    </searchKeys>
+    <placeKeys>
+      <keyword>Colorado</keyword>
+    </placeKeys>
+    <idCitation>
+      <date>
+        <pubDate>2012-09-01T00:00:00</pubDate>
+      </date>
+      <resEd>2012</resEd>
+      <resEdDate>20120901</resEdDate>
+      <citRespParty>
+        <rpIndName>Seth McClean</rpIndName>
+        <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+        <rpPosName>GIS Unit Supervisor</rpPosName>
+        <role>
+          <RoleCd value="007" />
+        </role>
+      </citRespParty>
+      <resTitle Sync="FALSE">Texas Horned Lizard Potential Habitat</resTitle>
+      <presForm>
+        <PresFormCd value="005" Sync="TRUE" />
+      </presForm>
+    </idCitation>
+    <dataLang>
+      <languageCode value="eng" />
+      <countryCode value="USA" Sync="TRUE" />
+    </dataLang>
+    <dataChar>
+      <CharSetCd value="004" />
+    </dataChar>
+    <spatRpType>
+      <SpatRepTypCd value="001" />
+    </spatRpType>
+    <suppInfo>These data are updated on a four year rotation with one of the four Colorado Parks and Wildlife Regions updated each year.  The data are not updated on a statewide level annually.  Last Regional Updates SE:2012, SW:2011, NW:2010, NE:2009.  Calendar date refers to the most current date the data has been published.
+
+While a complete data review and the majority of data updates occur during these scheduled Regional Updates, changes to the data in any region may occur annually based on new information obtained through telemetry and field studies.  It is recommended that these data be downloaded annually.</suppInfo>
+    <idStatus>
+      <ProgCd value="004" />
+    </idStatus>
+    <idPoC>
+      <rpIndName>Seth McClean</rpIndName>
+      <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+      <rpPosName>GIS Unit Supervisor</rpPosName>
+      <role>
+        <RoleCd value="007" />
+      </role>
+      <rpCntInfo>
+        <cntAddress addressType="both">
+          <delPoint>317 W Prospect Rd</delPoint>
+          <city>Fort Collins</city>
+          <adminArea>CO</adminArea>
+          <postCode>80526</postCode>
+          <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+          <country>UNITED STATES</country>
+        </cntAddress>
+        <cntPhone>
+          <voiceNum>970-472-4324</voiceNum>
+        </cntPhone>
+      </rpCntInfo>
+    </idPoC>
+    <resMaint>
+      <maintFreq>
+        <MaintFreqCd value="008" />
+      </maintFreq>
+      <dateNext>2013-08-01T00:00:00</dateNext>
+      <maintScp>
+        <ScopeCd value="009" />
+      </maintScp>
+    </resMaint>
+    <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;TexasHornedLizardPotentialHabitat is an ESRI SDE Feature Class Potential Habitat for Texas Horned Lizard in Colorado.  Potential Habitat is defined as an area that meets environmental parameters necessary for the survival of a population of Texas Horned Lizard.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;&lt;SPAN&gt;This information was derived from field personnel. A variety of data capture techniques were used including drawing on mylar overlays at 1:50,000 scale USGS county mapsheets and implementation of the SmartBoard Interactive Whiteboard using stand-up, real-time digitizing at various scales (Cowardin, M., M. Flenner. March 2003. Maximizing Mapping Resources. GeoWorld 16(3):32-35).&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+    <tpCat>
+      <TopicCatCd value="002" />
+    </tpCat>
+    <tpCat>
+      <TopicCatCd value="007" />
+    </tpCat>
+  </dataIdInfo>
+  <mdMaint>
+    <maintFreq>
+      <MaintFreqCd value="008" />
+    </maintFreq>
+    <dateNext>2013-08-01T00:00:00</dateNext>
+  </mdMaint>
+  <mdConst>
+    <Consts>
+      <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;P STYLE="font-size:16ptmargin:7 0 7 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+    </Consts>
+  </mdConst>
+  <mdLang>
+    <languageCode value="eng" Sync="TRUE" />
+    <countryCode value="USA" Sync="TRUE" />
+  </mdLang>
+  <distInfo>
+    <distFormat>
+      <formatName Sync="TRUE">Shapefile</formatName>
+    </distFormat>
+    <distTranOps>
+      <transSize Sync="TRUE">0.000</transSize>
+    </distTranOps>
+  </distInfo>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode code="26913" Sync="TRUE" />
+        <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+        <idVersion Sync="TRUE">6.13(3.0.1)</idVersion>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <geometObjs Name="TexasHornedLizardPotentialHabitat11082018">
+        <geoObjTyp>
+          <GeoObjTypCd value="002" Sync="TRUE">
+          </GeoObjTypCd>
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">0</geoObjCnt>
+      </geometObjs>
+      <topLvl>
+        <TopoLevCd value="001" Sync="TRUE">
+        </TopoLevCd>
+      </topLvl>
+    </VectSpatRep>
+  </spatRepInfo>
+  <spdoinfo>
+    <ptvctinf>
+      <esriterm Name="TexasHornedLizardPotentialHabitat11082018">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom code="4" Sync="TRUE">
+        </efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">0</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <mdDateSt Sync="TRUE">20181108</mdDateSt>
+</metadata>

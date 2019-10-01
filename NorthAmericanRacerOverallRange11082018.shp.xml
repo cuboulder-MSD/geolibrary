@@ -1,0 +1,354 @@
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20170612</CreaDate>
+    <CreaTime>09344500</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>FALSE</SyncOnce>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">NorthAmericanRacerOverallRange11082018</itemName>
+        <nativeExtBox>
+          <westBL Sync="TRUE">146279.061400</westBL>
+          <eastBL Sync="TRUE">763240.440000</eastBL>
+          <southBL Sync="TRUE">4094490.261900</southBL>
+          <northBL Sync="TRUE">4543207.750000</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+        <itemLocation>
+          <linkage Sync="TRUE">file://\\dowftcsde\gis\Projects\SAM\NDIS\2018\shp\NorthAmericanRacerOverallRange11082018.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </itemLocation>
+        <imsContentType Sync="TRUE">002</imsContentType>
+        <itemSize Sync="TRUE">0.000</itemSize>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Projected</type>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+        <projcsn Sync="TRUE">NAD_1983_UTM_Zone_13N</projcsn>
+        <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.6'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_13N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-105.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26913]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26913&lt;/WKID&gt;&lt;LatestWKID&gt;26913&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+      </coordRef>
+      <lineage>
+      </lineage>
+    </DataProperties>
+    <SyncDate>20181108</SyncDate>
+    <SyncTime>14332400</SyncTime>
+    <ModDate>20181108</ModDate>
+    <ModTime>14332400</ModTime>
+    <scaleRange>
+      <minScale>5000000</minScale>
+      <maxScale>500000</maxScale>
+    </scaleRange>
+    <ArcGISProfile>FGDC</ArcGISProfile>
+    <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+  </Esri>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gCCe8t7VkWeZYy+du7gcY79uo/Op6oXAD6pGGAIWBhj13Muf/QafpzFYWt2J3QNsGe69V/QgZ9Qa
+xjVTqOn2HbS5cooorYQUUUUAFFFFABRRRQAyWaOCMyTSJHGOrOwAH4mq/wDaunf8/wDa/wDf5f8A
+Gk1H5Y4JP7k6ceu47P8A2bP4U+uTEYl0ZJWuUo3G/wBq6d/z/wBr/wB/l/xo/tSxP3bqN/dDuH6U
+6iuf+0H/ACj5Bv8Aadn/AM9h/wB8n/Cj+07P/nsP++T/AIU6ij+0H/KHIN/tO07SMx9EjZj+QFJ/
+adv/AHbn/wABpP8A4mn0Uv7Ql/KHIM/tO3/u3P8A4Cyf/E0f2nb/AN25/wDAaT/4mn0Uvr8+yHyD
+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</Data>
+    </Thumbnail>
+  </Binary>
+  <mdChar>
+    <CharSetCd value="004" />
+  </mdChar>
+  <mdContact>
+    <editorSource>external</editorSource>
+    <editorDigest>8dc08b7a9772fa69fd98a924aa0e13dc</editorDigest>
+    <rpIndName>Seth McClean</rpIndName>
+    <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+    <rpPosName>GIS Unit Supervisor</rpPosName>
+    <rpCntInfo>
+      <cntAddress addressType="both">
+        <delPoint>317 W Prospect Rd</delPoint>
+        <city>Fort Collins</city>
+        <adminArea>CO</adminArea>
+        <postCode>80526</postCode>
+        <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+        <country>US</country>
+      </cntAddress>
+      <cntPhone>
+        <voiceNum>970-472-4324</voiceNum>
+      </cntPhone>
+    </rpCntInfo>
+    <editorSave>True</editorSave>
+    <displayName>Seth McClean</displayName>
+    <role>
+      <RoleCd value="007" />
+    </role>
+  </mdContact>
+  <dataIdInfo>
+    <idCitation>
+      <resTitle Sync="FALSE">North American Racer Overall Range</resTitle>
+      <date>
+        <pubDate>2014-04-07T00:00:00</pubDate>
+      </date>
+      <citRespParty>
+        <rpIndName>Seth McClean</rpIndName>
+        <rpOrgName>Colorado Parks and Wildlife</rpOrgName>
+        <rpPosName>GIS Unit Supervisor</rpPosName>
+        <role>
+          <RoleCd value="007" />
+        </role>
+        <rpCntInfo>
+          <cntAddress addressType="both">
+            <delPoint>317 W Prospect Rd</delPoint>
+            <city>Fort Collins</city>
+            <adminArea>CO</adminArea>
+            <postCode>80526</postCode>
+            <eMailAdd>seth.mcclean@state.co.us</eMailAdd>
+            <country>US</country>
+          </cntAddress>
+          <cntPhone>
+            <voiceNum>970-472-4324</voiceNum>
+          </cntPhone>
+        </rpCntInfo>
+      </citRespParty>
+      <presForm>
+        <PresFormCd value="005" Sync="TRUE" />
+      </presForm>
+    </idCitation>
+    <idPurp>Colorado Parks and Wildlife (CPW) provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.</idPurp>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P STYLE="margin:0 0 7 0;"&gt;&lt;SPAN&gt;NorthAmericanRacerOverallRange is an ESRI SDE Feature Class encompassing the observed range of a population of North American Racer in Colorado. &lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN&gt;&lt;SPAN&gt;This information was derived from species experts. A variety of data capture techniques were used including implementation of the SmartBoard Interactive Whiteboard using stand-up, real-time digitizing at various scales (Cowardin, M., M. Flenner. March 2003. Maximizing Mapping Resources. GeoWorld 16(3):32-35). Various sources were referenced in developing these data including Amphibians and Reptiles in Colorado: A Colorado Field Guide Second Edition 1999 by Geoffrey A. Hammerson, the Colorado Herpetofaunal Atlas, and CPW Scientific Collection data.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P STYLE="margin:0 0 14 0;"&gt;&lt;SPAN&gt;These data were last updated in April 2014.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+    <idCredit>Colorado Parks and Wildlife Biologist Tina Jackson.</idCredit>
+    <searchKeys>
+      <keyword>Wildlife</keyword>
+      <keyword>Distribution</keyword>
+      <keyword>Colorado</keyword>
+      <keyword>North American Racer</keyword>
+      <keyword>Overall Range</keyword>
+    </searchKeys>
+    <resConst>
+      <Consts>
+        <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+      </Consts>
+    </resConst>
+    <dataChar>
+      <CharSetCd value="004" />
+    </dataChar>
+    <idStatus>
+      <ProgCd value="004" />
+    </idStatus>
+    <resMaint>
+      <maintFreq>
+        <MaintFreqCd value="009" />
+      </maintFreq>
+    </resMaint>
+    <dataExt>
+      <geoEle xmlns="">
+        <GeoBndBox esriExtentType="search">
+          <exTypeCode>1</exTypeCode>
+          <westBL Sync="TRUE">-109.203021</westBL>
+          <eastBL Sync="TRUE">-101.870302</eastBL>
+          <northBL Sync="TRUE">41.040093</northBL>
+          <southBL Sync="TRUE">36.930105</southBL>
+        </GeoBndBox>
+      </geoEle>
+    </dataExt>
+    <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.0.8321</envirDesc>
+    <dataLang>
+      <languageCode value="eng" Sync="TRUE" />
+      <countryCode value="USA" Sync="TRUE" />
+    </dataLang>
+    <spatRpType>
+      <SpatRepTypCd value="001" Sync="TRUE" />
+    </spatRpType>
+  </dataIdInfo>
+  <eainfo>
+    <detailed Name="NorthAmericanRacerOverallRange11082018">
+      <enttyp>
+        <enttypl Sync="TRUE">NorthAmericanRacerOverallRange11082018</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">0</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">FID</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SHAPE</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Name</attrlabl>
+        <attalias Sync="TRUE">Name</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">50</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_ID</attrlabl>
+        <attalias Sync="TRUE">INPUT_ID</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">INPUT_DATE</attrlabl>
+        <attalias Sync="TRUE">INPUT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDITOR_NAM</attrlabl>
+        <attalias Sync="TRUE">EDITOR_NAM</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EDIT_DATE</attrlabl>
+        <attalias Sync="TRUE">EDIT_DATE</attalias>
+        <attrtype Sync="TRUE">Date</attrtype>
+        <attwidth Sync="TRUE">8</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape_STAr</attrlabl>
+        <attalias Sync="TRUE">Shape_STAr</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape_STLe</attrlabl>
+        <attalias Sync="TRUE">Shape_STLe</attalias>
+        <attrtype Sync="TRUE">Double</attrtype>
+        <attwidth Sync="TRUE">19</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+  </eainfo>
+  <mdLang>
+    <languageCode value="eng" Sync="TRUE" />
+    <countryCode value="USA" Sync="TRUE" />
+  </mdLang>
+  <distInfo>
+    <distFormat>
+      <formatName Sync="TRUE">Shapefile</formatName>
+    </distFormat>
+    <distTranOps>
+      <transSize Sync="TRUE">0.000</transSize>
+    </distTranOps>
+  </distInfo>
+  <mdHrLv>
+    <ScopeCd value="005" Sync="TRUE" />
+  </mdHrLv>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode code="26913" Sync="TRUE" />
+        <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+        <idVersion Sync="TRUE">6.13(3.0.1)</idVersion>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <geometObjs Name="NorthAmericanRacerOverallRange11082018">
+        <geoObjTyp>
+          <GeoObjTypCd value="002" Sync="TRUE">
+          </GeoObjTypCd>
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">0</geoObjCnt>
+      </geometObjs>
+      <topLvl>
+        <TopoLevCd value="001" Sync="TRUE">
+        </TopoLevCd>
+      </topLvl>
+    </VectSpatRep>
+  </spatRepInfo>
+  <spdoinfo>
+    <ptvctinf>
+      <esriterm Name="NorthAmericanRacerOverallRange11082018">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom code="4" Sync="TRUE">
+        </efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">0</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <mdDateSt Sync="TRUE">20181108</mdDateSt>
+</metadata>
