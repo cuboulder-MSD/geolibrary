@@ -3,7 +3,7 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
    <mods:titleInfo>
-      <mods:title>Colorado Watershed Boundary Dataset (WBD) Hydrologic Unit 10</mods:title>
+      <mods:title>USGS Colorado Watershed Boundary Dataset (WBD) Hydrologic Unit 10</mods:title>
    </mods:titleInfo>
    <mods:typeOfResource>Dataset</mods:typeOfResource>
    <mods:originInfo>
