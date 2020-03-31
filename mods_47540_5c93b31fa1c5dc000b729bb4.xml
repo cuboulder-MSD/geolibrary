@@ -1,8 +1,62 @@
 <?xml version='1.0' encoding='utf8'?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd"><mods:titleInfo><mods:title>Census 2010, Colorado, Current Block Group (2017 revision)</mods:title></mods:titleInfo><mods:typeOfResource>Dataset</mods:typeOfResource><mods:originInfo><mods:dateIssued encoding="w3cdtf">2017</mods:dateIssued><mods:publisher>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</mods:publisher></mods:originInfo><mods:language><mods:languageTerm type="text">English</mods:languageTerm></mods:language><mods:subject valueURI="http://id.worldcat.org/fast/fst01411644"><mods:topic>Census data</mods:topic></mods:subject><mods:subject><mods:cartographics><mods:coordinates>W109.060204,W102.041522,N41.003443999065716,N36.992448999092964</mods:coordinates></mods:cartographics></mods:subject><mods:subject><mods:geographic>United States</mods:geographic></mods:subject><mods:name type="corporate"><mods:namePart>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</mods:namePart><mods:role><mods:roleTerm type="text">creator</mods:roleTerm></mods:role></mods:name><mods:physicalDescription><mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form><mods:internetMediaType>application/octet-stream</mods:internetMediaType></mods:physicalDescription><mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5c93b31fa1c5dc000b729bb4</mods:identifier><mods:abstract>Covers Colorado; 2010 census.
-
-The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.
-
-Block Groups (BGs) are clusters of blocks within the same census tract. Each census tract contains at least one BG, and BGs are uniquely numbered within census tracts.  BGs have a valid code range of 0 through 9. BGs have the same first digit of their 4-digit census block number from the same decennial census.  For example, tabulation blocks numbered 3001, 3002, 3003,.., 3999 within census tract 1210.02 are also within BG 3 within that census tract.  BGs coded 0 are intended to only include water area, no land area, and they are generally in territorial seas, coastal water, and Great Lakes water areas. Block groups generally contain  between 600 and 3,000 people.  A BG usually covers a contiguous area but never crosses county or census tract boundaries. They may, however, cross the boundaries of other geographic entities like county subdivisions, places, urban areas, voting districts, congressional districts, and American Indian / Alaska Native / Native Hawaiian areas. 
-
-The BG boundaries in this release are those that were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP) for the 2010 Census.</mods:abstract><mods:accessCondition type="use and reproduction" xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States.</mods:accessCondition><mods:location><mods:url>https://ark.colorado.edu/ark:47540/5c93b31fa1c5dc000b729bb4</mods:url></mods:location><mods:recordInfo><mods:recordCreationDate encoding="w3cdtf">2019-05-23</mods:recordCreationDate><mods:recordOrigin>Record created using source metadata with additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin><mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource></mods:recordInfo></mods:mods>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods:titleInfo>
+      <mods:title>Census 2010 - Colorado, Current Block Group (2017 revision)</mods:title>
+   </mods:titleInfo>
+   <mods:typeOfResource>Dataset</mods:typeOfResource>
+   <mods:originInfo>
+      <mods:dateIssued encoding="w3cdtf">2017</mods:dateIssued>
+      <mods:publisher>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</mods:publisher>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm type="text">English</mods:languageTerm>
+   </mods:language>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst01411644">
+      <mods:topic>Census data</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:cartographics>
+         <mods:coordinates>W109.060204,W102.041522,N41.003443999065716,N36.992448999092964</mods:coordinates>
+      </mods:cartographics>
+   </mods:subject>
+   <mods:subject>
+      <mods:geographic>United States</mods:geographic>
+   </mods:subject>
+   <mods:name type="corporate">
+      <mods:namePart>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:physicalDescription>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form>
+      <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5c93b31fa1c5dc000b729bb4</mods:identifier>
+   <mods:abstract>Covers Colorado; 2010 census.
+   
+   The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.
+   
+   Block Groups (BGs) are clusters of blocks within the same census tract. Each census tract contains at least one BG, and BGs are uniquely numbered within census tracts.  BGs have a valid code range of 0 through 9. BGs have the same first digit of their 4-digit census block number from the same decennial census.  For example, tabulation blocks numbered 3001, 3002, 3003,.., 3999 within census tract 1210.02 are also within BG 3 within that census tract.  BGs coded 0 are intended to only include water area, no land area, and they are generally in territorial seas, coastal water, and Great Lakes water areas. Block groups generally contain  between 600 and 3,000 people.  A BG usually covers a contiguous area but never crosses county or census tract boundaries. They may, however, cross the boundaries of other geographic entities like county subdivisions, places, urban areas, voting districts, congressional districts, and American Indian / Alaska Native / Native Hawaiian areas. 
+   
+   The BG boundaries in this release are those that were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP) for the 2010 Census.</mods:abstract>
+   <mods:accessCondition type="use and reproduction"
+      xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:location>
+      <mods:url access="object in context">https://geo.colorado.edu/catalog/47540-5c93b31fa1c5dc000b729bb4</mods:url>
+   </mods:location>
+   <mods:relatedItem type="original">
+   <mods:location>
+      <mods:url access="object in context">https://www.census.gov/geographies/mapping-files.html</mods:url>
+   </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="w3cdtf">2019-05-23</mods:recordCreationDate>
+      <mods:recordOrigin>Record created using source metadata with additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+      <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+   </mods:recordInfo>
+</mods:mods>
