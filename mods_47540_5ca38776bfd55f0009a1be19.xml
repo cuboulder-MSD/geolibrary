@@ -1,2 +1,56 @@
 <?xml version='1.0' encoding='utf8'?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd"><mods:titleInfo><mods:title>Colorado DOLA - Soil Conservation Districts</mods:title></mods:titleInfo><mods:typeOfResource>Dataset</mods:typeOfResource><mods:originInfo><mods:dateIssued encoding="w3cdtf">2018-06-06</mods:dateIssued><mods:publisher>Colorado Department of Local Affairs</mods:publisher></mods:originInfo><mods:language><mods:languageTerm type="text">English</mods:languageTerm></mods:language><mods:subject valueURI="http://id.worldcat.org/fast/fst01124331"><mods:topic>Soil conservation districts</mods:topic></mods:subject><mods:subject><mods:cartographics><mods:coordinates>W109.06008182373228,W102.04118301298898,N41.001967526696774,N36.990204361980766</mods:coordinates></mods:cartographics></mods:subject><mods:subject><mods:geographic>United States</mods:geographic></mods:subject><mods:name type="corporate"><mods:namePart>Colorado Department of Local Affairs</mods:namePart><mods:role><mods:roleTerm type="text">creator</mods:roleTerm></mods:role></mods:name><mods:physicalDescription><mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form><mods:internetMediaType>application/octet-stream</mods:internetMediaType></mods:physicalDescription><mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5ca38776bfd55f0009a1be19</mods:identifier><mods:abstract>These data were compiled by the Colorado Department of Local Affairs from data sourced from country governments across the State of Colorado.</mods:abstract><mods:accessCondition type="use and reproduction" xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States.</mods:accessCondition><mods:location><mods:url>https://ark.colorado.edu/ark:47540/5ca38776bfd55f0009a1be19</mods:url></mods:location><mods:recordInfo><mods:recordCreationDate encoding="w3cdtf">2019-05-23</mods:recordCreationDate><mods:recordOrigin>Record created using source metadata with additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin><mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource></mods:recordInfo></mods:mods>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods:titleInfo>
+      <mods:title>Colorado DOLA - Soil Conservation Districts</mods:title>
+   </mods:titleInfo>
+   <mods:typeOfResource>Dataset</mods:typeOfResource>
+   <mods:originInfo>
+      <mods:dateIssued encoding="w3cdtf">2018-06-06</mods:dateIssued>
+      <mods:publisher>Colorado Department of Local Affairs</mods:publisher>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm type="text">English</mods:languageTerm>
+   </mods:language>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst01124331">
+      <mods:topic>Soil conservation districts</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:cartographics>
+         <mods:coordinates>W109.06008182373228,W102.04118301298898,N41.001967526696774,N36.990204361980766</mods:coordinates>
+      </mods:cartographics>
+   </mods:subject>
+   <mods:subject>
+      <mods:geographic>United States</mods:geographic>
+   </mods:subject>
+   <mods:name type="corporate">
+      <mods:namePart>Colorado Department of Local Affairs</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:physicalDescription>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form>
+      <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5ca38776bfd55f0009a1be19</mods:identifier>
+   <mods:abstract>These data were compiled by the Colorado Department of Local Affairs from data sourced from country governments across the State of Colorado.</mods:abstract>
+   <mods:accessCondition type="use and reproduction"
+      xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:location>
+      <mods:url access="object in context">https://geo.colorado.edu/catalog/47540-5ca38776bfd55f0009a1be19</mods:url>
+   </mods:location>
+   <mods:relatedItem type="original">
+   <mods:location>
+      <mods:url access="object in context">https://demography.dola.colorado.gov/gis/</mods:url>
+   </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="w3cdtf">2019-05-23</mods:recordCreationDate>
+      <mods:recordOrigin>Record created using source metadata with additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+      <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+   </mods:recordInfo>
+</mods:mods>
