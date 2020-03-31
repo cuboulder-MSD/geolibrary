@@ -1,2 +1,62 @@
 <?xml version='1.0' encoding='utf8'?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd"><mods:titleInfo><mods:title>COGCC - Field Boundaries</mods:title></mods:titleInfo><mods:typeOfResource>Dataset</mods:typeOfResource><mods:originInfo><mods:dateIssued encoding="w3cdtf">2018-12-12</mods:dateIssued><mods:publisher>Colorado Oil and Gas Conservation Commission</mods:publisher></mods:originInfo><mods:language><mods:languageTerm type="text">English</mods:languageTerm></mods:language><mods:subject valueURI="http://id.worldcat.org/fast/fst01044913"><mods:topic>Oil wells</mods:topic></mods:subject><mods:subject valueURI="http://id.worldcat.org/fast/fst00938462"><mods:topic>Gas wells</mods:topic></mods:subject><mods:subject valueURI="http://id.worldcat.org/fast/fst01074275"><mods:topic>Power resources</mods:topic></mods:subject><mods:subject><mods:cartographics><mods:coordinates>W109.11740925144366,W102.27568937635706,N41.00557624623375,N36.92707488259016</mods:coordinates></mods:cartographics></mods:subject><mods:subject><mods:geographic>United States</mods:geographic></mods:subject><mods:name type="corporate"><mods:namePart>Colorado Oil and Gas Conservation Commission</mods:namePart><mods:role><mods:roleTerm type="text">creator</mods:roleTerm></mods:role></mods:name><mods:physicalDescription><mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form><mods:internetMediaType>application/octet-stream</mods:internetMediaType></mods:physicalDescription><mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5c9e56d919f4c5000a6e96a0</mods:identifier><mods:abstract>The COGCC_Fields layer represents the approximate boundaries of oil and gas fields in Colorado.  These field boundaries are defined by producing and/or plugged and abandoned wells within the field.  The appropriate field designation for each well is decided on a well by well basis by COGCC staff. The COGCC_Fields polygons are updated on a periodic basis using an ArcGIS model that reads the field codes from the COGIS database for each well, groups the wells by field code, and creates a series of buffers around the grouped wells. All field polygons are included in this shapefile with the exception of the Wattenberg Field polygon.  </mods:abstract><mods:accessCondition type="use and reproduction" xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States.</mods:accessCondition><mods:location><mods:url>https://ark.colorado.edu/ark:47540/5c9e56d919f4c5000a6e96a0</mods:url></mods:location><mods:recordInfo><mods:recordCreationDate encoding="w3cdtf">2019-05-23</mods:recordCreationDate><mods:recordOrigin>Record created using source metadata with additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin><mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource></mods:recordInfo></mods:mods>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods:titleInfo>
+      <mods:title>COGCC - Field Boundaries</mods:title>
+   </mods:titleInfo>
+   <mods:typeOfResource>Dataset</mods:typeOfResource>
+   <mods:originInfo>
+      <mods:dateIssued encoding="w3cdtf">2018-12-12</mods:dateIssued>
+      <mods:publisher>Colorado Oil and Gas Conservation Commission</mods:publisher>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm type="text">English</mods:languageTerm>
+   </mods:language>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst01044913">
+      <mods:topic>Oil wells</mods:topic>
+   </mods:subject>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst00938462">
+      <mods:topic>Gas wells</mods:topic>
+   </mods:subject>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst01074275">
+      <mods:topic>Power resources</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:cartographics>
+         <mods:coordinates>W109.11740925144366,W102.27568937635706,N41.00557624623375,N36.92707488259016</mods:coordinates>
+      </mods:cartographics>
+   </mods:subject>
+   <mods:subject>
+      <mods:geographic>United States</mods:geographic>
+   </mods:subject>
+   <mods:name type="corporate">
+      <mods:namePart>Colorado Oil and Gas Conservation Commission</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:physicalDescription>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form>
+      <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5c9e56d919f4c5000a6e96a0</mods:identifier>
+   <mods:abstract>The COGCC_Fields layer represents the approximate boundaries of oil and gas fields in Colorado.  These field boundaries are defined by producing and/or plugged and abandoned wells within the field.  The appropriate field designation for each well is decided on a well by well basis by COGCC staff. The COGCC_Fields polygons are updated on a periodic basis using an ArcGIS model that reads the field codes from the COGIS database for each well, groups the wells by field code, and creates a series of buffers around the grouped wells. All field polygons are included in this shapefile with the exception of the Wattenberg Field polygon.  </mods:abstract>
+   <mods:accessCondition type="use and reproduction"
+      xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:location>
+      <mods:url access="object in context">https://geo.colorado.edu/catalog/47540-5c9e56d919f4c5000a6e96a0</mods:url>
+   </mods:location>
+   <mods:relatedItem type="original">
+   <mods:location>
+      <mods:url access="object in context">https://cogcc.state.co.us/maps.html#/gisonline</mods:url>
+   </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="w3cdtf">2019-05-23</mods:recordCreationDate>
+      <mods:recordOrigin>Record created using source metadata with additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+      <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+   </mods:recordInfo>
+</mods:mods>
