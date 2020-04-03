@@ -1,2 +1,75 @@
 <?xml version='1.0' encoding='utf8'?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd"><mods:titleInfo><mods:title>Colorado Parks &amp; Wildlife - Species Data - Ptarmigan Overall Range</mods:title></mods:titleInfo><mods:name valueURI="http://id.worldcat.org/fast/1978978"><mods:namePart>Colorado Parks &amp; Wildlife</mods:namePart><mods:role><mods:roleTerm type="text">publisher</mods:roleTerm></mods:role></mods:name><mods:name><mods:namePart>Colorado Parks and Wildlife Biologists, District Wildlife Managers, and Researchers.</mods:namePart><mods:role><mods:roleTerm type="text">creator</mods:roleTerm></mods:role></mods:name><mods:typeOfResource>cartographic</mods:typeOfResource><mods:typeOfResource>software, multimedia</mods:typeOfResource><mods:accessCondition type="use and reproduction" xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States.</mods:accessCondition><mods:originInfo><mods:dateCreated encoding="w3cdtf" /><mods:dateIssued encoding="w3cdtf">2018-11-08T00:00:00</mods:dateIssued><mods:place><mods:placeTerm /></mods:place><mods:publisher>Colorado Parks &amp; Wildlife</mods:publisher></mods:originInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst00809468"><mods:topic>Wildlife</mods:topic></mods:subject><mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst01210251"><mods:topic>Colorado</mods:topic></mods:subject><mods:subject><mods:cartographics><mods:coordinates>W109.31,W101.73,N41.19,N36.85</mods:coordinates></mods:cartographics></mods:subject><mods:physicalDescription><mods:digitalOrigin>born digital</mods:digitalOrigin><mods:form authority="LCGFT" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form><mods:note /><mods:internetMediaType>application/octet-stream</mods:internetMediaType></mods:physicalDescription><mods:identifier type="local">./PtarmiganOverallRange11082018.shp.xml</mods:identifier><mods:abstract>This is part of the Natural Diversity Information Source, which provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</mods:abstract><mods:note /><mods:accessCondition type="use and reproduction" xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States.</mods:accessCondition><mods:location><mods:url access="object in context">https://gisftp.colorado.gov/#/State%20Data/DNR/CPW/CPW%20Species%20Data/GIS%20Files/</mods:url></mods:location><mods:recordInfo><mods:recordCreationDate encoding="w3cdtf">2019-10-01</mods:recordCreationDate><mods:recordOrigin>Record created using source metadata and additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin><mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource></mods:recordInfo></mods:mods>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd">
+   <mods:titleInfo>
+      <mods:title>Colorado Parks &amp; Wildlife - Species Data - Ptarmigan Overall Range</mods:title>
+   </mods:titleInfo>
+   <mods:name valueURI="http://id.worldcat.org/fast/1978978">
+      <mods:namePart>Colorado Parks &amp; Wildlife</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">publisher</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Colorado Parks and Wildlife Biologists, District Wildlife Managers, and Researchers.</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:typeOfResource>cartographic</mods:typeOfResource>
+   <mods:typeOfResource>software, multimedia</mods:typeOfResource>
+   <mods:accessCondition type="use and reproduction"
+      xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:originInfo>
+      <mods:dateCreated encoding="w3cdtf"/>
+      <mods:dateIssued encoding="w3cdtf">2018-11-08T00:00:00</mods:dateIssued>
+      <mods:place>
+         <mods:placeTerm/>
+      </mods:place>
+      <mods:publisher>Colorado Parks &amp; Wildlife</mods:publisher>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+   </mods:language>
+   <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst00809468">
+      <mods:topic>Wildlife</mods:topic>
+   </mods:subject>
+   <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst01210251">
+      <mods:topic>Colorado</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:cartographics>
+         <mods:coordinates>W109.31,W101.73,N41.19,N36.85</mods:coordinates>
+      </mods:cartographics>
+   </mods:subject>
+   <mods:physicalDescription>
+      <mods:digitalOrigin>born digital</mods:digitalOrigin>
+      <mods:form authority="LCGFT" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form>
+      <mods:note/>
+      <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:identifier type="local">./PtarmiganOverallRange11082018.shp.xml</mods:identifier>
+   <mods:abstract>This is part of the Natural Diversity Information Source, which provides information on wildlife distributions to public and private agencies and individuals, for environmental assessment, proprietary land management resource planning and general scientific reference.&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This wildlife distribution map is a product and property of Colorado Parks and Wildlife, a division of the Colorado Department of Natural Resources. Care should be taken in interpreting these data. Written documents may accompany this map and should be referenced. The information portrayed on these maps should not replace field studies necessary for more localized planning efforts. The data are gathered at a variety of scales; discrepancies may become apparent at larger scales. The areas portrayed here are graphic representations of phenomena that are difficult to reduce to two dimensions. Animal distributions are fluid; animal populations and their habitats are dynamic.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</mods:abstract>
+   <mods:note/>
+   <mods:accessCondition type="use and reproduction"
+      xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:location>
+      <mods:url access="object in context">https://geo.colorado.edu/catalog/47540-5d794b9c7ddc99000a6ef01f</mods:url>
+   </mods:location>
+   <mods:relatedItem type="original">
+   <mods:location>
+      <mods:url access="object in context"
+         >https://gisftp.colorado.gov/#/State%20Data/DNR/CPW/CPW%20Species%20Data/GIS%20Files/</mods:url>
+   </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="w3cdtf">2019-10-01</mods:recordCreationDate>
+      <mods:recordOrigin>Record created using source metadata and additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+      <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+   </mods:recordInfo>
+</mods:mods>
