@@ -45,7 +45,7 @@
    <mods:location>
       <mods:url access="object in context">https://geo.colorado.edu/catalog/47540-5e711ee5a3d91e000a4fe26e</mods:url>
    </mods:location>
-   <<mods:relatedItem type="original">
+   <mods:relatedItem type="original">
       <mods:location>
          <mods:url access="object in context">https://github.com/Microsoft/USBuildingFootprints</mods:url>
       </mods:location>
