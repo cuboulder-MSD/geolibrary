@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd">
    <mods:titleInfo>
-      <mods:title>Colorado Parks &amp; Wildlife - Species Data - GrSGPPHPGH11082018</mods:title>
+      <mods:title>Colorado Parks &amp; Wildlife - Species Data - Greater Sage Grouse Preliminary Priority Habitat and Preliminary General Habitat</mods:title>
    </mods:titleInfo>
    <mods:name>
       <mods:namePart>Colorado Parks and Wildlife GIS Group, Species Conservation Unit, Biologists, District Wildlife Managers and Researchers</mods:namePart>
