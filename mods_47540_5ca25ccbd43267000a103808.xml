@@ -1,7 +1,5 @@
-<?xml version='1.0' encoding='utf8'?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
    <mods:titleInfo>
       <mods:title>Colorado DOLA - Hospital Districts</mods:title>
    </mods:titleInfo>
@@ -37,15 +35,14 @@
       </mods:role>
    </mods:name>
    <mods:physicalDescription>
-      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
       <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
    </mods:physicalDescription>
    <mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5ca25ccbd43267000a103808</mods:identifier>
    <mods:abstract>Shows hospital district location, name, and contact information. 
    
    Boundaries and district names aggregated for this dataset represent a first version of effort toward an authoritative Statewide Special Districts Dataset. Each was aggregated from thousands of local jurisdictions by the Colorado Department of Local Affairs Demography office. Many of the district boundaries were created from scanned drawings or digitized PDFs, and therefore no guarantee of accuracy can be made for the data. Colorado contains thousands of governmental entities referred to as ’special districts’. Currently there is not a single authoritative source for boundary and/or GIS information of these districts. This project attempts to fill that void. Please note the disclaimer. Since many of these district boundaries trace their origin to scanned drawings or digitized PDFs we can not guarantee the accuracy of the data, and as such, these boundaries should not be seen as an authoritative source of information. The creator (DOLA) and contributors to this project do not guarantee the accuracy of any information presented, are not liable for any errors or omissions and are not responsible for determining fitness for use, either in this map or in its associated data. This data should not be considered an authoritative source of information.</mods:abstract>
-   <mods:accessCondition type="use and reproduction"
-      xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+   <mods:accessCondition type="use and reproduction">The organization that
       has made the Item available believes that the Item is in the Public Domain under the laws of
       the United States.</mods:accessCondition>
    <mods:location>

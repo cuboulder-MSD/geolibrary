@@ -1,8 +1,6 @@
-<?xml version='1.0' encoding='utf8'?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
-   <mods:identifier type="local"/>
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods:identifier type="local" />
    <mods:titleInfo>
       <mods:title>Microsoft - Building Footprints, Lake County, CO</mods:title>
    </mods:titleInfo>
@@ -23,12 +21,6 @@
          <mods:roleTerm type="text">creator</mods:roleTerm>
       </mods:role>
    </mods:name>
-   <mods:name>
-      <mods:namePart>Microsoft Corporation</mods:namePart>
-      <mods:role>
-         <mods:roleTerm type="text">publisher</mods:roleTerm>
-      </mods:role>
-   </mods:name>
    <mods:physicalDescription>
       <mods:digitalOrigin>born digital</mods:digitalOrigin>
       <mods:form authorityURI="http://id.loc.gov" type="material" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
@@ -36,7 +28,7 @@
    </mods:physicalDescription>
    <mods:typeOfResource>cartographic</mods:typeOfResource>
    <mods:typeOfResource>software, multimedia</mods:typeOfResource>
-   <mods:accessCondition/>
+   <mods:accessCondition />
    <mods:abstract>This dataset contains building footprint polygon geometries for Lake County, Colorado.</mods:abstract>
    <mods:accessCondition type="use and reproduction">This data is licensed by Microsoft under the
       Open Data Commons Open Database License (ODbL). You are free to copy, distribute and use the

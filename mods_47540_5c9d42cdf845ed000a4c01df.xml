@@ -1,7 +1,5 @@
-<?xml version='1.0' encoding='utf8'?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
    <mods:titleInfo>
       <mods:title>Colorado DOLA - Field Regions</mods:title>
    </mods:titleInfo>
@@ -31,13 +29,12 @@
       </mods:role>
    </mods:name>
    <mods:physicalDescription>
-      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
       <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
    </mods:physicalDescription>
    <mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5c9d42cdf845ed000a4c01df</mods:identifier>
    <mods:abstract>Colorado Department of Local Affairs Field Regions. This layer was created by dissolving Colorado County boundaries.  The county outlines in this coverage were digitized from the USGS Colorado County topographic series (1979) scale stable 1:50,000 film positive composites.  The digitial boundaries were appended to create the statewide coverage.  Includes the 1989 land transfer between Adams and Denver Counties for Denver International Airport and the 2001 formation of Broomfield County.</mods:abstract>
-   <mods:accessCondition type="use and reproduction"
-      xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+   <mods:accessCondition type="use and reproduction">The organization that
       has made the Item available believes that the Item is in the Public Domain under the laws of
       the United States.</mods:accessCondition>
    <mods:location>

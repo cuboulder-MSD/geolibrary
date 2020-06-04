@@ -1,7 +1,5 @@
-<?xml version='1.0' encoding='utf8'?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
    <mods:titleInfo>
       <mods:title>Census 2010, Colorado, State Legislative District (SLD), Upper Chamber (2017 revision)</mods:title>
    </mods:titleInfo>
@@ -25,13 +23,13 @@
       <mods:geographic>United States</mods:geographic>
    </mods:subject>
    <mods:name type="corporate">
-      <mods:namePart/>
+      <mods:namePart />
       <mods:role>
          <mods:roleTerm type="text">creator</mods:roleTerm>
       </mods:role>
    </mods:name>
    <mods:physicalDescription>
-      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Vector data</mods:form>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
       <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
    </mods:physicalDescription>
    <mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5c9bd5000f55d4000a2d0c5c</mods:identifier>
@@ -40,8 +38,7 @@
    State Legislative Districts (SLDs) are the areas from which members are elected to State legislatures. The SLDs embody the upper (senate) and lower (house) chambers of the state legislature. Nebraska has a unicameral legislature and the District of Columbia has a single council, both of which the Census Bureau treats as upper-chamber legislative areas for the purpose of data presentation; there are no data by SLDL for either Nebraska or the District of Columbia. A unique three-character census code, identified by State participants, is assigned to each SLD within a state. In Connecticut, Illinois, Louisiana, Maine, Maryland, Massachusetts, Michigan, Ohio, and Puerto Rico, the Redistricting Data Program (RDP) participant did not define the SLDs to cover all of the state or state equivalent area. In these areas with no SLDs defined, the code "ZZZ" has been assigned, which is treated as a single SLD for purposes of data presentation.
    
    The boundaries of the 2016 State legislative districts were provided by state-level participants through the RDP and reflect the districts used to elect members in or prior to the November 2016 election.</mods:abstract>
-   <mods:accessCondition type="use and reproduction"
-      xmlns:xlink="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+   <mods:accessCondition type="use and reproduction">The organization that
       has made the Item available believes that the Item is in the Public Domain under the laws of
       the United States.</mods:accessCondition>
    <mods:location>
