@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods:titleInfo>
+      <mods:title>CDOT - Counties</mods:title>
+   </mods:titleInfo>
+   <mods:typeOfResource>Dataset</mods:typeOfResource>
+   <mods:originInfo>
+      <mods:dateIssued encoding="w3cdtf">2013-07-01</mods:dateIssued>
+      <mods:publisher>Colorado Department of Transportation</mods:publisher>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm type="text">English</mods:languageTerm>
+   </mods:language>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst01202159">
+      <mods:topic>Counties</mods:topic>
+   </mods:subject>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst00837076">
+      <mods:topic>Boundaries</mods:topic>
+   </mods:subject>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst01780517">
+      <mods:topic>DemoGraphics</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:cartographics>
+         <mods:coordinates>W109.27969618392459,W101.86884280037229,N41.07046507759252,N36.92639099417344</mods:coordinates>
+      </mods:cartographics>
+   </mods:subject>
+   <mods:subject>
+      <mods:geographic />
+   </mods:subject>
+   <mods:name type="corporate">
+      <mods:namePart>Colorado Department of Transportation</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:physicalDescription>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
+      <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5c8154ce9e30d9000acde042</mods:identifier>
+   <mods:abstract>Features in this dataset represent the boundaries of each county in the State of Colorado. Features are represented by polygon geographic shapes.  As of October, 2009 this dataset carries demographics data.</mods:abstract>
+   <mods:accessCondition type="use and reproduction">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:location>
+      <mods:url access="object in context" />
+   </mods:location>
+   <mods:relatedItem type="original">
+   <mods:location>
+      <mods:url access="object in context">https://www.codot.gov/programs/research/pdfs/by-subject/by-subject-d-k/gis</mods:url>
+   </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="w3cdtf">2019-05-23</mods:recordCreationDate>
+      <mods:recordOrigin>Record created using source metadata with additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+      <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+   </mods:recordInfo>
+</mods:mods>
