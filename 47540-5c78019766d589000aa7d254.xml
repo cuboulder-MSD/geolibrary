@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods:titleInfo>
+      <mods:title>Colorado DNR - Big Game Management Unit Boundaries</mods:title>
+   </mods:titleInfo>
+   <mods:typeOfResource>Dataset</mods:typeOfResource>
+   <mods:originInfo>
+      <mods:dateIssued encoding="w3cdtf">2010-01-27</mods:dateIssued>
+      <mods:publisher>Colorado Department of Natural Resources</mods:publisher>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm type="text">English</mods:languageTerm>
+   </mods:language>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst00831614">
+      <mods:topic>Big game hunting</mods:topic>
+   </mods:subject>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst01175360">
+      <mods:topic>Wildlife management areas</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:cartographics>
+         <mods:coordinates>W109.27957294990348,W101.86879912040519,N41.070427599235735,N36.92389960181354</mods:coordinates>
+      </mods:cartographics>
+   </mods:subject>
+   <mods:subject>
+      <mods:geographic>United States</mods:geographic>
+   </mods:subject>
+   <mods:name type="corporate">
+      <mods:namePart>Colorado Parks and Wildlife</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:physicalDescription>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
+      <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5c78019766d589000aa7d254</mods:identifier>
+   <mods:abstract>This information was derived from the 1:24,000 scale Digital Rastor Graphics (DRG's). Data were digitized on-screen using the Arc/Info module to create a Big Game Management Unit (GMU) polygon coverage. Where available, coincident lines were use from other available data. If these data were available but not at 1:24,000 scale or better, digitizing was done directly from the DRG, with the exception of Hydro Unit (HUC) boundaries, which were pulled from the Division's HUC coverages. Digitizing and attributing were done by the GIS Group of Colorado Parks and Wildlife. Label points have multiple attributes and linear features are attributed with the feature name that makes up that portion of the GMU boundary.</mods:abstract>
+   <mods:accessCondition type="use and reproduction">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:location>
+      <mods:url access="object in context">https://geo.colorado.edu/catalog/47540-5c78019766d589000aa7d254</mods:url>
+   </mods:location>
+   <mods:relatedItem type="original">
+   <mods:location>
+      <mods:url access="object in context">https://www.colorado.gov/pacific/cdss/gis-data-category</mods:url>
+   </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="w3cdtf">2019-05-23</mods:recordCreationDate>
+      <mods:recordOrigin>Record created using source metadata with additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+      <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+   </mods:recordInfo>
+</mods:mods>
