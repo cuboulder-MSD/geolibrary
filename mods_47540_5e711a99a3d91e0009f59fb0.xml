@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods:identifier type="local" />
+   <mods:titleInfo>
+      <mods:title>Microsoft - Building Footprints, Jefferson County, CO</mods:title>
+   </mods:titleInfo>
+   <mods:originInfo>
+      <mods:dateIssued encoding="w3cdtf">2019</mods:dateIssued>
+      <mods:place supplied="yes">
+         <mods:placeTerm authorityURI="http://id.worldcat.org/fast" valueURI="http://id.worldcat.org/fast/1222743">Washington (State)--Redmond</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>Microsoft Corporation</mods:publisher>
+   </mods:originInfo>
+   <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst00840962">
+      <mods:topic>Buildings</mods:topic>
+      <mods:geographic>Colorado--Jefferson County</mods:geographic>
+   </mods:subject>
+   <mods:name type="corporate">
+      <mods:namePart>Microsoft Corporation</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:physicalDescription>
+      <mods:digitalOrigin>born digital</mods:digitalOrigin>
+      <mods:form authorityURI="http://id.loc.gov" type="material" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
+      <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:typeOfResource>cartographic</mods:typeOfResource>
+   <mods:typeOfResource>software, multimedia</mods:typeOfResource>
+   <mods:accessCondition />
+   <mods:abstract>This dataset contains building footprint polygon geometries for Jefferson County, Colorado.</mods:abstract>
+   <mods:accessCondition type="use and reproduction">This data is licensed by Microsoft under the
+      Open Data Commons Open Database License (ODbL). You are free to copy, distribute and use the
+      database; produce works from the database; modify, transform and build upon the
+      database.</mods:accessCondition>
+   <mods:location>
+      <mods:url access="object in context">https://geo.colorado.edu/catalog/47540-5e711a99a3d91e0009f59fb0</mods:url>
+   </mods:location>
+   <mods:relatedItem type="original">
+      <mods:location>
+         <mods:url access="object in context">https://github.com/Microsoft/USBuildingFootprints</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="w3cdtf">2020-03-19</mods:recordCreationDate>
+      <mods:recordOrigin>Metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+      <mods:recordContentSource authorityURI="http://id.worldcat.org/fast" valueURI="http://id.worldcat.org/fast/538295">University of Colorado Boulder Libraries</mods:recordContentSource>
+   </mods:recordInfo>
+<mods:identifier type="ark">https://ark.colorado.edu/ark:4754/5</mods:identifier></mods:mods>

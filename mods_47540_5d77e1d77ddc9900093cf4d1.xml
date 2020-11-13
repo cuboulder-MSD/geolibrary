@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd">
+   <mods:titleInfo>
+      <mods:title>Colorado Parks &amp; Wildlife - Species Data - GrSGPPHPGH11082018</mods:title>
+   </mods:titleInfo>
+   <mods:name>
+      <mods:namePart>Colorado Parks and Wildlife GIS Group, Species Conservation Unit, Biologists, District Wildlife Managers and Researchers</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:typeOfResource>cartographic</mods:typeOfResource>
+   <mods:typeOfResource>software, multimedia</mods:typeOfResource>
+   <mods:accessCondition type="use and reproduction">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:originInfo>
+      <mods:dateCreated encoding="w3cdtf" />
+      <mods:dateIssued encoding="w3cdtf">2004-06-09</mods:dateIssued>
+      <mods:place>
+         <mods:placeTerm />
+      </mods:place>
+      <mods:publisher>Colorado Parks &amp; Wildlife</mods:publisher>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+   </mods:language>
+   <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst01210251">
+      <mods:topic>Colorado</mods:topic>
+   </mods:subject>
+   <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst01103434">
+      <mods:topic>Greater sage grouse</mods:topic>
+   </mods:subject>
+   <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst01210251">
+      <mods:topic>Colorado</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:cartographics>
+         <mods:coordinates>W109.105238,W105.841754,N41.068621,N39.171894</mods:coordinates>
+      </mods:cartographics>
+   </mods:subject>
+   <mods:physicalDescription>
+      <mods:digitalOrigin>born digital</mods:digitalOrigin>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026721">Geospatial data</mods:form>
+      <mods:note />
+      <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:identifier type="local">./GrSGPPHPGH11082018.shp.xml</mods:identifier>
+   <mods:abstract>The priority habitat map and data were developed as part of the BLM National Planning Strategy for Greater sage-grouse. These data provide a biological tool for planning in the event of human development in sage-grouse habitats. These maps depict Priority and General Habitats within occupied range in Colorado.For viewing purposes only. Data should not be edited by any other entity other than the Colorado Park and Wildlife.</mods:abstract>
+   <mods:note />
+   <mods:accessCondition type="use and reproduction">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:location>
+      <mods:url access="object in context">https://geo.colorado.edu/catalog/47540-5d77e1d77ddc9900093cf4d1</mods:url>
+   </mods:location>
+   <mods:relatedItem type="original">
+   <mods:location>
+      <mods:url access="object in context">https://gisftp.colorado.gov/#/State%20Data/DNR/CPW/CPW%20Species%20Data/GIS%20Files/</mods:url>
+   </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="w3cdtf">2019-10-01</mods:recordCreationDate>
+      <mods:recordOrigin>Record created using source metadata and additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+      <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+   </mods:recordInfo>
+<mods:identifier type="ark">https://ark.colorado.edu/ark:4754/5</mods:identifier></mods:mods>

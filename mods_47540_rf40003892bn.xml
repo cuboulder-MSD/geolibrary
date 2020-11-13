@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd">
+    <mods:titleInfo>
+        <mods:title>BLM Colorado Ground Transportation Linear Features Lines (Routes)</mods:title>
+    </mods:titleInfo>
+    <mods:name authority="lcnaf" valueURI="http://id.loc.gov/authorities/names/n80125846">
+        <mods:namePart>U.S. Department of the Interior, Bureau of Land Management (BLM)</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text">publisher</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name authority="lcnaf" valueURI="http://id.loc.gov/authorities/names/n80125846">
+        <mods:namePart>U.S. Department of the Interior, Bureau of Land Management (BLM)</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text">creator</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:typeOfResource>cartographic</mods:typeOfResource>
+    <mods:typeOfResource>software, multimedia</mods:typeOfResource>
+    <mods:accessCondition />
+    <mods:originInfo>
+        <mods:dateCreated encoding="w3cdtf" />
+        <mods:dateIssued encoding="w3cdtf">20200929</mods:dateIssued>
+        <mods:place>
+            <mods:placeTerm>Colorado</mods:placeTerm>
+        </mods:place>
+        <mods:publisher>U.S. Department of Interior, Bureau of Land Management (BLM)</mods:publisher>
+    </mods:originInfo>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:language>
+    <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst01155007">
+        <mods:topic>Transportation</mods:topic>
+    </mods:subject>
+    <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst01098511">
+        <mods:topic>Roads</mods:topic>
+    </mods:subject>
+    <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst01088689">
+        <mods:topic>Routes of travel</mods:topic>
+    </mods:subject>
+    <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/fst01154418">
+        <mods:topic>Trails</mods:topic>
+    </mods:subject>
+    <mods:subject authority="fast" valueURI="http://id.worldcat.org/fast/1210251">
+        <mods:geographic>Colorado</mods:geographic>
+    </mods:subject>
+    <mods:subject>
+        <mods:cartographics>
+            <mods:coordinates>W109.270815,W36.926931,N103.499625,N41.062402</mods:coordinates>
+        </mods:cartographics>
+    </mods:subject>
+    <mods:physicalDescription>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+        <mods:form authority="LCGFT" authorityURI="https://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
+        <mods:note>Esri ArcGIS 10.4.1</mods:note>
+        <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+    </mods:physicalDescription>
+    <mods:identifier type="local">BLM_CO_GTLF_SHP.shp.xml</mods:identifier>
+    <mods:identifier type="ark">https://ark.colorado.edu/ark:/47540/rf40003892bn</mods:identifier>
+    <mods:abstract>A national BLM GTLF data standard is essential for collecting the landscape-scale data necessary to identify management opportunities and challenges that may not be evident when managing smaller land areas. GTLF data not only serve the crucial function of improving BLM transportation planning, but is also invaluable to numerous other BLM programs affected by transportation (e.g. water and air quality, wildlife habitat fragmentation, engineering, realty, cultural resources).The purpose of the GTLF data standard is to help support the BLM mission in a wide spectrum of subject areas. The GTLF data standard will also provide BLM programs with a better understanding of the impact of transportation on their programs. The national GTLF standard allows for the capture of data from the Travel Management Plan (TMP) as well as from observed route usage.BLM Colorado Ground Transportation Linear Features (Roads &amp; Trails)</mods:abstract>
+    <mods:note>These data are provided by BLM "as is" and may contain errors or omissions. The User assumes the entire risk associated with its use of these data and bears all responsibility in determining whether these data are fit for the User's intended use. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived, and both scale and accuracy may vary across the data set. These data may not have the accuracy, resolution, completeness, timeliness, or other characteristics appropriate for applications that potential users of the data may contemplate. The User is encouraged to carefully consider the content of the metadata file associated with these data. These data are neither legal documents nor land surveys, and must not be used as such. Official records may be referenced at most BLM offices. Please report any errors in the data to the BLM office for which it was obtained. The BLM should be cited as the data source in any products derived from these data. Any Users wishing to modify the data should describe the types of modifications they have performed. The User should not misrepresent the data, nor imply that changes made were approved or endorsed by BLM. This information may be updated without notification.</mods:note>
+    <mods:accessCondition ns2:href="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The
+        organization that has made the Item available believes that the Item is in the Public Domain
+        under the laws of the United States, but a determination was not made as to its copyright
+        status under the copyright laws of other countries. The Item may not be in the Public Domain
+        under the laws of other countries. Please refer to the organization that has made the Item
+        available for more information.</mods:accessCondition>
+    
+    <mods:relatedItem type="original">
+        <mods:titleInfo>
+            <mods:title>BLM Colorado Ground Transportation Linear Features Lines (Routes)</mods:title>
+        </mods:titleInfo>
+        <mods:location>
+            <mods:url access="object in context">https://navigator.blm.gov/home</mods:url>
+        </mods:location>
+    </mods:relatedItem>
+    <mods:recordInfo>
+        <mods:recordCreationDate encoding="w3cdtf">2020-11-04</mods:recordCreationDate>
+        <mods:recordOrigin>Record created using source metadata and additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+        <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+    </mods:recordInfo>
+</mods:mods>

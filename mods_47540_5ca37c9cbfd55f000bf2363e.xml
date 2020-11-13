@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods:titleInfo>
+      <mods:title>COGCC - Oil and Gas Locations in Colorado</mods:title>
+   </mods:titleInfo>
+   <mods:typeOfResource>Dataset</mods:typeOfResource>
+   <mods:originInfo>
+      <mods:dateIssued encoding="w3cdtf">2017-05-10</mods:dateIssued>
+      <mods:publisher>Colorado Oil and Gas Conservation Commission</mods:publisher>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm type="text">English</mods:languageTerm>
+   </mods:language>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst01034049">
+      <mods:topic>Natural gas</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:cartographics>
+         <mods:coordinates>W109.27546833971114,W101.87175098462107,N41.05559420192627,N36.92491132541131</mods:coordinates>
+      </mods:cartographics>
+   </mods:subject>
+   <mods:subject>
+      <mods:geographic>United States</mods:geographic>
+   </mods:subject>
+   <mods:name type="corporate">
+      <mods:namePart>Colorado Oil and Gas Conservation Commission</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:physicalDescription>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
+      <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5ca37c9cbfd55f000bf2363e</mods:identifier>
+   <mods:abstract>The Colorado Oil and Gas Conservation Commission (COGCC) 'Oil and Gas Locations' shapefile is made up of over 80,000 oil and gas related locations within the State of Colorado. An oil and gas location is a definable area where an operator has disturbed or intends to disturb the land surface in order to locate an oil and gas facility. The COGCC is the official repository for Colorado oil and gas information.</mods:abstract>
+   <mods:accessCondition type="use and reproduction">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:location>
+      <mods:url access="object in context">https://geo.colorado.edu/catalog/47540-5ca37c9cbfd55f000bf2363e</mods:url>
+   </mods:location>
+   <mods:relatedItem type="original">
+   <mods:location>
+      <mods:url access="object in context">https://cogcc.state.co.us/maps.html#/gisonline</mods:url>
+   </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="w3cdtf">2019-05-23</mods:recordCreationDate>
+      <mods:recordOrigin>Record created using source metadata with additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+      <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+   </mods:recordInfo>
+</mods:mods>

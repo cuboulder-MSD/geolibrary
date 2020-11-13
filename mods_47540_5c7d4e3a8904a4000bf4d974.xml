@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods:titleInfo>
+      <mods:title>U.S. Geographic Names Information System - Hospitals</mods:title>
+   </mods:titleInfo>
+   <mods:typeOfResource>Dataset</mods:typeOfResource>
+   <mods:originInfo>
+      <mods:dateIssued encoding="w3cdtf">2016-10-22</mods:dateIssued>
+      <mods:publisher>U.S. Geological Survey</mods:publisher>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm type="text">English</mods:languageTerm>
+   </mods:language>
+   <mods:subject valueURI="http://id.worldcat.org/fast/fst00961166">
+      <mods:topic>Hospitals</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:cartographics>
+         <mods:coordinates>W108.80447239999995,W102.23494049999994,N40.99407260000004,N37.17322370000005</mods:coordinates>
+      </mods:cartographics>
+   </mods:subject>
+   <mods:subject>
+      <mods:geographic>Colorado</mods:geographic>
+   </mods:subject>
+   <mods:name type="corporate">
+      <mods:namePart>U.S. Geological Survey</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="text">creator</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:physicalDescription>
+      <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
+      <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:identifier type="ark">https://ark.colorado.edu/ark:47540/5c7d4e3a8904a4000bf4d974</mods:identifier>
+   <mods:abstract>U.S. Geographic Names Information System Hospitals represents the Federal standard for geographic nomenclature and contains information about the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories. The U.S. Geological Survey developed the Geographic Names Information System (GNIS) for the U.S. Board on Geographic Names, a Federal inter-agency body chartered by public law to maintain uniform feature name usage throughout the Government and to promulgate standard names to the public.</mods:abstract>
+   <mods:accessCondition type="use and reproduction">The organization that
+      has made the Item available believes that the Item is in the Public Domain under the laws of
+      the United States.</mods:accessCondition>
+   <mods:location>
+      <mods:url access="object in context">https://geo.colorado.edu/catalog/47540-5c7d4e3a8904a4000bf4d974</mods:url>
+   </mods:location>
+   <mods:relatedItem type="original">
+   <mods:location>
+      <mods:url access="object in context">https://www.usgs.gov/products/maps/gis-data</mods:url>
+   </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="w3cdtf">2019-05-23</mods:recordCreationDate>
+      <mods:recordOrigin>Record created using source metadata with additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+      <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+   </mods:recordInfo>
+</mods:mods>
