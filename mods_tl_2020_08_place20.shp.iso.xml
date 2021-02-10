@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd">
+    <mods:titleInfo>
+        <mods:title>Census 2020, Colorado, Place State-based </mods:title>
+    </mods:titleInfo>
+    <mods:name>
+        <mods:namePart>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Spatial Data Collection and Products Branch</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text">publisher</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name authority="fast" valueURI="http://id.worldcat.org/fast/522480">
+        <mods:namePart>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Spatial Data Collection and Products Branch</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text">creator</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:typeOfResource>Dataset</mods:typeOfResource>
+    <mods:originInfo>
+        <mods:dateIssued encoding="w3cdtf">2020</mods:dateIssued>
+        <mods:place>
+            <mods:placeTerm>Washington (D.C.)</mods:placeTerm>
+        </mods:place>
+        <mods:publisher>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Spatial Data Collection and Products Branch</mods:publisher>
+    </mods:originInfo>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:language>
+    <mods:subject>
+        <mods:geographic authority="fast" valueURI="http://id.worldcat.org/fast/1210251">Colorado</mods:geographic>
+    </mods:subject>
+    <mods:subject>
+        <mods:cartographics>
+            <mods:coordinates>W109.060204,W102.041522,N41.003444,N36.992449</mods:coordinates>
+        </mods:cartographics>
+    </mods:subject>
+    <mods:physicalDescription>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+        <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
+        <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+    </mods:physicalDescription>
+    <mods:identifier type="local">tl_2020_08_place20.shp.iso.xml</mods:identifier>
+    <mods:identifier type="ark">https://ark.colorado.edu/ark:/47540/647j4382c922</mods:identifier>
+    <mods:abstract>The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.
+
+The TIGER/Line shapefiles include both incorporated places (legal entities) and census designated places or CDPs (statistical entities).  An incorporated place is established to provide governmental functions for a concentration of people as opposed to a minor civil division (MCD), which generally is created to provide services or administer an area without regard, necessarily, to population.  Places always nest within a state, but may extend across county and county subdivision boundaries.  An incorporated place usually is a city, town, village, or borough, but can have other legal descriptions.  CDPs are delineated for the decennial census as the statistical counterparts of incorporated places.  CDPs are delineated to provide data for settled concentrations of population that are identifiable by name, but are not legally incorporated under the laws of the state in which they are located.  The boundaries for CDPs often are defined in partnership with state, local, and/or tribal officials and usually coincide with visible features or the boundary of an adjacent incorporated place or another legal entity.  CDP boundaries often change from one decennial census to the next with changes in the settlement pattern and development; a CDP with the same name as in an earlier census does not necessarily have the same boundary.  The only population/housing size requirement for CDPs is that they must contain some housing and population.
+
+The boundaries of incorporated places in this shapefile are as of January 1, 2020, as reported through the Census Bureau's Boundary and Annexation Survey (BAS).  The boundaries of CDPs were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP) for the 2020 Census.</mods:abstract>
+    <mods:accessCondition type="use and reproduction"
+        xlink:href="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+        has made the Item available believes that the Item is in the Public Domain under the laws of
+        the United States.</mods:accessCondition>
+    
+    <mods:relatedItem type="original">
+        <mods:location>
+            <mods:url access="object in context"
+                >https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/08_COLORADO/08/</mods:url>
+        </mods:location>
+    </mods:relatedItem>
+    <mods:recordInfo>
+        <mods:recordCreationDate encoding="w3cdtf">2021-01-27</mods:recordCreationDate>
+        <mods:recordOrigin>Record created using source metadata and additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+        <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+    </mods:recordInfo>
+</mods:mods>

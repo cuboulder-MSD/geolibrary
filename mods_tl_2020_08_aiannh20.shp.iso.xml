@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd">
+    <mods:titleInfo>
+        <mods:title>Census 2020, Colorado, American Indian/Alaska Native/Native Hawaiian Areas (AIANNH) State-based</mods:title>
+    </mods:titleInfo>
+    <mods:name>
+        <mods:namePart>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Spatial Data Collection and Products Branch</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text">publisher</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name authority="fast" valueURI="http://id.worldcat.org/fast/522480">
+        <mods:namePart>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Spatial Data Collection and Products Branch</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text">creator</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:typeOfResource>Dataset</mods:typeOfResource>
+    <mods:originInfo>
+        <mods:dateIssued encoding="w3cdtf">2020</mods:dateIssued>
+        <mods:place>
+            <mods:placeTerm>Washington (D.C.)</mods:placeTerm>
+        </mods:place>
+        <mods:publisher>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Spatial Data Collection and Products Branch</mods:publisher>
+    </mods:originInfo>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:language>
+    <mods:subject>
+        <mods:geographic authority="fast" valueURI="http://id.worldcat.org/fast/1210251">Colorado</mods:geographic>
+    </mods:subject>
+    <mods:subject>
+        <mods:topic authority="fast" valueURI="http://id.worldcat.org/fast/970244">Indigenous peoples--Land tenure</mods:topic>
+    </mods:subject>
+    <mods:subject>
+        <mods:cartographics>
+            <mods:coordinates>W109.060204,W102.041522,N41.003444,N36.992449</mods:coordinates>
+        </mods:cartographics>
+    </mods:subject>
+    <mods:physicalDescription>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+        <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
+        <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+    </mods:physicalDescription>
+    <mods:identifier type="local">tl_2020_08_aiannh20.shp.iso.xml</mods:identifier>
+    <mods:identifier type="ark">https://ark.colorado.edu/ark:/47540/kg7n3v0695t7</mods:identifier>
+    <mods:abstract>The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.
+
+The American Indian/Alaska Native/Native Hawaiian (AIANNH) Areas Shapefile includes the following legal entities: federally recognized American Indian reservations and off-reservation trust land areas, state-recognized American Indian reservations, and Hawaiian home lands (HHLs).  The statistical entities included are Alaska Native village statistical areas (ANVSAs), Oklahoma tribal statistical areas (OTSAs), tribal designated statistical areas (TDSAs), and state designated tribal statistical areas (SDTSAs).  Joint use areas are also included in this shapefile refer to areas that are administered jointly and/or claimed by two or more American Indian tribes.  The Census Bureau designates both legal and statistical joint use areas as unique geographic entities for the purpose of presenting statistical data.  Note that tribal subdivisions and Alaska Native Regional Corporations (ANRCs) are additional types of American Indian/Alaska Native areas stored by the Census Bureau, but are displayed in separate shapefiles because of how they fall within the Census Bureau's geographic hierarchy.
+
+The State of Hawaii's Office of Hawaiian Home Lands provides the legal boundaries for the HHLs. The boundaries for ANVSAs, OTSAs, and TDSAs were delineated for the 2020 Census through the Boundary and Annexation Survery (BAS) by participants from the federally recognized tribal governments.  The Bureau of Indian Affairs (BIA) within the U.S. Department of the Interior (DOI) provides the list of federally recognized tribes and only provides legal boundary information when the tribes need supporting records, if a boundary is based on treaty or another document that is historical or open to legal interpretation, or when another tribal, state, or local government challenges the depiction of a reservation or off-reservation trust land.
+
+The boundaries for federally recognized American Indian reservations and off-reservation trust lands are as of January 1, 2020, as reported by the federally recognized tribal governments through the Census Bureau's Boundary and Annexation Survey (BAS).
+
+The boundaries for state-recognized American Indian reservations and for SDTSAs were delineated by a state governor-appointed liaisons for the 2020 Census through the 2020 Participant Statistical Areas Program (PSAP).</mods:abstract>
+    <mods:accessCondition type="use and reproduction"
+        xlink:href="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+        has made the Item available believes that the Item is in the Public Domain under the laws of
+        the United States.</mods:accessCondition>
+    
+    <mods:relatedItem type="original">
+        <mods:location>
+            <mods:url access="object in context"
+                >https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/08_COLORADO/08/</mods:url>
+        </mods:location>
+    </mods:relatedItem>
+    <mods:recordInfo>
+        <mods:recordCreationDate encoding="w3cdtf">2021-01-27</mods:recordCreationDate>
+        <mods:recordOrigin>Record created using source metadata and additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+        <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+    </mods:recordInfo>
+</mods:mods>

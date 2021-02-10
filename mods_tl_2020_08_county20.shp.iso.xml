@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd">
+    <mods:titleInfo>
+        <mods:title>Census 2020, Colorado, 2020 Census County and Equivalent State-based</mods:title>
+    </mods:titleInfo>
+    <mods:name>
+        <mods:namePart>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Spatial Data Collection and Products Branch</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text">publisher</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name authority="fast" valueURI="http://id.worldcat.org/fast/522480">
+        <mods:namePart>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Spatial Data Collection and Products Branch</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text">creator</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:typeOfResource>Dataset</mods:typeOfResource>
+    <mods:originInfo>
+        <mods:dateIssued encoding="w3cdtf">2020</mods:dateIssued>
+        <mods:place>
+            <mods:placeTerm>Washington (D.C.)</mods:placeTerm>
+        </mods:place>
+        <mods:publisher>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Spatial Data Collection and Products Branch</mods:publisher>
+    </mods:originInfo>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:language>
+    <mods:subject>
+        <mods:geographic authority="fast" valueURI="http://id.worldcat.org/fast/1210251">Colorado</mods:geographic>
+    </mods:subject>
+    <mods:subject>
+        <mods:cartographics>
+            <mods:coordinates>W109.060204,W102.041522,N41.003444,N36.992449</mods:coordinates>
+        </mods:cartographics>
+    </mods:subject>
+    <mods:physicalDescription>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+        <mods:form authority="LCGFT" authorityURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</mods:form>
+        <mods:internetMediaType>application/octet-stream</mods:internetMediaType>
+    </mods:physicalDescription>
+    <mods:identifier type="local">tl_2020_08_county20.shp.iso.xml</mods:identifier>
+    <mods:identifier type="ark">https://ark.colorado.edu/ark:/47540/ts754r4117mj</mods:identifier>
+    <mods:abstract>The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.
+
+The primary legal divisions of most states are termed counties.  In Louisiana, these divisions are known as parishes.  In Alaska, which has no counties, the equivalent entities are the organized boroughs, city and boroughs, municipalities, and for the unorganized area, census areas.  The latter are delineated cooperatively for statistical purposes by the State of Alaska and the Census Bureau.  In four states (Maryland, Missouri, Nevada, and Virginia), there are one or more incorporated places that are independent of any county organization and thus constitute primary divisions of their states.  These incorporated places are known as independent cities and are treated as equivalent entities for purposes of data presentation.  The District of Columbia and Guam have no primary divisions, and each area is considered an equivalent entity for purposes of data presentation.  The Census Bureau treats the following entities as equivalents of counties for purposes of data presentation: Municipios in Puerto Rico, Districts and Islands in American Samoa, Municipalities in the Commonwealth of the Northern Mariana Islands, and Islands in the U.S. Virgin Islands.  The entire area of the United States, Puerto Rico, and the Island Areas is covered by counties or equivalent entities.
+
+The boundaries for counties and equivalent entities are as of January 1, 2020, as reported through the Census Bureau's Boundary and Annexation Survey (BAS).</mods:abstract>
+    <mods:accessCondition type="use and reproduction"
+        xlink:href="https://rightsstatements.org/page/NoC-US/1.0/?language=en">The organization that
+        has made the Item available believes that the Item is in the Public Domain under the laws of
+        the United States.</mods:accessCondition>
+    
+    <mods:relatedItem type="original">
+        <mods:location>
+            <mods:url access="object in context"
+                >https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/08_COLORADO/08/</mods:url>
+        </mods:location>
+    </mods:relatedItem>
+    <mods:recordInfo>
+        <mods:recordCreationDate encoding="w3cdtf">2021-01-27</mods:recordCreationDate>
+        <mods:recordOrigin>Record created using source metadata and additional metadata provided by the University of Colorado Boulder Libraries.</mods:recordOrigin>
+        <mods:recordContentSource>University of Colorado Boulder Libraries</mods:recordContentSource>
+    </mods:recordInfo>
+</mods:mods>
